@@ -2,7 +2,7 @@ IPTV
 
 URL Playlist :
 
-https://
+https://tinyurl.com/DamaiItuIndahSekali
 
 Cara Menggunakan :
 
