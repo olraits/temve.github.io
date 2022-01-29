@@ -1,10 +1,13 @@
 IPTV
+
 URL Playlist :
+
 https://
+
 Cara Menggunakan :
 
-Anda bisa mengunduh aplikasi iptv player [Perfect Player].
-Masukkan url playlist pada aplikasi tersebut.
-Jika ada kurangnya mohon maafkan saya.
-Jika ada lebihnya itu rejeki anda.
-Salam WAK WAW
+1. Anda bisa mengunduh aplikasi iptv player [Perfect Player].
+2. Masukkan url playlist pada aplikasi tersebut.
+3. Jika ada kurangnya mohon maafkan saya.
+4. Jika ada lebihnya itu rejeki anda.
+5. Salam WAK WAW
