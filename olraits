@@ -634,6 +634,40 @@ http://iptvstream.xyz:8080/Mcnsi/7210db0d/7450
 #EXTINF:0 group-title="Int'l", B XTRA
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3678
 
+#EXTINF:-1 tvg-logo="xc"group-title="BIAR FIT",SPORTSTV(Turkey)
+https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+#EXTINF:-1 tvg-logo="xc"group-title="BIAR FIT",Japan_sports1
+http://50.7.74.29:8880/hls/j00042/index.m3u8
+#EXTINF:-1 tvg-logo="xc"group-title="BIAR FIT",Japan_sports2
+http://50.7.74.29:8880/hls/j00040/index.m3u8
+#EXTINF:-1 tvg-logo="xc"group-title="BIAR FIT",Japan_sports3
+http://50.7.74.29:8880/hls/j00041/index.m3u8
+#EXTINF:-1 tvg-logo="xc"group-title="BIAR FIT",Japan_sports4
+http://50.7.74.29:8880/hls/j00039/index.m3u8
+
+#EXTINF:-1 tvg-logo="xc"group-title="BIAR FIT",AstroSport3
+http://64.227.180.219/vollyball/index.m3u8
+#EXTINF:-1 tvg-logo="xc"group-title="BIAR FIT",StarSport select1
+http://103.166.253.222/hls/stersports1hd.m3u8
+#EXTINF:-1 tvg-logo="xc"group-title="BIAR FIT",StarSport select2
+http://live.flixhub.net/hls/select2.m3u8
+#EXTINF:-1 tvg-logo="xc"group-title="BIAR FIT",Total Sports
+http://cdn1.bmstudiopk.com:1935/totalsports/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="xc"group-title="BIAR FIT",PTV SPORTS
+http://221.120.204.4/LOCKLE-PTV-SPORTS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="xc"group-title="BIAR FIT",A SPORTS
+http://221.120.204.4/LOCKLE-A-SPORTS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="xc"group-title="BIAR FIT",ESR eSports network
+https://eyeonesports.com/ES2RA-628g.m3u8
+#EXTINF:-1 tvg-logo="xc"group-title="BIAR FIT",SonyTen1
+http://103.166.253.222/hls/sonyten1.m3u8
+#EXTINF:-1 tvg-logo="xc"group-title="BIAR FIT",SonyTen2
+http://103.166.253.222/hls/sonyten2.m3u8
+#EXTINF:-1 tvg-logo="xc"group-title="BIAR FIT",SonyTen3
+http://103.166.253.222/hls/sonyten3.m3u8
+#EXTINF:-1 tvg-logo="xc"group-title="BIAR FIT",SonySix
+http://103.166.253.222/hls/sonysix.m3u8
+
 #EXTINF:-1,Yowesss2
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=68d30a9594728bc39aa24be94b319d21268ef7e5a44f541a7cbde7626ef57566
 #EXTINF:-1,ARF TV
