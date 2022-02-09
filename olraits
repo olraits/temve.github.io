@@ -433,6 +433,115 @@ http://urtv.cc:80/titi3/titi3/8885
 #EXTINF:-1, group-title=MLS. FS 1
 http://urtv.cc:80/titi3/titi3/9003
 
+#EXTINF:-1 tvg-logo="air"group-title="anyar",Indosiar
+https://tvnid.wapgem.com/vidio/master.m3u8
+#EXTINF:-1 tvg-logo="air"group-title="anyar",CitraBioskop
+https://tvnid.wapgem.com/vidio/master-1.m3u8
+#EXTINF:-1 tvg-logo="air"group-title="anyar",CitraDrama
+https://tvnid.wapgem.com/vidio/master-2.m3u8
+#EXTINF:-1 tvg-logo="air"group-title="anyar",LFCTV
+https://tvnid.wapgem.com/vidio/master-3.m3u8
+#EXTINF:-1 tvg-logo="air"group-title="anyar",HIP2HOREE
+https://tvnid.wapgem.com/vidio/master-4.m3u8
+#EXTINF:-1 tvg-logo="air"group-title="anyar",Horee
+https://tvnid.wapgem.com/vidio/master-5.m3u8
+#EXTINF:-1 tvg-logo="air"group-title="anyar",CitraMuslim
+https://tvnid.wapgem.com/vidio/master-9.m3u8
+#EXTINF:-1 tvg-logo="air"group-title="anyar",CitraDangdut
+https://tvnid.wapgem.com/vidio/master-10.m3u8
+#EXTINF:-1 tvg-logo="air"group-title="anyar",CitraEntertainmend
+https://tvnid.wapgem.com/vidio/master-11.m3u8
+#EXTINF:-1 tvg-logo="air"group-title="anyar",AnTv
+https://tvnid.wapgem.com/vidio/master-12.m3u8
+#EXTINF:-1 tvg-logo="air"group-title="anyar",TvOne
+https://tvnid.wapgem.com/vidio/master-13.m3u8
+#EXTINF:-1 tvg-logo="air"group-title="anyar",PramborFM
+https://tvnid.wapgem.com/vidio/master-14.m3u8
+
+#EXTINF:-1 tvg-logo="air"group-title="anyar",RCTI_plus(dec=native)
+https://lnk.ec/RCTIplus?sy.m3u8
+#EXTINF:-1 tvg-logo="air"group-title="anyar",MNCTV_plus(dec=native)
+https://lnk.ec/MNCTVplus?sy.m3u8
+#EXTINF:-1 tvg-logo="air"group-title="anyar",INEWS_plus(dec=native)
+https://lnk.ec/INEWSplus?sy.m3u8
+#EXTINF:-1 tvg-logo="air"group-title="anyar",GTV_plus(dec=native)
+https://lnk.ec/GTVplus?sy.m3u8
+
+#EXTINF:-1 tvg-logo="air"group-title="anyar",RANStv
+https://iptv.mwafa.net/vidio/8241/index.m3u8?token=1999
+#EXTINF:-1 tvg-logo="air"group-title="anyar",SCTV
+https://iptv.mwafa.net/vidio/204/index.m3u8?token=1999
+#EXTINF:-1 tvg-logo="air"group-title="anyar",Kompastv
+https://iptv.mwafa.net/vidio/874/index.m3u8?token=1999
+
+#EXTINF:-1 tvg-logo="air"group-title="anyar",Trans7
+https://iptv.mwafa.net/vidio/734/index.m3u8?token=1999
+
+#EXTINF:-1 tvg-logo="air"group-title="anyar",TransTV
+https://iptv.mwafa.net/vidio/733/index.m3u8?token=1999
+
+#EXTINF:-1 tvg-logo="air"group-title="anyar",Rtv
+https://iptv.mwafa.net/vidio/1561/index.m3u8?token=1999
+
+#EXTINF:-1 tvg-logo="air"group-title="anyar",Daitv
+https://iptv.mwafa.net/vidio/6482/index.m3u8?token=1999
+
+#EXTINF:-1 tvg-logo="air"group-title="anyar",ntv 
+https://iptv.mwafa.net/vidio/7432/index.m3u8?token=1999
+
+#EXTINF:-1 tvg-logo="air"group-title="anyar",Jaktv
+https://iptv.mwafa.net/vidio/5415/index.m3u8?token=1999
+
+#EXTINF:-1 tvg-logo="air"group-title="anyar",Mytv
+https://iptv.mwafa.net/vidio/6711/index.m3u8?token=1999
+
+#EXTINF:-1 tvg-logo="air"group-title="anyar",Indosiar
+https://iptv.mwafa.net/vidio/205/index.m3u8?token=1999
+
+#EXTINF:-1 tvg-logo="air"group-title="anyar",O channel
+https://iptv.mwafa.net/vidio/206/index.m3u8?token=1999
+
+#EXTINF:-1 tvg-logo="air"group-title="anyar",TVRI
+https://iptv.mwafa.net/vidio/6441/index.m3u8?token=1999
+
+#EXTINF:-1 tvg-logo="air"group-title="anyar",Ajwa tv
+https://iptv.mwafa.net/vidio/7464/index.m3u8?token=1999
+
+#EXTINF:-1 tvg-logo="air"group-title="anyar",Alquran Kareem
+https://iptv.mwafa.net/vidio/6852/index.m3u8?token=1999
+
+#EXTINF:-1 tvg-logo="air"group-title="anyar",Metro tv
+https://iptv.mwafa.net/vidio/777/index.m3u8?token=1999
+#EXTINF:-1 tvg-logo="air"group-title="anyar",Jak tv
+https://iptv.mwafa.net/vidio/5415/index.m3u8?token=1999
+
+#EXTINF:-1 tvg-logo="air"group-title="anyar",Net
+https://iptv.mwafa.net/vidio/875/index.m3u8?token=1999
+
+#EXTINF:-1 tvg-logo="air"group-title="anyar",I news
+https://iptv.mwafa.net/vidio/5409/index.m3u8?token=1999
+
+#EXTINF:-1 tvg-logo="air"group-title="anyar",O shop
+https://iptv.mwafa.net/vidio/6166/index.m3u8?token=1999
+
+#EXTINF:-1 tvg-logo="air"group-title="anyar",DW
+https://iptv.mwafa.net/vidio/5075/index.m3u8?token=1999
+
+#EXTINF:-1 tvg-logo="air"group-title="anyar",Tv edukasi
+https://iptv.mwafa.net/vidio/6838/index.m3u8?token=1999
+
+#EXTINF:-1 tvg-logo="air"group-title="anyar",Rtv
+https://iptv.mwafa.net/vidio/1561/index.m3u8?token=1999
+
+#EXTINF:-1 tvg-logo="air"group-title="anyar",Berita satu
+https://iptv.mwafa.net/vidio/6165/index.m3u8?token=1999
+
+#EXTINF:-1 tvg-logo="air"group-title="anyar",Reformed21
+https://iptv.mwafa.net/vidio/6853/index.m3u8?token=1999
+
+#EXTINF:-1 tvg-logo="air"group-title="anyar",U Channel
+https://iptv.mwafa.net/vidio/6898/index.m3u8?token=1999
+
 #EXTINF:-1 tvg-logo="xxx"group-title="East Stories",IPFoxMovies Arabic
 http://red.ipfox.org:8080/1234/12345678/8
 #EXTINF:-1 tvg-logo="xxx"group-title="East Stories",IPFoxMovies Classic
