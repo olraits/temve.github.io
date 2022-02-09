@@ -286,6 +286,158 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIMalukuamb
 #EXTINF:0 group-title="National", TVRI PAPUA
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIPapua)/index.m3u8
 
+#EXTM3U
+#EXTINF:-1, group-title=MLS. === ASTRO SPORTS ===
+http://urtv.cc:80/titi3/titi3/7214
+#EXTINF:-1, group-title=MLS. ASTRO Arena HD
+http://urtv.cc:80/titi3/titi3/6707
+#EXTINF:-1, group-title=MLS. Arena 2
+http://urtv.cc:80/titi3/titi3/9028
+#EXTINF:-1, group-title=MLS. ASTRO SUPERSPORT HD
+http://urtv.cc:80/titi3/titi3/6708
+#EXTINF:-1, group-title=MLS. ASSP 1
+http://urtv.cc:80/titi3/titi3/9024
+#EXTINF:-1, group-title=MLS. ASTRO SUPERSPORT 2 HD
+http://urtv.cc:80/titi3/titi3/6710
+#EXTINF:-1, group-title=MLS. ASSP 2
+http://urtv.cc:80/titi3/titi3/9025
+#EXTINF:-1, group-title=MLS. ASTRO SUPERSPORT 3 HD
+http://urtv.cc:80/titi3/titi3/6711
+#EXTINF:-1, group-title=MLS. ASSP 3 (LIVE EPL ONLY)
+http://urtv.cc:80/titi3/titi3/9020
+#EXTINF:-1, group-title=MLS. ASTRO SUPERSPORT 4 HD
+http://urtv.cc:80/titi3/titi3/6712
+#EXTINF:-1, group-title=MLS. ASSP 4
+http://urtv.cc:80/titi3/titi3/9026
+#EXTINF:-1, group-title=MLS. Astro Supersport 5
+http://urtv.cc:80/titi3/titi3/9029
+#EXTINF:-1, group-title=MLS. FOX Sports HD
+http://urtv.cc:80/titi3/titi3/6793
+#EXTINF:-1, group-title=MLS. ASTRO Cricket
+http://urtv.cc:80/titi3/titi3/6717
+#EXTINF:-1, group-title=MLS. beIN Sports
+http://urtv.cc:80/titi3/titi3/6749
+#EXTINF:-1, group-title=MLS. beIN MAX
+http://urtv.cc:80/titi3/titi3/6748
+#EXTINF:-1, group-title=MLS. beIN MAX 2
+http://urtv.cc:80/titi3/titi3/7195
+#EXTINF:-1, group-title=MLS. WWE Network
+http://urtv.cc:80/titi3/titi3/6849
+#EXTINF:-1, group-title=MLS. Rugby Pass TV
+http://urtv.cc:80/titi3/titi3/6821
+#EXTINF:-1, group-title=MLS. Golf Channel HD
+http://urtv.cc:80/titi3/titi3/6796
+#EXTINF:-1, group-title=MLS. ====== TSN ======
+http://urtv.cc:80/titi3/titi3/8969
+#EXTINF:-1, group-title=MLS. TSN 1
+http://urtv.cc:80/titi3/titi3/8923
+#EXTINF:-1, group-title=MLS. TSN 2
+http://urtv.cc:80/titi3/titi3/8924
+#EXTINF:-1, group-title=MLS. TSN 4
+http://urtv.cc:80/titi3/titi3/8926
+#EXTINF:-1, group-title=MLS. TSN 3
+http://urtv.cc:80/titi3/titi3/8925
+#EXTINF:-1, group-title=MLS. === DSTV Supersport ===
+http://urtv.cc:80/titi3/titi3/7215
+#EXTINF:-1, group-title=MLS. DSTV: SuperSport Grandstand
+http://urtv.cc:80/titi3/titi3/6572
+#EXTINF:-1, group-title=MLS. DSTV: SuperSport PSL
+http://urtv.cc:80/titi3/titi3/6573
+#EXTINF:-1, group-title=MLS. DSTV: SuperSport Premier League
+http://urtv.cc:80/titi3/titi3/6574
+#EXTINF:-1, group-title=MLS. DSTV: SuperSport La Liga
+http://urtv.cc:80/titi3/titi3/6575
+#EXTINF:-1, group-title=MLS. DSTV: SuperSport Football
+http://urtv.cc:80/titi3/titi3/6576
+#EXTINF:-1, group-title=MLS. DSTV: SuperSport Variety 1
+http://urtv.cc:80/titi3/titi3/6577
+#EXTINF:-1, group-title=MLS. DSTV: SuperSport Variety 2
+http://urtv.cc:80/titi3/titi3/6578
+#EXTINF:-1, group-title=MLS. DSTV: SuperSport Variety 3
+http://urtv.cc:80/titi3/titi3/6579
+#EXTINF:-1, group-title=MLS. DSTV: SuperSport Variety 4
+http://urtv.cc:80/titi3/titi3/6580
+#EXTINF:-1, group-title=MLS. DSTV: SuperSport Cricket
+http://urtv.cc:80/titi3/titi3/6583
+#EXTINF:-1, group-title=MLS. DSTV: Supersport Blitz
+http://urtv.cc:80/titi3/titi3/6584
+#EXTINF:-1, group-title=MLS. DSTV: SuperSport MáXimo
+http://urtv.cc:80/titi3/titi3/6585
+#EXTINF:-1, group-title=MLS. DSTV: SuperSport Rugby
+http://urtv.cc:80/titi3/titi3/6582
+#EXTINF:-1, group-title=MLS. DSTV: SuperSport Action
+http://urtv.cc:80/titi3/titi3/6581
+#EXTINF:-1, group-title=MLS. DSTV: SuperSport Motorsport
+http://urtv.cc:80/titi3/titi3/7142
+#EXTINF:-1, group-title=MLS. DSTV: SuperSport Tennis
+http://urtv.cc:80/titi3/titi3/7143
+#EXTINF:-1, group-title=MLS. DSTV: SuperSport WWE
+http://urtv.cc:80/titi3/titi3/7144
+#EXTINF:-1, group-title=MLS. DSTV: SuperSport Golf
+http://urtv.cc:80/titi3/titi3/7145
+#EXTINF:-1, group-title=MLS. BeIN Sport 1
+http://urtv.cc:80/titi3/titi3/6597
+#EXTINF:-1, group-title=MLS. BeIN Sport 2
+http://urtv.cc:80/titi3/titi3/6598
+#EXTINF:-1, group-title=MLS. BeIN Sport 13
+http://urtv.cc:80/titi3/titi3/6609
+#EXTINF:-1, group-title=MLS. === BT SPORT ===
+http://urtv.cc:80/titi3/titi3/7218
+#EXTINF:-1, group-title=MLS. BT Sport 1
+http://urtv.cc:80/titi3/titi3/6610
+#EXTINF:-1, group-title=MLS. BT Sport 2
+http://urtv.cc:80/titi3/titi3/6611
+#EXTINF:-1, group-title=MLS. BT Sport 3
+http://urtv.cc:80/titi3/titi3/6612
+#EXTINF:-1, group-title=MLS. BT Sport ESPN
+http://urtv.cc:80/titi3/titi3/6613
+#EXTINF:-1, group-title=MLS. UK: Premier Sports 1
+http://urtv.cc:80/titi3/titi3/7112
+#EXTINF:-1, group-title=MLS. UK: Premier Sports 2
+http://urtv.cc:80/titi3/titi3/7113
+#EXTINF:-1, group-title=MLS. === SKY SPORTS ===
+http://urtv.cc:80/titi3/titi3/7217
+#EXTINF:-1, group-title=MLS. UK: Sky Sports News
+http://urtv.cc:80/titi3/titi3/6614
+#EXTINF:-1, group-title=MLS. UK: Sky Sports Arena
+http://urtv.cc:80/titi3/titi3/6615
+#EXTINF:-1, group-title=MLS. UK: Sky Sports F1
+http://urtv.cc:80/titi3/titi3/6617
+#EXTINF:-1, group-title=MLS. UK: Sky Sports Golf
+http://urtv.cc:80/titi3/titi3/6618
+#EXTINF:-1, group-title=MLS. UK: Sky Sports Football
+http://urtv.cc:80/titi3/titi3/6620
+#EXTINF:-1, group-title=MLS. UK: Sky Sports Premier League
+http://urtv.cc:80/titi3/titi3/6621
+#EXTINF:-1, group-title=MLS. UK: Sky Sports Cricket
+http://urtv.cc:80/titi3/titi3/6619
+#EXTINF:-1, group-title=MLS. UK: Sky Sports Racing
+http://urtv.cc:80/titi3/titi3/7114
+#EXTINF:-1, group-title=MLS. UK: Sky Sports Main Event
+http://urtv.cc:80/titi3/titi3/7115
+#EXTINF:-1, group-title=MLS. UK: Sky Sports Mix
+http://urtv.cc:80/titi3/titi3/7116
+#EXTINF:-1, group-title=MLS. MUTV
+http://urtv.cc:80/titi3/titi3/7236
+#EXTINF:-1, group-title=MLS. LFC TV
+http://urtv.cc:80/titi3/titi3/7237
+#EXTINF:-1, group-title=MLS. UFC
+http://urtv.cc:80/titi3/titi3/7259
+#EXTINF:-1, group-title=MLS. UFC PPV Early Prelims
+http://urtv.cc:80/titi3/titi3/7260
+#EXTINF:-1, group-title=MLS. UFC PPV Prelims
+http://urtv.cc:80/titi3/titi3/7261
+#EXTINF:-1, group-title=MLS. UFC PPV Main Card
+http://urtv.cc:80/titi3/titi3/7262
+#EXTINF:-1, group-title=MLS. PPV Boxing
+http://urtv.cc:80/titi3/titi3/7263
+#EXTINF:-1, group-title=MLS. LowBW UFC PPV Main Card
+http://urtv.cc:80/titi3/titi3/7265
+#EXTINF:-1, group-title=MLS. ====== EURO 2020 ======
+http://urtv.cc:80/titi3/titi3/8885
+#EXTINF:-1, group-title=MLS. FS 1
+http://urtv.cc:80/titi3/titi3/9003
+
 #EXTINF:0 group-title="Int'l", ROCK EXTREME
 http://playlist.urfan.web.id/dr9445/h/h15/01.m3u8
 
