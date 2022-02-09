@@ -433,6 +433,97 @@ http://urtv.cc:80/titi3/titi3/8885
 #EXTINF:-1, group-title=MLS. FS 1
 http://urtv.cc:80/titi3/titi3/9003
 
+#EXTINF:-1 tvg-logo="xxx"group-title="East Stories",IPFoxMovies Arabic
+http://red.ipfox.org:8080/1234/12345678/8
+#EXTINF:-1 tvg-logo="xxx"group-title="East Stories",IPFoxMovies Classic
+http://red.ipfox.org:8080/1234/12345678/9
+#EXTINF:-1 tvg-logo="xxx"group-title="East Stories",IPFoxMovies Action
+http://red.ipfox.org:8080/1234/12345678/7
+#EXTINF:-1 tvg-logo="xxx"group-title="East Stories",IPFoxMovies Comedy
+http://red.ipfox.org:8080/1234/12345678/11
+#EXTINF:-1 tvg-logo="xxx"group-title="East Stories",IPFoxMovies Drama
+http://red.ipfox.org:8080/1234/12345678/12
+#EXTINF:-1 tvg-logo="xxx"group-title="East Stories",IPFoxMovies Horror
+http://red.ipfox.org:8080/1234/12345678/13
+#EXTINF:-1 tvg-logo="xxx"group-title="East Stories",IPFoxMovies Kids
+http://red.ipfox.org:8080/1234/12345678/14
+#EXTINF:-1 tvg-logo="xxx"group-title="East Stories",IPFoxMovies Thriller
+http://red.ipfox.org:8080/1234/12345678/15
+#EXTINF:-1 tvg-logo="xxx"group-title="East Stories",BoxCLASSIC
+http://red.ipfox.org:8080/1234/12345678/30471
+#EXTINF:-1 tvg-logo="xxx"group-title="East Stories",BoxACTION 1
+http://red.ipfox.org:8080/1234/12345678/30474
+#EXTINF:-1 tvg-logo="xxx"group-title="East Stories",BoxACTION 2
+http://red.ipfox.org:8080/1234/12345678/30473
+#EXTINF:-1 tvg-logo="xxx"group-title="East Stories",BoxHORROR
+http://red.ipfox.org:8080/1234/12345678/30472
+#EXTINF:-1 tvg-logo="xxx"group-title="East Stories",Majestic Horror
+http://red.ipfox.org:8080/1234/12345678/31944
+#EXTINF:-1 tvg-logo="xxx"group-title="East Stories",Majestic Action
+http://red.ipfox.org:8080/1234/12345678/31942
+#EXTINF:-1 tvg-logo="xxx"group-title="East Stories",Majestic Romance
+http://red.ipfox.org:8080/1234/12345678/31941
+
+#EXTINF:-1 tvg-logo="East Stories"group-title="East Stories",Cine11
+http://red.ipfox.org:8080/1234/12345678/31918
+#EXTINF:-1 tvg-logo="East Stories"group-title="East Stories",Cine12
+http://red.ipfox.org:8080/1234/12345678/31917
+#EXTINF:-1 tvg-logo="East Stories"group-title="East Stories",Cine13
+http://red.ipfox.org:8080/1234/12345678/31916
+#EXTINF:-1 tvg-logo="East Stories"group-title="East Stories",Cine14
+http://red.ipfox.org:8080/1234/12345678/31915
+#EXTINF:-1 tvg-logo="East Stories"group-title="East Stories",Cine15
+http://red.ipfox.org:8080/1234/12345678/31914
+#EXTINF:-1 tvg-logo="East Stories"group-title="East Stories",Cine16
+http://red.ipfox.org:8080/1234/12345678/31913
+#EXTINF:-1 tvg-logo="East Stories"group-title="East Stories",Cine17
+http://red.ipfox.org:8080/1234/12345678/31912
+#EXTINF:-1 tvg-logo="East Stories"group-title="East Stories",Cine18
+http://red.ipfox.org:8080/1234/12345678/31911
+#EXTINF:-1 tvg-logo="East Stories"group-title="East Stories",Cine19
+http://red.ipfox.org:8080/1234/12345678/31910
+#EXTINF:-1 tvg-logo="East Stories"group-title="East Stories",Cine110
+http://red.ipfox.org:8080/1234/12345678/31909
+#EXTINF:-1 tvg-logo="East Stories"group-title="East Stories",Cine1Action 1
+http://red.ipfox.org:8080/1234/12345678/31908
+#EXTINF:-1 tvg-logo="East Stories"group-title="East Stories",Cine1Action 2
+http://red.ipfox.org:8080/1234/12345678/31907
+#EXTINF:-1 tvg-logo="East Stories"group-title="East Stories",Cine1Cartoon 1
+http://red.ipfox.org:8080/1234/12345678/31906
+#EXTINF:-1 tvg-logo="East Stories"group-title="East Stories",Cine1Cartoon 2
+http://red.ipfox.org:8080/1234/12345678/31905
+#EXTINF:-1 tvg-logo="East Stories"group-title="East Stories",Cine1Sci-Fi
+http://red.ipfox.org:8080/1234/12345678/31904
+#EXTINF:-1 tvg-logo="East Stories"group-title="East Stories",Cine1Romance 1
+http://red.ipfox.org:8080/1234/12345678/31903
+#EXTINF:-1 tvg-logo="East Stories"group-title="East Stories",Cine1Romance 2
+http://red.ipfox.org:8080/1234/12345678/31902
+#EXTINF:-1 tvg-logo="East Stories"group-title="East Stories",Cine1Horror 1
+http://red.ipfox.org:8080/1234/12345678/31901
+#EXTINF:-1 tvg-logo="East Stories"group-title="East Stories",Cine1Horror 2
+http://red.ipfox.org:8080/1234/12345678/31900
+
+#EXTINF:-1 tvg-logo="xxx"group-title="East Cine",showme1
+http://red.ipfox.org:8080/1234/12345678/31899
+#EXTINF:-1 tvg-logo="xxx"group-title="East Cine",showme2
+http://red.ipfox.org:8080/1234/12345678/31898
+#EXTINF:-1 tvg-logo="xxx"group-title="East Cine",showme3
+http://red.ipfox.org:8080/1234/12345678/31897
+#EXTINF:-1 tvg-logo="xxx"group-title="East Cine",showme4
+http://red.ipfox.org:8080/1234/12345678/31896
+#EXTINF:-1 tvg-logo="xxx"group-title="East Cine",showme5
+http://red.ipfox.org:8080/1234/12345678/31895
+#EXTINF:-1 tvg-logo="xxx"group-title="East Cine",showme6
+http://red.ipfox.org:8080/1234/12345678/31894
+#EXTINF:-1 tvg-logo="xxx"group-title="East Cine",showme7
+http://red.ipfox.org:8080/1234/12345678/31893
+#EXTINF:-1 tvg-logo="xxx"group-title="East Cine",showme8
+http://red.ipfox.org:8080/1234/12345678/31892
+#EXTINF:-1 tvg-logo="xxx"group-title="East Cine",showme9
+http://red.ipfox.org:8080/1234/12345678/31891
+#EXTINF:-1 tvg-logo="xxx"group-title="East Cine",showtime10
+http://red.ipfox.org:8080/1234/12345678/31890
+
 #EXTINF:0 group-title="Int'l", BLUE ANT ENTERTAINMENT
 https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
 
