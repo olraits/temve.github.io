@@ -184,17 +184,12 @@ http://202.150.172.34:4000/play/bbstvjktt2
 #EXTINF:0 group-title="National", BN TV
 http://202.150.172.34:4000/play/bntvt2
 
-#EXTINF:0 group-title="National", MYTV
-https://iptv.mwafa.net/vidio/6711/index.m3u8?token=1999
-
 #EXTINF:0 group-title="National", TVMU
 http://202.150.172.34:4000/play/tvmut2
 
 #EXTINF:0 group-title="National", TVKU
 http://103.30.1.14:8080/hls/live.m3u8
 
-#EXTINF:0 group-title="Int'l", LIFESTYLE
-http://playlist.urfan.web.id/dr9445/h/h28/01.m3u8
 
 #EXTINF:0 group-title="National", TVRI NASIONAL
 https://dl.dropbox.com/s/l5j2hh2e45y650w/3f58825fe229a8f.m3u8
@@ -438,275 +433,17 @@ http://urtv.cc:80/titi3/titi3/8885
 #EXTINF:-1, group-title=MLS. FS 1
 http://urtv.cc:80/titi3/titi3/9003
 
-#EXTINF:0 group-title="Int'l", ROCK EXTREME
-http://playlist.urfan.web.id/dr9445/h/h15/01.m3u8
-
-#EXTINF:0 group-title="Int'l", ROCK ENTERTAINMENT
-http://playlist.urfan.web.id/dr9445/h/h16/01.m3u8
-
-#EXTINF:0 group-title="Int'l", K+
-http://playlist.urfan.web.id/uq2663/h/h08/01.m3u8
-
-#EXTINF:0 group-title="Int'l", GEM
-http://playlist.urfan.web.id/uq2663/h/h19/01.m3u8
-
-#EXTINF:0 group-title="Int'l", KIX
-http://playlist.urfan.web.id/dr9445/h/h07/01.m3u8
-
-#EXTINF:0 group-title="Int'l", EGG NETWORK
-http://playlist.urfan.web.id/uq2663/h/h22/01.m3u8
-
 #EXTINF:0 group-title="Int'l", BLUE ANT ENTERTAINMENT
 https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0 group-title="Int'l", ARIRANG
 https://cubmu.superzap.xyz:8279/arirang/playlist.m3u8
 
-#EXTINF:0 group-title="Int'l", ONE
-http://playlist.urfan.web.id/uq2663/h/h143/01.m3u8
-
-#EXTINF:0 group-title="Int'l", NHK WORLD JAPAN
-http://playlist.urfan.web.id/uq2663/h/h23/01.m3u8
-
-#EXTINF:0 group-title="Int'l", CCTV 4
-http://playlist.urfan.web.id/qwr9ew/s/s19/01.m3u8
-
-#EXTINF:0 group-title="Int'l", CNBC USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3714
-
-#EXTINF:0 group-title="Int'l", ABC DETROIT
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3594
-
-#EXTINF:0 group-title="Int'l", FOX DETROIT
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3595
-
-#EXTINF:0 group-title="Int'l", NBC DETROIT
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3596
-
-#EXTINF:0 group-title="Int'l", CBS DETROIT
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3597
-
-#EXTINF:0 group-title="Int'l", ESPN NEWS
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3654
-
-#EXTINF:0 group-title="Int'l", ESPN U
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3655
-
-#EXTINF:0 group-title="Int'l", NFL
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3656
-
-#EXTINF:0 group-title="Int'l", NBA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3657
-
-#EXTINF:0 group-title="Int'l", MLB
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3658
-
-#EXTINF:0 group-title="Int'l", NHL
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3659
-
-#EXTINF:0 group-title="Int'l", FS1
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3660
-
-#EXTINF:0 group-title="Int'l", FS2
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3661
-
-#EXTINF:0 group-title="Int'l", NBC SPORTS
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3662
-
-#EXTINF:0 group-title="Int'l", CBS SPORTS
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3663
-
-#EXTINF:0 group-title="Int'l", MARQUEE NETWORK
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3664
-
-#EXTINF:0 group-title="Int'l", MSG
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3665
-
-#EXTINF:0 group-title="Int'l", MASN
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3666
-
-#EXTINF:0 group-title="Int'l", NESN
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3667
-
-#EXTINF:0 group-title="Int'l", YES NETWORK
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3668
-
-#EXTINF:0 group-title="Int'l", SPORTSNET 1
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3669
-
-#EXTINF:0 group-title="Int'l", SPORTSNET 2
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3670
-
-#EXTINF:0 group-title="Int'l", BALLY SPORTS 1
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3671
-
-#EXTINF:0 group-title="Int'l", BALLY SPORTS 2
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3672
-
-#EXTINF:0 group-title="Int'l", ROOT SPORTS
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3673
-
-#EXTINF:0 group-title="Int'l", BIG TEEN NETWORK
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3674
-
-#EXTINF:0 group-title="Int'l", ACC NETWORK
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3675
-
-#EXTINF:0 group-title="Int'l", LONGHORN NETWORK
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3676
-
-#EXTINF:0 group-title="Int'l", NBC GOLF
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3679
-
-#EXTINF:0 group-title="Int'l", TENNIS USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3680
-
-#EXTINF:0 group-title="Int'l", FIGHT NETWORK USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3681
-
-#EXTINF:0 group-title="Int'l", WWE USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3682
-
-#EXTINF:0 group-title="Int'l", BABY FIRST
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3689
-
-#EXTINF:0 group-title="Int'l", PBS KIDS
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3690
-
-#EXTINF:0 group-title="Int'l", DISNEY CHANNEL
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3691
-
-#EXTINF:0 group-title="Int'l", DISNEY XD
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3692
-
-#EXTINF:0 group-title="Int'l", DISEY JUNIOR
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3693
-
-#EXTINF:0 group-title="Int'l", NICKELODEON
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3694
-
-#EXTINF:0 group-title="Int'l", NICK JR.
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3695
-
-#EXTINF:0 group-title="Int'l", NICKTOONS
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3696
-
-#EXTINF:0 group-title="Int'l", TEENNICK
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3697
-
-#EXTINF:0 group-title="Int'l", BOOMERANG
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3698
-
-#EXTINF:0 group-title="Int'l", UNIVERSAL KIDS
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3700
-
-#EXTINF:0 group-title="Int'l", STARZ KIDS & FAMILY
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3704
-
-#EXTINF:0 group-title="Int'l", FOX
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3599
-
-#EXTINF:0 group-title="Int'l", NBC
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3600
-
-#EXTINF:0 group-title="Int'l", PBS
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3603
-
-#EXTINF:0 group-title="Int'l", A&E USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3604
-
-#EXTINF:0 group-title="Int'l", USA Network
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3605
-
-#EXTINF:0 group-title="Int'l", TRU TV
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3610
-
-#EXTINF:0 group-title="Int'l", TBS
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3611
-
-#EXTINF:0 group-title="Int'l", COMEDY CENTRAL
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3612
-
-#EXTINF:0 group-title="Int'l", VICE
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3613
-
-#EXTINF:0 group-title="Int'l", TLC
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3614
-
-#EXTINF:0 group-title="Int'l", OWN
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3619
-
-#EXTINF:0 group-title="Int'l", DISCOVERY CHANNEL
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3622
-
-#EXTINF:0 group-title="Int'l", NAT GEO
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3623
-
-#EXTINF:0 group-title="Int'l", ID
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3624
-
-#EXTINF:0 group-title="Int'l", SCIENCE
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3625
-
-#EXTINF:0 group-title="Int'l", ANIMAL PLANET
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3626
-
-#EXTINF:0 group-title="Int'l", HISTORY
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3628
-
-#EXTINF:0 group-title="Int'l", DESTINATION AMERICA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3629
-
-#EXTINF:0 group-title="Int'l", AHC
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3630
-
-#EXTINF:0 group-title="Int'l", FOOD NETWORK
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3631
-
-#EXTINF:0 group-title="Int'l", COOKING CHANNEL
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3632
-
-#EXTINF:0 group-title="Int'l", TRAVEL CHANNEL
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3633
-
-#EXTINF:0 group-title="Int'l", HGTV
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3634
-
-#EXTINF:0 group-title="Int'l", DIY
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3635
-
-#EXTINF:0 group-title="Int'l", MOTORTREND
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3636
-
-#EXTINF:0 group-title="Int'l", AMC
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3637
-
-#EXTINF:0 group-title="Int'l", IFC
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3644
-
-#EXTINF:0 group-title="Int'l", FREEFORM
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3701
-
 #EXTINF:0 group-title="Int'l", TECHSTORM
 https://cubmu.superzap.xyz:8279/techstorm/playlist.m3u8
 
-#EXTINF:0 group-title="Int'l", DW
-http://playlist.urfan.web.id/qwr9ew/s/s26/01.m3u8
-
-#EXTINF:0 group-title="Int'l", BLOOMBERG
-http://playlist.urfan.web.id/dr9445/h/h03/01.m3u8
-
-#EXTINF:0 group-title="Int'l", CGTN
-http://playlist.urfan.web.id/qwr9ew/s/s20/01.m3u8
-
 #EXTINF:0 group-title="Int'l",SMITHSONIAN
 https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 group-title="Int'l", ALJAZERRA
-http://playlist.urfan.web.id/qwr9ew/s/s16/01.m3u8
-
-#EXTINF:0 group-title="Int'l", ALJAZERRA 2
-http://playlist.urfan.web.id/qwr9ew/s/s17/01.m3u8
 
 #EXTINF:0 group-title="Int'l", LOVE NATURE 4K
 http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8?checkedby:iptvcat.com
@@ -743,33 +480,6 @@ https://cubmu.superzap.xyz:8279/hitmovies/playlist.m3u8
 
 #EXTINF:0 group-title="VIlm", PARAMOUNT
 https://cubmu.superzap.xyz:8279/paramount/playlist.m3u8
-
-#EXTINF:0 group-title="VIlm", CINEMAWOLRD
-http://playlist.urfan.web.id/dr9445/h/h04/01.m3u8
-
-#EXTINF:0 group-title="VIlm", CCM
-http://playlist.urfan.web.id/qwr9ew/s/s31/01.m3u8
-
-#EXTINF:0 group-title="VIlm", ZEE BIOSKOP
-http://playlist.urfan.web.id/qwr9ew/s/s32/01.m3u8
-
-#EXTINF:0 group-title="VIlm", THRILL
-http://playlist.urfan.web.id/qwr9ew/s/s34/01.m3u8
-
-#EXTINF:0 group-title="VIlm", MYCN
-http://playlist.urfan.web.id/uq2663/h/h18/01.m3u8
-
-#EXTINF:0 group-title="VIlm", AXN
-http://playlist.urfan.web.id/dr9445/h/h141/01.m3u8
-
-#EXTINF:0 group-title="VIlm", TVN MOVIES
-http://playlist.urfan.web.id/dr9445/h/h21/01.m3u8
-
-#EXTINF:0 group-title="VIlm", HITS
-http://playlist.urfan.web.id/dr9445/h/h37/02.m3u8
-
-#EXTINF:0 group-title="Int'l", BEIN SPORTS HD
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3677
 
 #EXTINF:0 group-title="Sports", Olahraga 1
 http://iptvstream.xyz:8080/Mcnsi/7210db0d/37164
