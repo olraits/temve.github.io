@@ -281,6 +281,81 @@ https://master.server-cdn-streaming.com/api/live-player/33/live.m3u8
 https://master.server-cdn-streaming.com/api/live-player/34/live.m3u8
 #EXTINF:-1   tvg-logo="ty" group-title="seporter",true golf
 https://master.server-cdn-streaming.com/api/live-player/35/live.m3u8
+
+#EXTINF:-1 tvg-logo="seporter" group-title="seporter",Cetv1
+http://iptv.tvfix.org/hls/cetv1hd.m3u8
+#EXTINF:-1 tvg-logo="seporter" group-title="seporter",CelestialClassicMovie
+http://iptv.tvfix.org/hls/tyjd2.m3u8
+#EXTINF:-1 tvg-logo="seporter" group-title="seporter",Nhk premium
+http://iptv.tvfix.org/hls/nhkworldpremium.m3u8
+#EXTINF:-1 tvg-logo="seporter" group-title="seporter",TVB AsiaAction Channel
+http://iptv.tvfix.org/hls/tvbkf.m3u8
+#EXTINF:-1 tvg-logo="seporter" group-title="seporter",PhoenixMovies
+http://iptv.tvfix.org/hls/fhdy.m3u8
+#EXTINF:-1 tvg-logo="seporter" group-title="seporter",AnimalPlanet English
+http://iptv.tvfix.org/hls/animal2.m3u8
+#EXTINF:-1 tvg-logo="seporter" group-title="seporter",NationalGeographic English
+http://iptv.tvfix.org/hls/natlgeo.m3u8
+#EXTINF:-1 tvg-logo="seporter" group-title="seporter",LoveNature4K
+http://iptv.tvfix.org/hls/lovenature4k.m3u8
+#EXTINF:-1 tvg-logo="seporter" group-title="seporter",TVB XinHe
+http://iptv.tvfix.org/hls/tvbxh.m3u8
+#EXTINF:-1 tvg-logo="seporter" group-title="seporter",Mytv super
+http://iptv.tvfix.org/hls/tvbws.m3u8
+#EXTINF:-1 tvg-logo="seporter" group-title="seporter",LOTUS_MACAU
+https://www.nettvpro.live/hls/lotustv.php
+#EXTINF:-1 tvg-logo="seporter"group-title="seporter",Indosiar
+http://tvn.x10.bz/channel/master.m3u8
+#EXTINF:-1 tvg-logo="seporter"group-title="seporter",CitraBioskop
+http://tvn.x10.bz/channel/master-1.m3u8
+#EXTINF:-1 tvg-logo="seporter"group-title="seporter",CitraDrama
+http://tvn.x10.bz/channel/master-2.m3u8
+#EXTINF:-1 tvg-logo="seporter"group-title="seporter",LFCTV
+http://tvn.x10.bz/channel/master-3.m3u8
+#EXTINF:-1 tvg-logo="seporter"group-title="seporter",HIP2HOREE
+http://tvn.x10.bz/channel/master-4.m3u8
+#EXTINF:-1 tvg-logo="seporter"group-title="seporter",Horee
+http://tvn.x10.bz/channel/master-5.m3u8
+#EXTINF:-1 tvg-logo="seporter"group-title="seporter",CitraMuslim
+http://tvn.x10.bz/channel/master-9.m3u8
+#EXTINF:-1 tvg-logo="seporter"group-title="seporter",CitraDangdut
+http://tvn.x10.bz/channel/master-10.m3u8
+#EXTINF:-1 tvg-logo="seporter"group-title="seporter",CitraEntertainmend
+http://tvn.x10.bz/channel/master-11.m3u8
+#EXTINF:-1 tvg-logo="seporter"group-title="seporter",AnTv
+http://tvn.x10.bz/channel/master-12.m3u8
+#EXTINF:-1 tvg-logo="seporter"group-title="seporter",TvOne
+https://tvnid.wapgem.com/vidio/master-13.m3u8
+#EXTINF:-1 tvg-logo="seporter"group-title="seporter",PramborFM
+http://tvn.x10.bz/channel/master-14.m3u8
+#EXTINF:-1 tvg-logo="seporter"group-title="seporter",TVN
+http://tvn.x10.bz/channel/master-16.m3u8
+#EXTINF:-1 tvg-logo="seporter"group-title="seporter",Indosiar
+http://tvn.x10.bz/channel/master.m3u8
+#EXTINF:-1 tvg-logo="seporter"group-title="seporter",juara IV
+http://tvn.x10.bz/channel/master-17.m3u8
+#EXTINF:-1 tvg-logo="seporter"group-title="seporter",kompastV
+http://tvn.x10.bz/channel/master-19.m3u8
+#EXTINF:-1 tvg-logo="seporter"group-title="seporter",RajwliTV
+http://tvn.x10.bz/channel/master-20.m3u8
+#EXTINF:-1 tvg-logo="seporter"group-title="seporter",Ochannel
+http://tvn.x10.bz/channel/master-18.m3u8
+#EXTINF:-1 tvg-logo="seporter"group-title="seporter",net Tv
+http://tvn.x10.bz/channel/master-21.m3u8
+#EXTINF:-1 tvg-logo="seporter"group-title="seporter",mentari
+http://tvn.x10.bz/channel/master-22.m3u8
+#EXTINF:-1 tvg-logo="seporter"group-title="seporter",metro
+http://tvn.x10.bz/channel/master-23.m3u8
+#EXTINF:-1 tvg-logo="seporter"group-title="seporter",sctv
+http://tvn.x10.bz/channel/master-24.m3u8
+#EXTINF:-1 tvg-logo="seporter"group-title="seporter",fisik1
+http://tvn.x10.bz/channel/master-6.m3u8
+#EXTINF:-1 tvg-logo="seporter"group-title="seporter",fisik2
+http://tvn.x10.bz/channel/master-7.m3u8
+#EXTINF:-1 tvg-logo="seporter"group-title="seporter",fisik3
+http://tvn.x10.bz/channel/master-8.m3u8
+#EXTINF:-1 tvg-logo="seporter"group-title="seporter",filemIndia
+http://tvn.x10.bz/channel/master-15.m3u8
 ####LOKAL####
 
 #EXTINF:-1 tvg-id="trans7.id" tvg-name="Trans 7" tvg-logo="https://cdn.macan.tv/img/trans7.png" group-title="Lokal",TRANS7
