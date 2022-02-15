@@ -43,6 +43,91 @@ http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b2800
 #EXTINF:0 group-title="National", INSERT
 https://cubmu.superzap.xyz:8279/insert/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="curut"group-title="curutlari",UsSeport1
+https://etus.link/useesport?st.ts
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=useesport&gumisasakTV=default&sync=0
+#EXTINF:-1 tvg-logo="curut"group-title="curutlari",UsSpeort2
+https://etus.link/useesports2?shit.ts
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=useesports2&gumisasakTV=default&sync=0
+#EXTINF:-1 tvg-logo="curut"group-title="curutlari",indosiar
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=indosiar&gumisasakTV=default&sync=0
+#EXTINF:-1 tvg-logo="curut"group-title="curutlari",sctv
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=sctv&gumisasakTV=default&sync=0
+#EXTINF:-1 tvg-logo="curut"group-title="curutlari",tvn
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=tvn&gumisasakTV=default&sync=0
+#EXTINF:-1 tvg-logo="curut"group-title="curutlari",tvnMovis
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=tvnmovies&gumisasakTV=default&sync=0
+#EXTINF:-1 tvg-logo="curut"group-title="curutlari",lingua
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=lingua&gumisasakTV=default&sync=0
+#EXTINF:-1 tvg-logo="curut"group-title="curutlari",afc
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=afc&gumisasakTV=default&sync=0
+#EXTINF:-1 tvg-logo="curut"group-title="curutlari",hgtv
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=hgtv&gumisasakTV=default&sync=0
+#EXTINF:-1 tvg-logo="curut"group-title="curutlari",dscovry
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=disco&gumisasakTV=default&sync=0
+#EXTINF:-1 tvg-logo="curut"group-title="curutlari",kix
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=kix&gumisasakTV=default&sync=0
+#EXTINF:-1 tvg-logo="curut"group-title="curutlari",axn
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=axn&gumisasakTV=default&sync=0
+#EXTINF:-1 tvg-logo="curut"group-title="curutlari",Cdrama
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=cdrama&gumisasakTV=default&sync=0
+#EXTINF:-1 tvg-logo="curut"group-title="curutlari",natgeo
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=natgeo&gumisasakTV=default&sync=0
+#EXTINF:-1 tvg-logo="curut"group-title="curutlari",History
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=history&gumisasakTV=default&sync=0
+#EXTINF:-1 tvg-logo="curut"group-title="curutlari",konser
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=ikonser&gumisasakTV=default&sync=0
+#EXTINF:-1 tvg-logo="curut"group-title="curutlari",nba
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=nba&gumisasakTV=default&sync=0
+#EXTINF:-1 tvg-logo="curut"group-title="curutlari",Wild
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=natgeowild&gumisasakTV=default&sync=0
+#EXTINF:-1 tvg-logo="curut"group-title="curutlari",imc
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=imc&gumisasakTV=default&sync=0
+#EXTINF:-1 tvg-logo="curut"group-title="curutlari",dunialain
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=dunialain&gumisasakTV=default&sync=0
+#EXTINF:-1 tvg-logo="curut"group-title="curutlari",boomrang
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=boomerang&gumisasakTV=default&sync=0
+#EXTINF:-1 tvg-logo="curut"group-title="curutlari",prmount
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=paramount&gumisasakTV=default&sync=0
+#EXTINF:-1 tvg-logo="curut"group-title="curutlari",k+
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=kplus&gumisasakTV=default&sync=0
+#EXTINF:-1 tvg-logo="curut"group-title="curutlari",glxy
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=galaxy&gumisasakTV=default&sync=0
+#EXTINF:-1 tvg-logo="curut"group-title="curutlari",d.anak
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=duniaanak&gumisasakTV=default&sync=0
+#EXTINF:-1 tvg-logo="curut"group-title="curutlari",animax
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=animax&gumisasakTV=default&sync=0
+#EXTINF:-1 tvg-logo="curut"group-title="curutlari",aniplus
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=aniplus&gumisasakTV=default&sync=0
+#EXTINF:-1 tvg-logo="curut"group-title="curutlari",drmworkz
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=dreamworks&gumisasakTV=default&sync=0
+#EXTINF:-1 tvg-logo="curut"group-title="curutlari",nickJR
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=nickjr&gumisasakTV=default&sync=0
+#EXTINF:-1 tvg-logo="curut"group-title="curutlari",nick
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=nickolodeon&gumisasakTV=default&sync=0
+#EXTINF:-1 tvg-logo="curut"group-title="curutlari",panda
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=pandatv&gumisasakTV=default&sync=0
+#EXTINF:-1 tvg-logo="curut"group-title="curutlari",dvinci
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=davinci&gumisasakTV=default&sync=0
+#EXTINF:-1 tvg-logo="curut"group-title="curutlari",EGGAMERS
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=egg&gumisasakTV=default&sync=0
+#EXTINF:-1 tvg-logo="curut"group-title="curutlari",GEM
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=sgem&gumisasakTV=default&sync=0
+#EXTINF:-1 tvg-logo="curut"group-title="curutlari",NHK
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=nhkworld&gumisasakTV=default&sync=0
+#EXTINF:-1 tvg-logo="curut"group-title="curutlari",lifetime
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=lifetime&gumisasakTV=default&sync=0
+#EXTINF:-1 tvg-logo="curut"group-title="curutlari",techstorm
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=techstorm&gumisasakTV=default&sync=0
+#EXTINF:-1 tvg-logo="curut"group-title="curutlari",baby1st
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=babyfirst&gumisasakTV=default&sync=0
+#EXTINF:-1 tvg-logo="curut"group-title="curutlari",kungfu
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=celestialmovie&gumisasakTV=default&sync=0
+#EXTINF:-1 tvg-logo="curut"group-title="curutlari",FTV
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=fashiontv&gumisasakTV=default&sync=0
+#EXTINF:-1 tvg-logo="curut"group-title="curutlari",ZEE
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=zbioskop&gumisasakTV=default&sync=0
+
 #EXTINF:0 group-title="National", METRO TV
 http://202.150.172.34:4000/play/metrotvhdt2
 
