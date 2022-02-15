@@ -4,12 +4,6 @@
 #EXTINF:0 group-title="Int'l", AL QURAN AL KAREEM
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6e96be832cf8bc6b35a956e8fb66c76a6a41c2a2a7270517f5ce8dd2f48fc68d
 
-#EXTINF:0 group-title="Int'l", AL SUNNAH NABAWI
-http://210.210.155.35:80/session/1aa0f80a-2ef4-11eb-b0a7-c81f66f89318/qwr9ew/s/s27/01.m3u8
-
-#EXTINF:0 group-title="National", ANTV
-http://210.210.155.35:80/session/74698288-2ed3-11eb-82e0-c81f66f89318/qwr9ew/s/s07/01.m3u8
-
 #EXTINF:0 group-title="National", INDOSIAR
 https://cubmu.superzap.xyz:8279/indosiar/playlist.m3u8
 
