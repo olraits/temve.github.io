@@ -50,6 +50,7 @@ http://group2-swiftservesd-1.dens.tv/s/s31/01.m3u8
 http://group2-swiftservesd-1.dens.tv/s/s32/01.m3u8
 #EXTINF:-1,TRILL
 http://group2-swiftservesd-1.dens.tv/s/s34/01.m3u8
+
 #EXTINF:0 group-title="Int'l", AL QURAN AL KAREEM
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6e96be832cf8bc6b35a956e8fb66c76a6a41c2a2a7270517f5ce8dd2f48fc68d
 
@@ -177,6 +178,56 @@ http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=fashiontv&gumisasakTV=
 #EXTINF:-1 tvg-logo="curut"group-title="curutlari",ZEE
 http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=zbioskop&gumisasakTV=default&sync=0
 
+#EXTINF:-1 tvg-logo="xcx" group-title="pelitt",bolakaki
+http://tvn.x10.bz/vidio/master.m3u8
+#EXTINF:-1 tvg-logo="xcx" group-title="pelitt",cbisokop
+http://tvn.x10.bz/vidio/master-1.m3u8
+#EXTINF:-1 tvg-logo="xcx" group-title="pelitt",cdrma
+http://tvn.x10.bz/vidio/master-2.m3u8
+#EXTINF:-1 tvg-logo="xcx" group-title="pelitt",Klub bolaa
+http://tvn.x10.bz/vidio/master-3.m3u8
+#EXTINF:-1 tvg-logo="xcx" group-title="pelitt",filem bocah
+http://tvn.x10.bz/vidio/master-4.m3u8
+#EXTINF:-1 tvg-logo="xcx" group-title="pelitt",horeee bocah2
+http://tvn.x10.bz/vidio/master-5.m3u8
+#EXTINF:-1 tvg-logo="xcx" group-title="pelitt",bollakakkii A
+http://tvn.x10.bz/vidio/master-6.m3u8
+#EXTINF:-1 tvg-logo="xcx" group-title="pelitt",bolaakhakii B
+http://tvn.x10.bz/vidio/master-7.m3u8
+#EXTINF:-1 tvg-logo="xcx" group-title="pelitt",bollakakkii C
+http://tvn.x10.bz/vidio/master-8.m3u8
+#EXTINF:-1 tvg-logo="xcx" group-title="pelitt",Citra Muslim
+http://tvn.x10.bz/vidio/master-9.m3u8
+#EXTINF:-1 tvg-logo="xcx" group-title="pelitt",Jogetan
+http://tvn.x10.bz/vidio/master-10.m3u8
+#EXTINF:-1 tvg-logo="xcx" group-title="pelitt",Hiburan
+http://tvn.x10.bz/vidio/master-11.m3u8
+#EXTINF:-1 tvg-logo="xcx" group-title="pelitt",antv
+http://tvn.x10.bz/vidio/master-12.m3u8
+#EXTINF:-1 tvg-logo="xcx" group-title="pelitt",tvone
+http://tvn.x10.bz/vidio/master-13.m3u8
+#EXTINF:-1 tvg-logo="xcx" group-title="pelitt",ajwa TV
+http://tvn.x10.bz/vidio/master-14.m3u8
+#EXTINF:-1 tvg-logo="xcx" group-title="pelitt",pilem Indihe
+http://tvn.x10.bz/vidio/master-15.m3u8
+#EXTINF:-1 tvg-logo="xcx" group-title="pelitt",Drama Korea
+http://tvn.x10.bz/vidio/master-16.m3u8
+#EXTINF:-1 tvg-logo="xcx" group-title="pelitt",bolaakhakii D
+http://tvn.x10.bz/vidio/master-17.m3u8
+#EXTINF:-1 tvg-logo="xcx" group-title="pelitt",ochannel
+http://tvn.x10.bz/vidio/master-18.m3u8
+#EXTINF:-1 tvg-logo="xcx" group-title="pelitt",kompastv
+http://tvn.x10.bz/vidio/master-19.m3u8
+#EXTINF:-1 tvg-logo="xcx" group-title="pelitt",rtv
+http://tvn.x10.bz/vidio/master-20.m3u8
+#EXTINF:-1 tvg-logo="xcx" group-title="pelitt",rans
+http://tvn.x10.bz/vidio/master-21.m3u8
+#EXTINF:-1 tvg-logo="xcx" group-title="pelitt",mentari tv
+http://tvn.x10.bz/vidio/master-22.m3u8
+#EXTINF:-1 tvg-logo="xcx" group-title="pelitt",metro
+http://tvn.x10.bz/vidio/master-23.m3u8
+#EXTINF:-1 tvg-logo="xcx" group-title="pelitt",sctv
+http://tvn.x10.bz/vidio/master-24.m3u8
 #EXTINF:0 group-title="National", METRO TV
 http://202.150.172.34:4000/play/metrotvhdt2
 
