@@ -1,5 +1,323 @@
 #EXTM3U
 #tom&jeruk
+#EXTINF:-1 group-title="INDONESIA",Berita Satu
+http://108.136.37.52/m3u8/vid_Berita_Satu.m3u8
+#EXTINF:-1 group-title="INDONESIA",GTV
+http://108.136.37.52:1443/GTV2021.m3u8
+#EXTINF:-1 group-title="INDONESIA",IDX Channel
+http://108.136.37.52/m3u8/uc_IDX.m3u8
+#EXTINF:-1 group-title="INDONESIA",Indonesiana TV
+http://108.136.37.52/m3u8/uc_Indonesiana_TV.m3u8
+#EXTINF:-1 group-title="INDONESIA",Indosiar
+http://108.136.37.52/m3u8/vid_Indosiar.m3u8
+#EXTINF:-1 group-title="INDONESIA",iNews TV
+http://108.136.37.52/m3u8/uc_iNews.m3u8
+#EXTINF:-1 group-title="INDONESIA",JakTV
+http://108.136.37.52/m3u8/vid_Jak_TV.m3u8
+#EXTINF:-1 group-title="INDONESIA",Kompas TV
+http://108.136.37.52/m3u8/vid_Kompas_TV.m3u8
+#EXTINF:-1 group-title="INDONESIA",Metro TV
+http://108.136.37.52/m3u8/uc_Metro_TV.m3u8
+#EXTINF:-1 group-title="INDONESIA",MNC News
+http://108.136.37.52/m3u8/uc_MNC_News.m3u8
+#EXTINF:-1 group-title="INDONESIA",MNC TV
+http://108.136.37.52:1443/MNCTV_2021.m3u8
+#EXTINF:-1 group-title="INDONESIA",mytv
+http://108.136.37.52/m3u8/vid_myTV.m3u8
+#EXTINF:-1 group-title="INDONESIA",NET.
+http://108.136.37.52/m3u8/vid_Net_TV.m3u8
+#EXTINF:-1 group-title="INDONESIA",Nusantara TV
+http://108.136.37.52/m3u8/vid_Nusantara_TV.m3u8
+#EXTINF:-1 group-title="INDONESIA",O Channel
+http://108.136.37.52/m3u8/vid_O_Channel.m3u8
+#EXTINF:-1 group-title="INDONESIA",RCTI
+http://108.136.37.52:1443/RCTI_2021.m3u8
+#EXTINF:-1 group-title="INDONESIA",RRI Net
+http://108.136.37.52/m3u8/uc_RRI_Net.m3u8
+#EXTINF:-1 group-title="INDONESIA",RTV
+http://108.136.37.52/m3u8/vid_RTV.m3u8
+#EXTINF:-1 group-title="INDONESIA",Ruang Trampil
+http://108.136.37.52/m3u8/uc_Ruang_Trampil.m3u8
+#EXTINF:-1 group-title="INDONESIA",SCTV
+http://108.136.37.52/m3u8/vid_SCTV.m3u8
+#EXTINF:-1 group-title="INDONESIA",Sea Today
+http://108.136.37.52/m3u8/uc_SEA_Today.m3u8
+#EXTINF:-1 group-title="INDONESIA",Trans 7
+http://108.136.37.52/m3u8/vid_Trans_7.m3u8
+#EXTINF:-1 group-title="INDONESIA",Trans TV
+http://108.136.37.52/m3u8/vid_Trans_TV.m3u8
+#EXTINF:-1 group-title="INDONESIA",TV Tempo
+http://108.136.37.52/m3u8/vid_TV_Tempo.m3u8
+#EXTINF:-1 group-title="INDONESIA",TVRI
+http://108.136.37.52/m3u8/vid_TVRI.m3u8
+#EXTINF:-1 group-title="INDONESIA",USee Photo
+http://108.136.37.52/m3u8/uc_Usee_Photo.m3u8
+#EXTINF:-1 group-title="INDONESIA",Bali TV
+http://108.136.37.52/m3u8/uc_Bali_TV.m3u8
+#EXTINF:-1 group-title="INDONESIA",JTV
+http://108.136.37.52/m3u8/uc_JTV.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",CGTN Documentary
+http://108.136.37.52/m3u8/uc_CGTN_Documentary.m3u8
+#EXTINF:-1 group-title="MOVIES",Chinese Drama
+http://108.136.37.52/m3u8/uc_Chinese_Drama.m3u8
+#EXTINF:-1 group-title="MOVIES",RANS Channel
+http://108.136.37.52/m3u8/vid_Rans_Channel.m3u8
+#EXTINF:-1 group-title="MOVIES",AFV Espanyol
+http://108.136.37.52/m3u8/plex_AFV_Espanyol.m3u8
+#EXTINF:-1 group-title="MOVIES",AFV Family
+http://108.136.37.52/m3u8/plex_AFV_Family.m3u8
+#EXTINF:-1 group-title="MOVIES",Afroland TV
+http://108.136.37.52/m3u8/plex_Afroland_TV.m3u8
+#EXTINF:-1 group-title="MOVIES",Chive TV
+http://108.136.37.52/m3u8/plex_Chive_TV.m3u8
+#EXTINF:-1 group-title="MOVIES",Choppertown
+http://108.136.37.52/m3u8/plex_Choppertown.m3u8
+#EXTINF:-1 group-title="MOVIES",Classic Rock Network
+http://108.136.37.52/m3u8/plex_Classic_Rock_Network.m3u8
+#EXTINF:-1 group-title="MOVIES",Clix TV
+http://108.136.37.52/m3u8/plex_ClixTV.m3u8
+#EXTINF:-1 group-title="MOVIES",Commune
+http://108.136.37.52/m3u8/plex_Commune.m3u8
+#EXTINF:-1 group-title="MOVIES",Cooking Panda
+http://108.136.37.52/m3u8/plex_Cooking_Panda.m3u8
+#EXTINF:-1 group-title="MOVIES",Discover Film
+http://108.136.37.52/m3u8/plex_Discover_Film.m3u8
+#EXTINF:-1 group-title="MOVIES",Documentary+
+http://108.136.37.52/m3u8/plex_Documentary+.m3u8
+#EXTINF:-1 group-title="MOVIES",ESTV
+http://108.136.37.52/m3u8/plex_ESTV.m3u8
+#EXTINF:-1 group-title="MOVIES",Extreme Plus
+http://108.136.37.52/m3u8/plex_Extreme_Plus.m3u8
+#EXTINF:-1 group-title="MOVIES",Fail Army
+http://108.136.37.52/m3u8/plex_Fail_Army.m3u8
+#EXTINF:-1 group-title="MOVIES",Family Time
+http://108.136.37.52/m3u8/plex_FamilyTime.m3u8
+#EXTINF:-1 group-title="MOVIES",Filmstream
+http://108.136.37.52/m3u8/plex_Filmstream.m3u8
+#EXTINF:-1 group-title="MOVIES",GFN TV
+http://108.136.37.52/m3u8/plex_GFN_TV.m3u8
+#EXTINF:-1 group-title="MOVIES",Gago TV
+http://108.136.37.52/m3u8/plex_Gago_TV.m3u8
+#EXTINF:-1 group-title="MOVIES",Glewed TV
+http://108.136.37.52/m3u8/plex_Glewed_TV.m3u8
+#EXTINF:-1 group-title="MOVIES",GoTraveler
+http://108.136.37.52/m3u8/plex_GoTraveler.m3u8
+#EXTINF:-1 group-title="MOVIES",GoUSA TV
+http://108.136.37.52/m3u8/plex_GoUSA_TV.m3u8
+#EXTINF:-1 group-title="MOVIES",Gravitas Movies
+http://108.136.37.52/m3u8/plex_Gravitas_Movies.m3u8
+#EXTINF:-1 group-title="MOVIES",Gusto TV
+http://108.136.37.52/m3u8/plex_Gusto_TV.m3u8
+#EXTINF:-1 group-title="MOVIES",Humor Mill
+http://108.136.37.52/m3u8/plex_Humor_Mill.m3u8
+#EXTINF:-1 group-title="MOVIES",IGN TV
+http://108.136.37.52/m3u8/plex_IGN_TV.m3u8
+#EXTINF:-1 group-title="MOVIES",Johny Carson TV
+http://108.136.37.52/m3u8/plex_Johny_Carson_TV.m3u8
+#EXTINF:-1 group-title="MOVIES",Kidoodle TV
+http://108.136.37.52/m3u8/plex_Kidoodle_TV.m3u8
+#EXTINF:-1 group-title="MOVIES",La Corriente
+http://108.136.37.52/m3u8/plex_La_Corriente.m3u8
+#EXTINF:-1 group-title="MOVIES",Law and Crime
+http://108.136.37.52/m3u8/plex_Law_and_Crime.m3u8
+#EXTINF:-1 group-title="MOVIES",Level Up TV
+http://108.136.37.52/m3u8/plex_Level_Up.m3u8
+#EXTINF:-1 group-title="MOVIES",Lone Star
+http://108.136.37.52/m3u8/plex_Lone_Star.m3u8
+#EXTINF:-1 group-title="MOVIES",Love Destination
+http://108.136.37.52/m3u8/plex_Love_Destination.m3u8
+#EXTINF:-1 group-title="MOVIES",MBC
+http://108.136.37.52/m3u8/plex_MBC.m3u8
+#EXTINF:-1 group-title="MOVIES",Made in Hollywood
+http://108.136.37.52/m3u8/plex_Made_in_Hollywood.m3u8
+#EXTINF:-1 group-title="MOVIES",Magellan TV Now
+http://108.136.37.52/m3u8/plex_Magellan_TV_Now.m3u8
+#EXTINF:-1 group-title="MOVIES",Maverick Black Cinema
+http://108.136.37.52/m3u8/plex_Maverick_Black_Cinema.m3u8
+#EXTINF:-1 group-title="MOVIES",More U
+http://108.136.37.52/m3u8/plex_More_U.m3u8
+#EXTINF:-1 group-title="MOVIES",Nosey
+http://108.136.37.52/m3u8/plex_Nosey.m3u8
+#EXTINF:-1 group-title="MOVIES",Nosey Escandalos
+http://108.136.37.52/m3u8/plex_Nosey_Escandalos.m3u8
+#EXTINF:-1 group-title="MOVIES",Outdoor America
+http://108.136.37.52/m3u8/plex_Outdoor_America.m3u8
+#EXTINF:-1 group-title="MOVIES",Party Poker TV
+http://108.136.37.52/m3u8/plex_Party_Poker_TV.m3u8
+#EXTINF:-1 group-title="MOVIES",Party Tyme Karaoke
+http://108.136.37.52/m3u8/plex_Party_Tyme_Karaoke.m3u8
+#EXTINF:-1 group-title="MOVIES",People Are Awesome
+http://108.136.37.52/m3u8/plex_People_Are_Awesome.m3u8
+#EXTINF:-1 group-title="MOVIES",Play Works
+http://108.136.37.52/m3u8/plex_Play_Works.m3u8
+#EXTINF:-1 group-title="MOVIES",Poker Night TV
+http://108.136.37.52/m3u8/plex_Poker_Night_TV.m3u8
+#EXTINF:-1 group-title="MOVIES",Popstar TV
+http://108.136.37.52/m3u8/plex_Popstar_TV.m3u8
+#EXTINF:-1 group-title="MOVIES",QwestTV Classical
+http://108.136.37.52/m3u8/plex_QwestTV_Classical.m3u8
+#EXTINF:-1 group-title="MOVIES",QwestTV Jazz and Beyond
+http://108.136.37.52/m3u8/plex_QwestTV_Jazz_and_Beyond.m3u8
+#EXTINF:-1 group-title="MOVIES",QwestTV Mix
+http://108.136.37.52/m3u8/plex_QwestTV_Mix.m3u8
+#EXTINF:-1 group-title="MOVIES",Revry
+http://108.136.37.52/m3u8/plex_Revry.m3u8
+#EXTINF:-1 group-title="MOVIES",Revry News
+http://108.136.37.52/m3u8/plex_Revry_News.m3u8
+#EXTINF:-1 group-title="MOVIES",SKWAD
+http://108.136.37.52/m3u8/plex_SKWAD.m3u8
+#EXTINF:-1 group-title="MOVIES",Social Club TV
+http://108.136.37.52/m3u8/plex_Social_Club_TV.m3u8
+#EXTINF:-1 group-title="MOVIES",Space Channel
+http://108.136.37.52/m3u8/plex_Space_Channel.m3u8
+#EXTINF:-1 group-title="MOVIES",TG Junior
+http://108.136.37.52/m3u8/plex_TG_Junior.m3u8
+#EXTINF:-1 group-title="MOVIES",Tankee
+http://108.136.37.52/m3u8/plex_Tankee.m3u8
+#EXTINF:-1 group-title="MOVIES",The Boat Show
+http://108.136.37.52/m3u8/plex_The_Boat_Show.m3u8
+#EXTINF:-1 group-title="MOVIES",The Carol Burnett Show
+http://108.136.37.52/m3u8/plex_The_Carol_Burnett_Show.m3u8
+#EXTINF:-1 group-title="MOVIES",The Design Network
+http://108.136.37.52/m3u8/plex_The_Design_Network.m3u8
+#EXTINF:-1 group-title="MOVIES",The Film Detective
+http://108.136.37.52/m3u8/plex_The_Film_Detective.m3u8
+#EXTINF:-1 group-title="MOVIES",The Pet Collective
+http://108.136.37.52/m3u8/plex_The_Pet_Collective.m3u8
+#EXTINF:-1 group-title="MOVIES",The Preview Channel
+http://108.136.37.52/m3u8/plex_The_Preview_Channel.m3u8
+#EXTINF:-1 group-title="MOVIES",Toon Goggles
+http://108.136.37.52/m3u8/plex_Toon_Goggles.m3u8
+#EXTINF:-1 group-title="MOVIES",Trailers from Hell
+http://108.136.37.52/m3u8/plex_Trailers_from_Hell.m3u8
+#EXTINF:-1 group-title="MOVIES",True History
+http://108.136.37.52/m3u8/plex_True_History.m3u8
+#EXTINF:-1 group-title="MOVIES",USA Today
+http://108.136.37.52/m3u8/plex_USA_Today.m3u8
+#EXTINF:-1 group-title="MOVIES",US Weekly TV
+http://108.136.37.52/m3u8/plex_US_Weekly_TV.m3u8
+#EXTINF:-1 group-title="MOVIES",Unvaled Network
+http://108.136.37.52/m3u8/plex_Unvaled_Network.m3u8
+#EXTINF:-1 group-title="MOVIES",Venn
+http://108.136.37.52/m3u8/plex_Venn.m3u8
+#EXTINF:-1 group-title="MOVIES",Vivaldi
+http://108.136.37.52/m3u8/plex_Vivaldi.m3u8
+#EXTINF:-1 group-title="MOVIES",Volty TV
+http://108.136.37.52/m3u8/plex_Volty_TV.m3u8
+#EXTINF:-1 group-title="MOVIES",Waypoint TV
+http://108.136.37.52/m3u8/plex_Waypoint_TV.m3u8
+#EXTINF:-1 group-title="MOVIES",Weather Spy
+http://108.136.37.52/m3u8/plex_Weather_Spy.m3u8
+#EXTINF:-1 group-title="MOVIES",Wild Earth
+http://108.136.37.52/m3u8/plex_Wild_Earth.m3u8
+#EXTINF:-1 group-title="MOVIES",Wired2Fish
+http://108.136.37.52/m3u8/plex_Wired2Fish.m3u8
+#EXTINF:-1 group-title="MOVIES",Wu Tang Collection
+http://108.136.37.52/m3u8/plex_Wu_Tang_Collection.m3u8
+#EXTINF:-1 group-title="MOVIES",Yahoo Finance
+http://108.136.37.52/m3u8/plex_Yahoo_Finance.m3u8
+#EXTINF:-1 group-title="KIDS",IndiKids
+http://108.136.37.52/m3u8/uc_IndiKids.m3u8
+#EXTINF:-1 group-title="KIDS",Mentari TV
+http://108.136.37.52/m3u8/vid_Mentari_TV.m3u8
+#EXTINF:-1 group-title="KIDS",TV Edukasi
+http://108.136.37.52/m3u8/vid_TV_Edukasi.m3u8
+#EXTINF:-1 group-title="MOVIES",Arirang
+http://108.136.37.52/m3u8/uc_Arirang.m3u8
+#EXTINF:-1 group-title="MOVIES",ATV
+http://108.136.37.52/m3u8/uc_ATV.m3u8
+#EXTINF:-1 group-title="MOVIES",O Shop
+http://108.136.37.52/m3u8/vid_O_Shop.m3u8
+#EXTINF:-1 group-title="MOVIES",M Shop
+http://108.136.37.52/m3u8/uc_M_Shop.m3u8
+#EXTINF:-1 group-title="MOVIES",Indihome Shopping
+http://108.136.37.52/m3u8/uc_Indihome_Shopping.m3u8
+#EXTINF:-1 group-title="MUSIC",BritAsia TV
+http://108.136.37.52/m3u8/dm_BritAsia.m3u8
+#EXTINF:-1 group-title="MUSIC",Prambors TV
+http://108.136.37.52/m3u8/uc_Prambors_TV.mpd
+#EXTINF:-1 group-title="NEWS",ABC Australia
+http://108.136.37.52/m3u8/uc_ABC_Australia.m3u8
+#EXTINF:-1 group-title="NEWS",BFM TV
+http://108.136.37.52/m3u8/dm_BFM_TV.m3u8
+#EXTINF:-1 group-title="NEWS",DW
+http://108.136.37.52/m3u8/vid_DW.m3u8
+#EXTINF:-1 group-title="NEWS",Euronews
+http://108.136.37.52/m3u8/dm_Euronews.m3u8
+#EXTINF:-1 group-title="NEWS",Euronews - Plex TV
+http://108.136.37.52/m3u8/plex_Euronews.m3u8
+#EXTINF:-1 group-title="NEWS",Euronews Espanyol - Plex TV
+http://108.136.37.52/m3u8/plex_Euronews_Espanyol.m3u8
+#EXTINF:-1 group-title="NEWS",Euronews French
+http://108.136.37.52/m3u8/dm_Euronews_French.m3u8
+#EXTINF:-1 group-title="NEWS",France 24
+http://108.136.37.52/m3u8/uc_France_24.m3u8
+#EXTINF:-1 group-title="NEWS",Newsmax TV - PLex TV
+http://108.136.37.52/m3u8/plex_Newsmax_TV.m3u8
+#EXTINF:-1 group-title="NEWS",Newsy - Plex TV
+http://108.136.37.52/m3u8/plex_Newsy.m3u8
+#EXTINF:-1 group-title="NEWS",NHK World
+http://108.136.37.52/m3u8/vid_NHK_World.m3u8
+#EXTINF:-1 group-title="NEWS",Reuters TV - Plex TV
+http://108.136.37.52/m3u8/plex_Reuters_TV.m3u8
+#EXTINF:-1 group-title="NEWS",TRT World
+http://108.136.37.52/m3u8/uc_TRT_World.m3u8
+#EXTINF:-1 group-title="INDONESIA",Al Quran Al Kareem TV
+http://108.136.37.52/m3u8/vid_AlQuran_AlKarim_TV.m3u8
+#EXTINF:-1 group-title="INDONESIA",DAAI TV
+http://108.136.37.52/m3u8/uc_DAAI_TV.m3u8
+#EXTINF:-1 group-title="INDONESIA",MUI TV
+http://108.136.37.52/m3u8/uc_MUI_TV.m3u8
+#EXTINF:-1 group-title="INDONESIA",Reformed21
+http://108.136.37.52/m3u8/vid_Reformed_21.m3u8
+#EXTINF:-1 group-title="INDONESIA",TV Muhammadiyah
+http://108.136.37.52/m3u8/uc_Muhammadiyah_TV.m3u8
+#EXTINF:-1 group-title="INDONESIA",TV9 NU
+http://108.136.37.52/m3u8/uc_TV9_NU.m3u8
+#EXTINF:-1 group-title="INDONESIA",U Channel
+http://108.136.37.52/m3u8/vid_U_Channel.m3u8
+#EXTINF:-1 group-title="SPORTS",Outdoor Channel
+http://108.136.37.52/m3u8/uc_Outdoor_Channel.m3u8
+#EXTINF:-1 group-title="SPORTS",Channel Fight Masterclass
+http://108.136.37.52/m3u8/plex_Channel_Fight_Masterclass.m3u8
+#EXTINF:-1 group-title="SPORTS",Fight Network
+http://108.136.37.52/m3u8/plex_Fight_Network.m3u8
+#EXTINF:-1 group-title="SPORTS",FTF Sports
+http://108.136.37.52/m3u8/plex_FTF_Sports.m3u8
+#EXTINF:-1 group-title="SPORTS",Hard Knocks
+http://108.136.37.52/m3u8/plex_Hard_Knocks.m3u8
+#EXTINF:-1 group-title="SPORTS",Impact Wrestling
+http://108.136.37.52/m3u8/plex_Impact_Wrestling.m3u8
+#EXTINF:-1 group-title="SPORTS",MAVTV Motorsports Network
+http://108.136.37.52/m3u8/plex_MAVTV_Motorsports_Network.m3u8
+#EXTINF:-1 group-title="SPORTS",MMA TV
+http://108.136.37.52/m3u8/plex_MMA_TV.m3u8
+#EXTINF:-1 group-title="SPORTS",Motorvision TV
+http://108.136.37.52/m3u8/plex_Motorvision_TV.m3u8
+#EXTINF:-1 group-title="SPORTS",NHRA TV
+http://108.136.37.52/m3u8/plex_NHRA_TV.m3u8
+#EXTINF:-1 group-title="SPORTS",POPSugar Fitness
+http://108.136.37.52/m3u8/plex_POPSugar_Fitness.m3u8
+#EXTINF:-1 group-title="SPORTS",Sports Grid
+http://108.136.37.52/m3u8/plex_SportsGrid.m3u8
+#EXTINF:-1 group-title="SPORTS",USA Today Sportswire
+http://108.136.37.52/m3u8/plex_USA_Today_Sportswire.m3u8
+#EXTINF:-1 group-title="INDONESIA",[CHN] CCTV 4
+http://108.136.37.52/m3u8/uc_CCTV4.m3u8
+#EXTINF:-1 group-title="INDONESIA",All The K-POP
+http://108.136.37.52/m3u8/dm_All_The_KPOP.m3u8
+#EXTINF:-1 group-title="INDONESIA",[KOR] YTN News
+http://108.136.37.52/m3u8/dm_YTN_News.m3u8
+#EXTINF:-1 group-title="INDONESIA",Antara TV
+http://108.136.37.52/m3u8/uc_Antara.m3u8
+#EXTINF:-1 group-title="MOVIES",AXN
+http://125.209.88.166:45793/BRN/AXNHD.stream/playlist.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",Sony BBC Earth)
+http://125.209.88.166:45793/BRN/BBCEarthHD.stream/playlist.m3u8
+#EXTINF:-1 group-title="KIDS",Nick 1
+http://125.209.88.166:45793/BRN/Nickelodeon.stream/playlist.m3u8
+#EXTINF:-1 group-title="KIDS",Universal KIDS USA
+http://125.209.88.166:45793/BRN/CartoonNetwork.stream/playlist.m3u8
 #EXTINF:-1 group-title="500aj",Aljazeera Channel
 http://rr2.DENS.TV/s/s16/index.m3u8
 #EXTINF:-1 group-title="500aj",Aljazeera English
