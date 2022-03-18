@@ -2,6 +2,16 @@
 tom&jjerenk
 
 #EXTM3U
+#EXTINF:-1 group-title="SPORTS",Sporttv5
+##https://liv11octptsp.stblauncher.com/live/4275_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
+#EXTINF:-1 group-title="SPORTS",Eleven 1
+https://liv11octptsp.stblauncher.com/live/6643_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
+#EXTINF:-1 group-title="SPORTS",Eleven 2
+https://liv11octptsp.stblauncher.com/live/6644_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
+#EXTINF:-1 group-title="SPORTS",Eleven 3
+https://liv11octptsp.stblauncher.com/live/6645_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
+#EXTINF:-1 group-title="SPORTS",Eleven 4
+https://liv11octptsp.stblauncher.com/live/6646_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
 #EXTINF:-1,•✧✧•-NEDERLAND-•✧✧• 
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/42718
 #EXTINF:-1,|NL| COVID-19 LIVE WORLD MAP/COUNT
