@@ -1,9 +1,6 @@
 #EXTM3U
 tom&jjerenk
-#EXTINF:-1 group-title="LIVE EVENT", DONASI GOPAY 0851-5697-0606
-https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
-#EXTINF:-1 group-title="LIVE EVENT",TERIMKASIH SUDAH DONASI
-https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
+
 
 ######### INDONESIA #########
 
@@ -206,11 +203,11 @@ https://liveanevia.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mp
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/cnninternational.png" group-title="INDONESIA",CNN International
 https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
-#EXTINF:-1 group-title="INDONESIA", DONASI GOPAY 0851-5697-0606
-https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
+#EXTINF:-1 group-title="INDONESIA", 
 
-#EXTINF:-1 group-title="RELIGI", DONASI GOPAY 0851-5697-0606
-https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
+
+#EXTINF:-1 group-title="RELIGI", 
+
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgaGCW5YBR-B0iRd7xLk3Oc2_L9NG2juZ_D07jSRUXoqHMfmsXhEaj1b6AIu7sBgiH1rQLKAv5ty1t907ZFayTOrbiYKrBNObjss3sbrylv9AcWCg8Ps52G-9H_RZZ7m07QgrB-qd_A-1O69GND4R3Jqmdscsr2KNYUvk13CjDb3pBOB7UA-zvgwMbY=s320" group-title="RELIGI", Citra Muslim
 http://tvn.x10.bz/xchannel/master-9.m3u8
 #EXTINF:-1  group-title="RELIGI",ufa tv
@@ -313,11 +310,10 @@ https://tv.rodja.live/hidayah/streaming/chunklist_w1269386482.m3u8
 #EXTINF:-116 group-title="RELIGI" tvg-logo="https://live.artvisi.or.id/logo/binbaztv.png",BINBAZ TV
 https://h1.intechmedia.net/intech/ch22.m3u8
 
-#EXTINF:-1 LINK GRATIS,TIDAK DIJUAL!!! 
-https://dl.dropboxusercontent.com/s/pj053gi8326oeqd/halakkitach.ts
+
+
 ========================================================MAXSTREAM================================================
-#EXTINF:0 tvg-id="ext" group-title="MAXSTREAM", DONASI GOPAY 0851-5697-0606 
-https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
+
 #EXTINF:0 tvg-id="ext" group-title="MAXSTREAM",MTA TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/manifest.mpd
 #EXTINF:0 tvg-id="ext" group-title="MAXSTREAM",RODJA TV
@@ -350,8 +346,8 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(81b456ab-b398-4
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/manifest.mpd
 #EXTINF:0 tvg-id="ext" group-title="MAXSTREAM",Usee Photo
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/manifest.mpd
-#EXTINF:-1 DONASI GOPAY 0851-5697-0606
-https://auqv8a.dm.files.1drv.com/y4mTuEAODZk7CDvM_BRIfwcQN035qRxld0HlRRJDy1KY4nRImqYfZVaYVTEiOnEtNIRE0a-m3F463p9nsnllzIja6YDMM30Hz9GzAp0ESb0fG7gDTUxFuIjDbfP7VqYfu1Y1LEDZzfU6ZFMbD3Tpv-s7KwSlNvs_e9R8Chc8Xii-FWzUdTp6shpyy4wNDfW9_YbH-xVgwKXG-oOimI3CYF2rw/halakkita_1080p_1_.ts
+#EXTINF:-1 
+
 #EXTINF:0 tvg-id="ext" group-title="MAXSTREAM",Bali TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/manifest.mpd
 #EXTINF:0 tvg-id="ext" group-title="MAXSTREAM",Dunia Games TV
@@ -364,15 +360,12 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-4
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
 #EXTINF:0 tvg-id="ext" group-title="MAXSTREAM",KOMPAS TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
-#EXTINF:-1 group-title="INDONESIA", DONASI GOPAY 0851-5697-0606
-https://auqv8a.dm.files.1drv.com/y4mTuEAODZk7CDvM_BRIfwcQN035qRxld0HlRRJDy1KY4nRImqYfZVaYVTEiOnEtNIRE0a-m3F463p9nsnllzIja6YDMM30Hz9GzAp0ESb0fG7gDTUxFuIjDbfP7VqYfu1Y1LEDZzfU6ZFMbD3Tpv-s7KwSlNvs_e9R8Chc8Xii-FWzUdTp6shpyy4wNDfW9_YbH-xVgwKXG-oOimI3CYF2rw/halakkita_1080p_1_.ts
 
-#EXTINF:0 tvg-id="ext" group-title="DENS.TV", DONASI GOPAY 0851-5697-0606 
-https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
+
 ====++++++++++++++++=======≠+++++++++++++++++Kids============+++++++++++
 
-#EXTINF:0 tvg-id="ext" group-title="KIDS", DONASI GOPAY 0851-5697-0606 
-https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
+#EXTINF:0 tvg-id="ext" group-title="KIDS",  
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="TEST" group-title="KIDS",Cartoon Network 
@@ -404,7 +397,7 @@ http://indo.on-site.x10.mx/Sebuah-Usee/chunklist.m3u8?id=nickjr&bandwidth=defaul
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="TEST" group-title="KIDS",Cbebies 
-https://auqv8a.dm.files.1drv.com/y4mTuEAODZk7CDvM_BRIfwcQN035qRxld0HlRRJDy1KY4nRImqYfZVaYVTEiOnEtNIRE0a-m3F463p9nsnllzIja6YDMM30Hz9GzAp0ESb0fG7gDTUxFuIjDbfP7VqYfu1Y1LEDZzfU6ZFMbD3Tpv-s7KwSlNvs_e9R8Chc8Xii-FWzUdTp6shpyy4wNDfW9_YbH-xVgwKXG-oOimI3CYF2rw/halakkita_1080p_1_.ts
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="TEST" group-title="KIDS",Kids tv
@@ -449,12 +442,10 @@ http://210.210.155.35/dr9445/h/h02/01.m3u8
 http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="KIDS", 3ABN KIDS TV
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
-#EXTINF:-1 DONASI GOPAY 0851-5697-0606 
-https://auqv8a.dm.files.1drv.com/y4mTuEAODZk7CDvM_BRIfwcQN035qRxld0HlRRJDy1KY4nRImqYfZVaYVTEiOnEtNIRE0a-m3F463p9nsnllzIja6YDMM30Hz9GzAp0ESb0fG7gDTUxFuIjDbfP7VqYfu1Y1LEDZzfU6ZFMbD3Tpv-s7KwSlNvs_e9R8Chc8Xii-FWzUdTp6shpyy4wNDfW9_YbH-xVgwKXG-oOimI3CYF2rw/halakkita_1080p_1_.ts
+
 
 =====++++++++++++++++++++++++++++++++++++++++Knowledge=++++++++++==+++=+
-#EXTINF:0 tvg-id="ext" group-title="KNOWLEDGE", DONASI GOPAY 0851-5697-0606 
-https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
+
 #EXTINF:-1 tvg-id="afc" tvg-logo="https://i.postimg.cc/wBXjLmkQ/logo-afc-big.png" group-title="KNOWLEDGE",A.F.N 
 http://15.235.142.228:8080/live/hometvfree/selaludihati/87.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rp4mjwbW/BBC-EARTH.png" group-title="KNOWLEDGE",BBC Earth
@@ -536,16 +527,15 @@ http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=natgeowild&gumisasakTV
 https://liveanevia.mncnow.id:443/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
 #EXTINF:-1 tvg-logo="TEST" group-title="KNOWLEDGE",Crime Investigation backup
 http://15.235.142.228:8080/live/hometvfree/selaludihati/80.ts
-#EXTINF:-1 LINK GRATIS,TIDAK DIJUAL!!! 
-https://auqv8a.dm.files.1drv.com/y4mTuEAODZk7CDvM_BRIfwcQN035qRxld0HlRRJDy1KY4nRImqYfZVaYVTEiOnEtNIRE0a-m3F463p9nsnllzIja6YDMM30Hz9GzAp0ESb0fG7gDTUxFuIjDbfP7VqYfu1Y1LEDZzfU6ZFMbD3Tpv-s7KwSlNvs_e9R8Chc8Xii-FWzUdTp6shpyy4wNDfW9_YbH-xVgwKXG-oOimI3CYF2rw/halakkita_1080p_1_.ts
 
-#EXTINF:0 tvg-id="ext" group-title="TV SPORT", DONASI GOPAY 0851-5697-0606 
-https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
+
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BnbMFbPz/images-12.jpg" group-title="TV SPORT",Usee Sports 2
-https://auqv8a.dm.files.1drv.com/y4mTuEAODZk7CDvM_BRIfwcQN035qRxld0HlRRJDy1KY4nRImqYfZVaYVTEiOnEtNIRE0a-m3F463p9nsnllzIja6YDMM30Hz9GzAp0ESb0fG7gDTUxFuIjDbfP7VqYfu1Y1LEDZzfU6ZFMbD3Tpv-s7KwSlNvs_e9R8Chc8Xii-FWzUdTp6shpyy4wNDfW9_YbH-xVgwKXG-oOimI3CYF2rw/halakkita_1080p_1_.ts
+
 #EXTINF:-1 tvg-logo="gost"group-title="TV SPORT",SPOTV 2
-https://dl.dropboxusercontent.com/s/0805gpsr18v7hda/halakkita_1080p_1_.ts
-https://dl.dropboxusercontent.com/s/0805gpsr18v7hda/halakkita_1080p_1_.ts
+
+
 #EXTINF:-1,SPOTV malaysia
 http://iptv.tvmalaysia.cc:80/live/141078/141078/9033.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -558,8 +548,7 @@ https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 #EXTINF:-1,PPTV HD
 https://freelive2.inwstream.com:1936/freelive-edge/pptvhd/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TV SPORT", DONASI GOPAY 0851-5697-0606 
-https://dl.dropboxusercontent.com/s/0805gpsr18v7hda/halakkita_1080p_1_.ts
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT",MNC Sports
@@ -578,8 +567,8 @@ http://zalogitv.tech:8080/cubocubo/12345/24952
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:-1 group-title="TV SPORT", TVRI SPORT
 http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TV ENTERTAIN", DONASI GOPAY 0851-5697-0606 
-https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
+#EXTINF:0 tvg-id="ext" group-title="TV ENTERTAIN",  
+
 #EXTINF:-1 group-title="TV ENTERTAIN", CELESTIAL
 http://210.210.155.35/session/5bf247f6-7a97-11ec-8b65-b82a72d63267/dr9445/h/h14/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -687,8 +676,8 @@ https://cgk1.securepath.site/live/Thopani/Haidir/29592.ts?token=QhBYV0dYRg4TCFcC
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tse2.mm.bing.net/th?id=OIF.ToesmPjtr5JU3THZP89S9A&pid=Api&P=0&w=169&h=169" group-title="TV ENTERTAIN",Samurai
 http://61.19.242.134/feed/202105171329/LC2/index.m3u8
- #EXTINF:-1 LINK GRATIS,TIDAK DIJUAL!!! 
-https://auqv8a.dm.files.1drv.com/y4mTuEAODZk7CDvM_BRIfwcQN035qRxld0HlRRJDy1KY4nRImqYfZVaYVTEiOnEtNIRE0a-m3F463p9nsnllzIja6YDMM30Hz9GzAp0ESb0fG7gDTUxFuIjDbfP7VqYfu1Y1LEDZzfU6ZFMbD3Tpv-s7KwSlNvs_e9R8Chc8Xii-FWzUdTp6shpyy4wNDfW9_YbH-xVgwKXG-oOimI3CYF2rw/halakkita_1080p_1_.ts
+ 
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.Slm7FkzL6rgK9q8ZZUQrYAAAAA&pid=Api&P=0&w=203&h=203" group-title="TV ENTERTAIN",Box Film
@@ -703,9 +692,6 @@ https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/hitsmovies.png" group-title="TV ENTERTAIN",HITS Movies
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
-
-#EXTINF:0 tvg-id="ext" group-title="TV SPORT", DONASI GOPAY 0851-5697-0606 
-https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -774,10 +760,7 @@ http://tx2play1.douyucdn.cn/live/dyliveflv3/3637778raLSXdOdu_4000p.xs
 http://tx2play1.douyucdn.cn/20415rnWbjg6Ex1K_4000p.xs?uuid=
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="TV ENTERTAIN",MOVIES GROUP 4
 https://cn-lnsy-cu-live-01.bilivideo.com/live-bvc/992495/live_22989278_9714011.m3u8
-#EXTINF:-1 LINK GRATIS,TIDAK DIJUAL!!! 
-https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
-#EXTINF:0 tvg-id="ext" group-title="TV MUSIC", DONASI GOPAY 0851-5697-0606 
-https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
+
 #EXTINF:-1  tvg-id="maleo.id" group-title="TV MUSIC" tvg-logo="https://i.imgur.com/DJA7M8R.png",MALEO TV
 https://bravo.kugo.id/maleo/udp.stream_360p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="INDO | E-Konser" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="TV MUSIC",INDO | E-Konser
@@ -800,7 +783,6 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 #EXTINF:-1 group-title="TV MUSIC", MTV Yo
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
-#EXTINF:-1 LINK GRATIS,TIDAK DIJUAL!!! 
-https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
-#EXTINF:0 tvg-id="ext" group-title="ASTRO MALAYSIA", DONASI GOPAY 0851-5697-0606 
-https://dl.dropboxusercontent.com/s/0805gpsr18v7hda/halakkita_1080p_1_.ts
+
+
+#EXTINF:0 tvg-id="ext" group-title="ASTRO MALAYSIA",  
