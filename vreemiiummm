@@ -12,6 +12,16 @@ https://liv11octptsp.stblauncher.com/live/6644_.m3u8?token=bcc65a1fb3974adeaa616
 https://liv11octptsp.stblauncher.com/live/6645_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
 #EXTINF:-1 group-title="SPORTS",Eleven 4
 https://liv11octptsp.stblauncher.com/live/6646_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="filem",HBOSIG TH
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/104/104.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="filem",HBO TH
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/103/103.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="filem",HBOHIT TH
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/105/105.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="filem",HBOFAM TH
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/106/106.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="filem",HBOCinemax TH
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/107/107.mpd
 #EXTINF:-1,•✧✧•-NEDERLAND-•✧✧• 
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/42718
 #EXTINF:-1,|NL| COVID-19 LIVE WORLD MAP/COUNT
