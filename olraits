@@ -1,7 +1,32 @@
 #EXTM3U
 tompinx
 
-
+#EXTINF:-1 tvg-logo=""group-title="bebass",Indosiar
+http://begaltvku.site/vidprem/master.m3u8
+#EXTINF:-1 tvg-logo=""group-title="bebass",CitraBioskop
+http://begaltvku.site/vidprem/master-1.m3u8
+#EXTINF:-1 tvg-logo=""group-title="bebass",CitraDrama
+http://begaltvku.site/vidprem/master-2.m3u8
+#EXTINF:-1 tvg-logo=""group-title="bebass",LFCTV
+http://begaltvku.site/vidprem/master-3.m3u8
+#EXTINF:-1 tvg-logo=""group-title="bebass",HIP2HOREE
+http://begaltvku.site/vidprem/master-4.m3u8
+#EXTINF:-1 tvg-logo=""group-title="bebass",Horee
+http://begaltvku.site/vidprem/master-5.m3u8
+#EXTINF:-1 tvg-logo=""group-title="bebass",CitraMuslim
+http://begaltvku.site/vidprem/master-9.m3u8
+#EXTINF:-1 tvg-logo=""group-title="bebass",CitraDangdut
+http://begaltvku.site/vidprem/master-10.m3u8
+#EXTINF:-1 tvg-logo=""group-title="bebass",CitraEntertainmend
+http://begaltvku.site/vidprem/master-11.m3u8
+#EXTINF:-1 tvg-logo=""group-title="bebass",AnTv
+http://begaltvku.site/vidprem/master-12.m3u8
+#EXTINF:-1 tvg-logo=""group-title="bebass",TvOne
+http://begaltvku.site/vidprem/master-13.m3u8
+#EXTINF:-1 tvg-logo=""group-title="bebass",PramborFM
+http://begaltvku.site/vidprem/master-14.m3u8
+#EXTINF:-1 tvg-logo=""group-title="bebass",TVN
+http://begaltvku.site/vidprem/master-16.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e5/SCTV_Logo.png" group-title="PLAYLIST", SCTV
 http://akudandia.xyz/locs/akudandia-204.m3u8
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
