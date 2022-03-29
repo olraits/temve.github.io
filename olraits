@@ -1,5 +1,90 @@
 #EXTM3U
 tompinx
+#EXTM3U
+#EXTINF:-1, group-title: FRESHH, Super Sport Premier League
+http://51.79.223.166:8080/live/hometv/premium/1.ts
+#EXTINF:-1, group-title: FRESHH, Super Sport Laliga
+http://51.79.223.166:8080/live/hometv/premium/2.ts
+#EXTINF:-1, group-title: FRESHH, Super Sport Football
+http://51.79.223.166:8080/live/hometv/premium/3.ts
+#EXTINF:-1, group-title: FRESHH, Super Sport Tennis
+http://51.79.223.166:8080/live/hometv/premium/4.ts
+#EXTINF:-1, group-title: FRESHH, Super Sport MotorSport
+http://51.79.223.166:8080/live/hometv/premium/5.ts
+#EXTINF:-1, group-title: FRESHH, Super Sport Cricket
+http://51.79.223.166:8080/live/hometv/premium/6.ts
+#EXTINF:-1, group-title: FRESHH, Bt Sport 1
+http://51.79.223.166:8080/live/hometv/premium/7.ts
+#EXTINF:-1, group-title: FRESHH, Bt Sport 2
+http://51.79.223.166:8080/live/hometv/premium/8.ts
+#EXTINF:-1, group-title: FRESHH, Real Madrid TV
+http://51.79.223.166:8080/live/hometv/premium/10.ts
+#EXTINF:-1, group-title: FRESHH, Laliga TV Bar
+http://51.79.223.166:8080/live/hometv/premium/11.ts
+#EXTINF:-1, group-title: FRESHH, Bein Sport Xtra
+http://51.79.223.166:8080/live/hometv/premium/12.ts
+#EXTINF:-1, group-title: FRESHH, UFC
+http://51.79.223.166:8080/live/hometv/premium/13.ts
+#EXTINF:-1, group-title: FRESHH, Dunia Lain
+http://51.79.223.166:8080/live/hometv/premium/15.ts
+#EXTINF:-1, group-title: FRESHH, Korean Drama
+http://51.79.223.166:8080/live/hometv/premium/16.ts
+#EXTINF:-1, group-title: FRESHH, Sinema Indonesia
+http://51.79.223.166:8080/live/hometv/premium/17.ts
+#EXTINF:-1, group-title: FRESHH, K Plus
+http://51.79.223.166:8080/live/hometv/premium/18.ts
+#EXTINF:-1, group-title: FRESHH, Chinese Drama
+http://51.79.223.166:8080/live/hometv/premium/19.ts
+#EXTINF:-1, group-title: FRESHH, Dreamworks Kids
+http://51.79.223.166:8080/live/hometv/premium/20.ts
+#EXTINF:-1, group-title: FRESHH, Box Office 1
+http://51.79.223.166:8080/live/hometv/premium/21.ts
+#EXTINF:-1, group-title: FRESHH, Box Office 2
+http://51.79.223.166:8080/live/hometv/premium/22.ts
+#EXTINF:-1, group-title: FRESHH, Box Office 3
+http://51.79.223.166:8080/live/hometv/premium/23.ts
+#EXTINF:-1, group-title: FRESHH, Box Office 4
+http://51.79.223.166:8080/live/hometv/premium/24.ts
+#EXTINF:-1, group-title: FRESHH, Box Office 5
+http://51.79.223.166:8080/live/hometv/premium/25.ts
+#EXTINF:-1, group-title: FRESHH, Box Office 6
+http://51.79.223.166:8080/live/hometv/premium/26.ts
+#EXTINF:-1, group-title: FRESHH, horee
+http://51.79.223.166:8080/live/hometv/premium/27.ts
+#EXTINF:-1, group-title: FRESHH, My Kids
+http://51.79.223.166:8080/live/hometv/premium/28.ts
+#EXTINF:-1, group-title: FRESHH, Dunia Anak
+http://51.79.223.166:8080/live/hometv/premium/29.ts
+#EXTINF:-1, group-title: FRESHH, Baby First
+http://51.79.223.166:8080/live/hometv/premium/30.ts
+#EXTINF:-1, group-title: FRESHH, MTV Live
+http://51.79.223.166:8080/live/hometv/premium/31.ts
+#EXTINF:-1, group-title: FRESHH, Usee Sports 1
+http://51.79.223.166:8080/live/hometv/premium/32.ts
+#EXTINF:-1, group-title: FRESHH, Usee Sports 2
+http://51.79.223.166:8080/live/hometv/premium/33.ts
+#EXTINF:-1, group-title: FRESHH, Sky Sports Premier League
+http://51.79.223.166:8080/live/hometv/premium/34.ts
+#EXTINF:-1, group-title: FRESHH, Sky Sports Football
+http://51.79.223.166:8080/live/hometv/premium/37.ts
+#EXTINF:-1, group-title: FRESHH, Sky Sports Arena
+http://51.79.223.166:8080/live/hometv/premium/43.ts
+#EXTINF:-1, group-title: FRESHH, Sky Sports Premier League
+http://51.79.223.166:8080/live/hometv/premium/45.ts
+#EXTINF:-1, group-title: FRESHH, Fox Sports 502
+http://51.79.223.166:8080/live/hometv/premium/46.ts
+#EXTINF:-1, group-title: FRESHH, ch47
+http://51.79.223.166:8080/live/hometv/premium/47.ts
+#EXTINF:-1, group-title: FRESHH, ch48
+http://51.79.223.166:8080/live/hometv/premium/48.ts
+#EXTINF:-1, group-title: FRESHH, My Cinema
+http://51.79.223.166:8080/live/hometv/premium/240.ts
+#EXTINF:-1, group-title: FRESHH, My Cinema Family
+http://51.79.223.166:8080/live/hometv/premium/241.ts
+#EXTINF:-1, group-title: FRESHH, Nick Jr
+http://51.79.223.166:8080/live/hometv/premium/249.ts
+#EXTINF:-1, group-title: FRESHH, Nat Geo
+http://51.79.223.166:8080/live/hometv/premium/250.ts
 
 #EXTINF:-1 tvg-logo=""group-title="bebass",Indosiar
 http://begaltvku.site/vidprem/master.m3u8
