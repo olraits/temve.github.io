@@ -33,12 +33,6 @@ https://nonton.site:8443/Thopani/Haidir/352
 https://nonton.site:8443/Thopani/Haidir/786
 #EXTINF:-1 tvg-id="WakuWakuJapan.id" tvg-name="Waku Waku Japan HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/1200px-WakuWaku_Japan_logo.svg.png" group-title="FREEEEE",Waku Waku Japan HD
 https://nonton.site:8443/Thopani/Haidir/717
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Azad_Azerbaycan_TV_logosu.png/220px-Azad_Azerbaycan_TV_logosu.png" group-title="BBBBEBASMovie",ATV
 https://nonton.site:8443/Thopani/Haidir/29899
 #EXTINF:-1 tvg-id="AXN.id" tvg-name="AXN" tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png" group-title="BBBBEBASMovie",AXN
@@ -120,11 +114,6 @@ https://nonton.site:8443/Thopani/Haidir/4
 #EXTINF:-1 tvg-id="WarnerTV.id" tvg-name="Warner TV ID HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png" group-title="BBBBEBASMovie",Warner TV ID HD
 https://nonton.site:8443/Thopani/Haidir/1533
 
-
-
-
-
-
 #EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Animal Planet HD" tvg-logo="https://www.maryville.edu/wp-content/uploads/2017/08/channel-logo-animal-planet-1.png" group-title="BBBBEBASKnowledge",Animal Planet HD
 https://nonton.site:8443/Thopani/Haidir/358
 #EXTINF:-1 tvg-id="CrimeInvestigation.id" tvg-name="Crime Investigation" tvg-logo="https://www.useetv.com/assets/images/channel/logo_crimeinvestigation_small.png" group-title="BBBBEBASKnowledge",Crime Investigation
@@ -160,11 +149,6 @@ https://nonton.site:8443/Thopani/Haidir/35998
 #EXTINF:-1 tvg-id="" tvg-name="TV Edukasi" tvg-logo="" group-title="BBBBEBASKnowledge",TV Edukasi
 https://nonton.site:8443/Thopani/Haidir/36732
 
-
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="K Drama" tvg-logo="" group-title="BBBBEBASMovie",K Drama
 https://nonton.site:8443/Thopani/Haidir/35769
 #EXTINF:-1 tvg-id="Kplus.id" tvg-name="K Plus" tvg-logo="http://images2.useetv.com/logo_kplus_big1.png?v=1.0.0.0" group-title="BBBBEBASMovie",K Plus
@@ -179,12 +163,6 @@ https://nonton.site:8443/Thopani/Haidir/19
 https://nonton.site:8443/Thopani/Haidir/767
 #EXTINF:-1 tvg-id="TVNMovies.id" tvg-name="tVN Movies HD" tvg-logo="https://pbs.twimg.com/profile_images/805623069490364416/S08BM74i_400x400.jpg" group-title="BBBBEBASMovie",tVN Movies HD
 https://nonton.site:8443/Thopani/Haidir/927
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO RIA HD" tvg-logo="" group-title="BBBBEBASAstro",ASTRO RIA HD
 https://nonton.site:8443/Thopani/Haidir/37332
 #EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO PRIMA HD" tvg-logo="" group-title="BBBBEBASAstro",ASTRO PRIMA HD
@@ -365,89 +343,89 @@ https://nonton.site:8443/Thopani/Haidir/37460
 https://nonton.site:8443/Thopani/Haidir/37467
 #EXTINF:-1 tvg-id="" tvg-name="MY - Astro Aura HD" tvg-logo="" group-title="BBBBEBASAstro",Astro Aura HD
 https://nonton.site:8443/Thopani/Haidir/37468
-#EXTINF:-1, group-title: FRESHH, Super Sport Premier League
+#EXTINF:-1, group-title="FRESHH", Super Sport Premier League
 http://51.79.223.166:8080/live/hometv/premium/1.ts
-#EXTINF:-1, group-title: FRESHH, Super Sport Laliga
+#EXTINF:-1, group-title="FRESHH", Super Sport Laliga
 http://51.79.223.166:8080/live/hometv/premium/2.ts
-#EXTINF:-1, group-title: FRESHH, Super Sport Football
+#EXTINF:-1, group-title="FRESHH", Super Sport Football
 http://51.79.223.166:8080/live/hometv/premium/3.ts
-#EXTINF:-1, group-title: FRESHH, Super Sport Tennis
+#EXTINF:-1, group-title="FRESHH", Super Sport Tennis
 http://51.79.223.166:8080/live/hometv/premium/4.ts
-#EXTINF:-1, group-title: FRESHH, Super Sport MotorSport
+#EXTINF:-1, group-title="FRESHH", Super Sport MotorSport
 http://51.79.223.166:8080/live/hometv/premium/5.ts
-#EXTINF:-1, group-title: FRESHH, Super Sport Cricket
+#EXTINF:-1, group-title="FRESHH", Super Sport Cricket
 http://51.79.223.166:8080/live/hometv/premium/6.ts
-#EXTINF:-1, group-title: FRESHH, Bt Sport 1
+#EXTINF:-1, group-title="FRESHH", Bt Sport 1
 http://51.79.223.166:8080/live/hometv/premium/7.ts
-#EXTINF:-1, group-title: FRESHH, Bt Sport 2
+#EXTINF:-1, group-title="FRESHH", Bt Sport 2
 http://51.79.223.166:8080/live/hometv/premium/8.ts
-#EXTINF:-1, group-title: FRESHH, Real Madrid TV
+#EXTINF:-1, group-title="FRESHH", Real Madrid TV
 http://51.79.223.166:8080/live/hometv/premium/10.ts
-#EXTINF:-1, group-title: FRESHH, Laliga TV Bar
+#EXTINF:-1, group-title="FRESHH", Laliga TV Bar
 http://51.79.223.166:8080/live/hometv/premium/11.ts
-#EXTINF:-1, group-title: FRESHH, Bein Sport Xtra
+#EXTINF:-1, group-title="FRESHH", Bein Sport Xtra
 http://51.79.223.166:8080/live/hometv/premium/12.ts
-#EXTINF:-1, group-title: FRESHH, UFC
+#EXTINF:-1, group-title="FRESHH", UFC
 http://51.79.223.166:8080/live/hometv/premium/13.ts
-#EXTINF:-1, group-title: FRESHH, Dunia Lain
+#EXTINF:-1, group-title="FRESHH", Dunia Lain
 http://51.79.223.166:8080/live/hometv/premium/15.ts
-#EXTINF:-1, group-title: FRESHH, Korean Drama
+#EXTINF:-1, group-title="FRESHH", Korean Drama
 http://51.79.223.166:8080/live/hometv/premium/16.ts
-#EXTINF:-1, group-title: FRESHH, Sinema Indonesia
+#EXTINF:-1, group-title="FRESHH", Sinema Indonesia
 http://51.79.223.166:8080/live/hometv/premium/17.ts
-#EXTINF:-1, group-title: FRESHH, K Plus
+#EXTINF:-1, group-title="FRESHH", K Plus
 http://51.79.223.166:8080/live/hometv/premium/18.ts
-#EXTINF:-1, group-title: FRESHH, Chinese Drama
+#EXTINF:-1, group-title="FRESHH", Chinese Drama
 http://51.79.223.166:8080/live/hometv/premium/19.ts
-#EXTINF:-1, group-title: FRESHH, Dreamworks Kids
+#EXTINF:-1, group-title="FRESHH", Dreamworks Kids
 http://51.79.223.166:8080/live/hometv/premium/20.ts
-#EXTINF:-1, group-title: FRESHH, Box Office 1
+#EXTINF:-1, group-title="FRESHH", Box Office 1
 http://51.79.223.166:8080/live/hometv/premium/21.ts
-#EXTINF:-1, group-title: FRESHH, Box Office 2
+#EXTINF:-1, group-title="FRESHH", Box Office 2
 http://51.79.223.166:8080/live/hometv/premium/22.ts
-#EXTINF:-1, group-title: FRESHH, Box Office 3
+#EXTINF:-1, group-title="FRESHH", Box Office 3
 http://51.79.223.166:8080/live/hometv/premium/23.ts
-#EXTINF:-1, group-title: FRESHH, Box Office 4
+#EXTINF:-1, group-title="FRESHH", Box Office 4
 http://51.79.223.166:8080/live/hometv/premium/24.ts
-#EXTINF:-1, group-title: FRESHH, Box Office 5
+#EXTINF:-1, group-title="FRESHH", Box Office 5
 http://51.79.223.166:8080/live/hometv/premium/25.ts
-#EXTINF:-1, group-title: FRESHH, Box Office 6
+#EXTINF:-1, group-title="FRESHH", Box Office 6
 http://51.79.223.166:8080/live/hometv/premium/26.ts
-#EXTINF:-1, group-title: FRESHH, horee
+#EXTINF:-1, group-title="FRESHH", horee
 http://51.79.223.166:8080/live/hometv/premium/27.ts
-#EXTINF:-1, group-title: FRESHH, My Kids
+#EXTINF:-1, group-title="FRESHH", My Kids
 http://51.79.223.166:8080/live/hometv/premium/28.ts
-#EXTINF:-1, group-title: FRESHH, Dunia Anak
+#EXTINF:-1, group-title="FRESHH", Dunia Anak
 http://51.79.223.166:8080/live/hometv/premium/29.ts
-#EXTINF:-1, group-title: FRESHH, Baby First
+#EXTINF:-1, group-title="FRESHH", Baby First
 http://51.79.223.166:8080/live/hometv/premium/30.ts
-#EXTINF:-1, group-title: FRESHH, MTV Live
+#EXTINF:-1, group-title="FRESHH", MTV Live
 http://51.79.223.166:8080/live/hometv/premium/31.ts
-#EXTINF:-1, group-title: FRESHH, Usee Sports 1
+#EXTINF:-1, group-title="FRESHH", Usee Sports 1
 http://51.79.223.166:8080/live/hometv/premium/32.ts
-#EXTINF:-1, group-title: FRESHH, Usee Sports 2
+#EXTINF:-1, group-title="FRESHH", Usee Sports 2
 http://51.79.223.166:8080/live/hometv/premium/33.ts
-#EXTINF:-1, group-title: FRESHH, Sky Sports Premier League
+#EXTINF:-1, group-title="FRESHH", Sky Sports Premier League
 http://51.79.223.166:8080/live/hometv/premium/34.ts
-#EXTINF:-1, group-title: FRESHH, Sky Sports Football
+#EXTINF:-1, group-title="FRESHH", Sky Sports Football
 http://51.79.223.166:8080/live/hometv/premium/37.ts
-#EXTINF:-1, group-title: FRESHH, Sky Sports Arena
+#EXTINF:-1, group-title="FRESHH", Sky Sports Arena
 http://51.79.223.166:8080/live/hometv/premium/43.ts
-#EXTINF:-1, group-title: FRESHH, Sky Sports Premier League
+#EXTINF:-1, group-title="FRESHH", Sky Sports Premier League
 http://51.79.223.166:8080/live/hometv/premium/45.ts
-#EXTINF:-1, group-title: FRESHH, Fox Sports 502
+#EXTINF:-1, group-title="FRESHH", Fox Sports 502
 http://51.79.223.166:8080/live/hometv/premium/46.ts
-#EXTINF:-1, group-title: FRESHH, ch47
+#EXTINF:-1, group-title="FRESHH", ch47
 http://51.79.223.166:8080/live/hometv/premium/47.ts
-#EXTINF:-1, group-title: FRESHH, ch48
+#EXTINF:-1, group-title="FRESHH", ch48
 http://51.79.223.166:8080/live/hometv/premium/48.ts
-#EXTINF:-1, group-title: FRESHH, My Cinema
+#EXTINF:-1, group-title="FRESHH", My Cinema
 http://51.79.223.166:8080/live/hometv/premium/240.ts
-#EXTINF:-1, group-title: FRESHH, My Cinema Family
+#EXTINF:-1, group-title="FRESHH", My Cinema Family
 http://51.79.223.166:8080/live/hometv/premium/241.ts
-#EXTINF:-1, group-title: FRESHH, Nick Jr
+#EXTINF:-1, group-title="FRESHH", Nick Jr
 http://51.79.223.166:8080/live/hometv/premium/249.ts
-#EXTINF:-1, group-title: FRESHH, Nat Geo
+#EXTINF:-1, group-title="FRESHH", Nat Geo
 http://51.79.223.166:8080/live/hometv/premium/250.ts
 
 #EXTINF:-1 tvg-logo=""group-title="bebass",Indosiar
