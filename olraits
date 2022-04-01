@@ -1,348 +1,670 @@
 #EXTM3U
 tompinx
+#EXTINF:-1, group-title='wakwaww'  Nusantara TV
+http://203.77.246.50:5000/udp/239.1.1.14:5000
+#EXTINF:-1, group-title='wakwaww'  JAKTV
+http://203.77.246.50:5000/udp/239.1.1.8:5000
+#EXTINF:-1, group-title='wakwaww'  JTV
+http://203.77.246.50:5000/udp/239.1.1.68:5000
+#EXTINF:-1, group-title='wakwaww'  SInema ID
+http://203.77.246.50:5000/udp/239.1.1.74:5000
+#EXTINF:-1, group-title='wakwaww'  KDrana
+http://203.77.246.50:5000/udp/239.1.1.76:5000
+#EXTINF:-1, group-title='wakwaww'  DAAI
+http://203.77.246.50:5000/udp/239.1.1.78:5000
+#EXTINF:-1, group-title='wakwaww'  MetroTV
+http://203.77.246.50:5000/udp/239.1.1.66:5000
+#EXTINF:-1, group-title='wakwaww'  RTV
+http://203.77.246.50:5000/udp/239.1.1.70:5000
+#EXTINF:-1, group-title='wakwaww'  Net tv
+http://203.77.246.50:5000/udp/239.1.1.72:5000
+#EXTINF:-1, group-title='wakwaww'  antv
+http://203.77.246.50:5000/udp/239.1.1.104:5000
+#EXTINF:-1, group-title='wakwaww'  cctv 4
+http://203.77.246.50:5000/udp/239.1.1.98:5000
+#EXTINF:-1, group-title='wakwaww'  Indosiar
+http://203.77.246.50:5000/udp/239.1.1.110:5000
+#EXTINF:-1, group-title='wakwaww'  Trans 7
+http://203.77.246.50:5000/udp/239.1.1.102:5000
+#EXTINF:-1, group-title='wakwaww'  Trans tv
+http://203.77.246.50:5000/udp/239.1.1.100:5000
+#EXTINF:-1, group-title='wakwaww'  Kompas tv
+http://203.77.246.50:5000/udp/239.1.1.106:5000
+#EXTINF:-1, group-title='wakwaww'  cgtv
+http://203.77.246.50:5000/udp/239.1.1.112:5000
+#EXTINF:-1, group-title='wakwaww'  sctv
+http://203.77.246.50:5000/udp/239.1.1.108:5000
+#EXTINF:-1, group-title='wakwaww'  Rai Italy
+http://203.77.246.50:5000/udp/239.1.1.132:5000
+#EXTINF:-1, group-title='wakwaww'  Eastern
+http://203.77.246.50:5000/udp/239.1.1.130:5000
+#EXTINF:-1, group-title='wakwaww'  STAR TV
+http://203.77.246.50:5000/udp/239.1.1.142:5000
+#EXTINF:-1, group-title='wakwaww'  Saudi
+http://203.77.246.50:5000/udp/239.1.1.138:5000
+#EXTINF:-1, group-title='wakwaww'  V cenel
+http://203.77.246.50:5000/udp/239.1.1.144:5000
+#EXTINF:-1, group-title='wakwaww'  Rus
+http://203.77.246.50:5000/udp/239.1.1.164:5000
+#EXTINF:-1, group-title='wakwaww'  Tv Monde
+http://203.77.246.50:5000/udp/239.1.1.168:5000
+#EXTINF:-1, group-title='wakwaww'  CNA
+http://203.77.246.50:5000/udp/239.1.1.170:5000
+#EXTINF:-1, group-title='wakwaww'  TRT WW
+http://203.77.246.50:5000/udp/239.1.1.202:5000
+#EXTINF:-1, group-title='wakwaww'  RTP
+http://203.77.246.50:5000/udp/239.1.1.196:5000
+#EXTINF:-1, group-title='wakwaww'  INDI
+http://203.77.246.50:5000/udp/239.1.1.200:5000
+#EXTINF:-1, group-title='wakwaww'  Zee
+http://203.77.246.50:5000/udp/239.1.1.206:5000
+#EXTINF:-1, group-title='wakwaww'  CYD
+http://203.77.246.50:5000/udp/239.1.1.198:5000
+#EXTINF:-1, group-title='wakwaww'  Document TW
+http://203.77.246.50:5000/udp/239.1.1.204:5000
+#EXTINF:-1, group-title='wakwaww'  News HD TW
+http://203.77.246.50:5000/udp/239.1.1.228:5000
+#EXTINF:-1, group-title='wakwaww'  Zing
+http://203.77.246.50:5000/udp/239.1.1.232:5000
+#EXTINF:-1, group-title='wakwaww'  Zee Film
+http://203.77.246.50:5000/udp/239.1.1.234:5000
+#EXTINF:-1, group-title='wakwaww'  France news
+http://203.77.246.50:5000/udp/239.1.1.230:5000
+#EXTINF:-1, group-title='wakwaww'  News all HD
+http://203.77.246.50:5000/udp/239.1.1.226:5000
+#EXTINF:-1, group-title='wakwaww'  Arirang
+http://203.77.246.50:5000/udp/239.1.2.4:5000
+#EXTINF:-1, group-title='wakwaww'  NHK
+http://203.77.246.50:5000/udp/239.1.2.2:5000
+#EXTINF:-1, group-title='wakwaww'  CTGTN DOC
+http://203.77.246.50:5000/udp/239.1.2.6:5000
+#EXTINF:-1, group-title='wakwaww'  France 24
+http://203.77.246.50:5000/udp/239.1.2.36:5000
+#EXTINF:-1, group-title='wakwaww'  YTN Korea
+http://203.77.246.50:5000/udp/239.1.2.40:5000
+#EXTINF:-1, group-title='wakwaww'  KBS news
+http://203.77.246.50:5000/udp/239.1.2.38:5000
+#EXTINF:-1, group-title='wakwaww'  CGTN kor
+http://203.77.246.50:5000/udp/239.1.2.34:5000
+#EXTINF:-1, group-title='wakwaww'  Rodja
+http://203.77.246.50:5000/udp/239.1.2.70:5000
+#EXTINF:-1, group-title='wakwaww'  TVRI
+http://203.77.246.50:5000/udp/239.1.2.66:5000
+#EXTINF:-1, group-title='wakwaww'  Aljazeera ENG
+http://203.77.246.50:5000/udp/239.1.2.72:5000
+#EXTINF:-1, group-title='wakwaww'  cartoon
+http://203.77.246.50:5000/udp/239.1.2.76:5000
+#EXTINF:-1, group-title='wakwaww'  TVone
+http://203.77.246.50:5000/udp/239.1.2.68:5000
+#EXTINF:-1, group-title='wakwaww'  Asia movis
+http://203.77.246.50:5000/udp/239.1.2.74:5000
+#EXTINF:-1, group-title='wakwaww'  ROCK ENT
+http://203.77.246.50:5000/udp/239.1.2.130:5000
+#EXTINF:-1, group-title='wakwaww'  ROCK XTRM
+http://203.77.246.50:5000/udp/239.1.2.132:5000
+#EXTINF:-1, group-title='wakwaww'  DISCOVRY
+http://203.77.246.50:5000/udp/239.1.2.134:5000
+#EXTINF:-1, group-title='wakwaww'  Animal Plnet
+http://203.77.246.50:5000/udp/239.1.2.136:5000
+#EXTINF:-1, group-title='wakwaww'  Afn
+http://203.77.246.50:5000/udp/239.1.2.138:5000
+#EXTINF:-1, group-title='wakwaww'  TLC
+http://203.77.246.50:5000/udp/239.1.2.140:5000
+#EXTINF:-1, group-title='wakwaww'  AXN
+http://203.77.246.50:5000/udp/239.1.2.142:5000
+#EXTINF:-1, group-title='wakwaww'  ONE
+http://203.77.246.50:5000/udp/239.1.2.144:5000
+#EXTINF:-1, group-title='wakwaww'  GEM
+http://203.77.246.50:5000/udp/239.1.2.146:5000
+#EXTINF:-1, group-title='wakwaww'  Hits
+http://203.77.246.50:5000/udp/239.1.2.148:5000
+#EXTINF:-1, group-title='wakwaww'  BBC
+http://203.77.246.50:5000/udp/239.1.2.152:5000
+#EXTINF:-1, group-title='wakwaww'  HITS MOVIS HD
+http://203.77.246.50:5000/udp/239.1.2.150:5000
+#EXTINF:-1, group-title='wakwaww'  WB Tv
+http://203.77.246.50:5000/udp/239.1.2.156:5000
+#EXTINF:-1, group-title='wakwaww'  BoomeranX
+http://203.77.246.50:5000/udp/239.1.2.158:5000
+#EXTINF:-1, group-title='wakwaww'  KungFu CC
+http://203.77.246.50:5000/udp/239.1.2.162:5000
+#EXTINF:-1, group-title='wakwaww'  Cartoon Netw
+http://203.77.246.50:5000/udp/239.1.2.154:5000
+#EXTINF:-1, group-title='wakwaww'  CCTV 2
+http://203.77.246.50:5000/udp/239.1.2.166:5000
+#EXTINF:-1, group-title='wakwaww'  cctv 10
+http://203.77.246.50:5000/udp/239.1.2.170:5000
+#EXTINF:-1, group-title='wakwaww'  cctv 13
+http://203.77.246.50:5000/udp/239.1.2.178:5000
+#EXTINF:-1, group-title='wakwaww'  cctv 11
+http://203.77.246.50:5000/udp/239.1.2.172:5000
+#EXTINF:-1, group-title='wakwaww'  cctv 17
+http://203.77.246.50:5000/udp/239.1.2.168:5000
+#EXTINF:-1, group-title='wakwaww'  cctv 12
+http://203.77.246.50:5000/udp/239.1.2.174:5000
+#EXTINF:-1, group-title='wakwaww'  Stars
+http://203.77.246.50:5000/udp/239.1.2.186:5000
+#EXTINF:-1, group-title='wakwaww'  cctv 14
+http://203.77.246.50:5000/udp/239.1.2.180:5000
+#EXTINF:-1, group-title='wakwaww'  Makkah
+http://203.77.246.50:5000/udp/239.1.2.200:5000
+#EXTINF:-1, group-title='wakwaww'  Journey
+http://203.77.246.50:5000/udp/239.1.2.194:5000
+#EXTINF:-1, group-title='wakwaww'  Sunnah
+http://203.77.246.50:5000/udp/239.1.2.204:5000
+#EXTINF:-1, group-title='wakwaww'  Euronews
+http://203.77.246.50:5000/udp/239.1.2.206:5000
+#EXTINF:-1, group-title='wakwaww'  thrill Id
+http://203.77.246.50:5000/udp/239.1.2.216:5000
+#EXTINF:-1, group-title='wakwaww'  ROCK ENT
+http://203.77.246.50:5000/udp/239.1.2.220:5000
+#EXTINF:-1, group-title='wakwaww'  Discovry FHD
+http://203.77.246.50:5000/udp/239.1.2.224:5000
+#EXTINF:-1, group-title='wakwaww'  cctv 15
+http://203.77.246.50:5000/udp/239.1.2.212:5000
+#EXTINF:-1, group-title='wakwaww'  DSCRV +
+http://203.77.246.50:5000/udp/239.1.2.226:5000
+#EXTINF:-1, group-title='wakwaww'  cctv 7
+http://203.77.246.50:5000/udp/239.1.2.214:5000
+#EXTINF:-1, group-title='wakwaww'  Saudi HD
+http://203.77.246.50:5000/udp/239.1.2.208:5000
+#EXTINF:-1, group-title='wakwaww'  TPACE
+http://203.77.246.50:5000/udp/239.1.2.218:5000
+#EXTINF:-1, group-title='wakwaww'  Phoenix
+http://203.77.246.50:5000/udp/239.1.2.184:5000
+#EXTINF:-1, group-title='wakwaww'  Korea ent
+http://203.77.246.50:5000/udp/239.1.2.196:5000
+#EXTINF:-1, group-title='wakwaww'  axn
+http://203.77.246.50:5000/udp/239.1.2.234:5000
+#EXTINF:-1, group-title='wakwaww'  ent TW
+http://203.77.246.50:5000/udp/239.1.2.202:5000
+#EXTINF:-1, group-title='wakwaww'  CN news
+http://203.77.246.50:5000/udp/239.1.2.190:5000
+#EXTINF:-1, group-title='wakwaww'  Hits HD bu
+http://203.77.246.50:5000/udp/239.1.2.240:5000
+#EXTINF:-1, group-title='wakwaww'  TLC. HD
+http://203.77.246.50:5000/udp/239.1.2.232:5000
+#EXTINF:-1, group-title='wakwaww'  BBC news
+http://203.77.246.50:5000/udp/239.1.2.244:5000
+#EXTINF:-1, group-title='wakwaww'  HITS muviss HD
+http://203.77.246.50:5000/udp/239.1.2.242:5000
+#EXTINF:-1, group-title='wakwaww'  RCTI
+http://203.77.246.50:5000/udp/239.1.2.246:5000
+#EXTINF:-1, group-title='wakwaww'  afn HD
+http://203.77.246.50:5000/udp/239.1.2.228:5000
+#EXTINF:-1, group-title='wakwaww'  XTREME ROCK HD
+http://203.77.246.50:5000/udp/239.1.2.222:5000
+#EXTINF:-1, group-title='wakwaww'  GEM HD 2
+http://203.77.246.50:5000/udp/239.1.2.238:5000
+#EXTINF:-1, group-title='wakwaww'  ONE HD
+http://203.77.246.50:5000/udp/239.1.2.236:5000
+#EXTINF:-1, group-title='wakwaww'  Phoenixs
+http://203.77.246.50:5000/udp/239.1.3.38:5000
+#EXTINF:-1, group-title='wakwaww'  CN ET
+http://203.77.246.50:5000/udp/239.1.3.58:5000
+#EXTINF:-1, group-title='wakwaww'  CN ET2
+http://203.77.246.50:5000/udp/239.1.3.44:5000
+#EXTINF:-1, group-title='wakwaww'  Eastss 
+http://203.77.246.50:5000/udp/239.1.3.52:5000
+#EXTINF:-1, group-title='wakwaww'  CN TW
+http://203.77.246.50:5000/udp/239.1.3.42:5000
+#EXTINF:-1, group-title='wakwaww'  CN ET3
+http://203.77.246.50:5000/udp/239.1.3.40:5000
+#EXTINF:-1, group-title='wakwaww'  CN ETIV
+http://203.77.246.50:5000/udp/239.1.3.64:5000
+#EXTINF:-1, group-title='wakwaww'  RUSNew
+http://203.77.246.50:5000/udp/239.1.3.70:5000
+#EXTINF:-1, group-title='wakwaww'  CN adx
+http://203.77.246.50:5000/udp/239.1.3.50:5000
+#EXTINF:-1, group-title='wakwaww'  HBO FAM
+http://203.77.246.50:5000/udp/239.1.3.76:5000
+#EXTINF:-1, group-title='wakwaww'  ACC
+http://203.77.246.50:5000/udp/239.1.3.56:5000
+#EXTINF:-1, group-title='wakwaww'  New HD
+http://203.77.246.50:5000/udp/239.1.3.74:5000
+#EXTINF:-1, group-title='wakwaww'  New CN
+http://203.77.246.50:5000/udp/239.1.3.62:5000
+#EXTINF:-1, group-title='wakwaww'  RCTI HD
+http://203.77.246.50:5000/udp/239.1.3.80:5000
+#EXTINF:-1, group-title='wakwaww'  CNx HD
+http://203.77.246.50:5000/udp/239.1.3.84:5000
+#EXTINF:-1, group-title='wakwaww'  H80 Hits HD
+http://203.77.246.50:5000/udp/239.1.3.82:5000
+#EXTINF:-1, group-title='wakwaww'  New HDd
+http://203.77.246.50:5000/udp/239.1.3.54:5000
+#EXTINF:-1, group-title='wakwaww'  GTV HD
+http://203.77.246.50:5000/udp/239.1.3.68:5000
+#EXTINF:-1, group-title='wakwaww'  NewnewCN
+http://203.77.246.50:5000/udp/239.1.3.66:5000
+#EXTINF:-1, group-title='wakwaww'  MNC TV
+http://203.77.246.50:5000/udp/239.1.3.78:5000
+#EXTINF:-1, group-title='wonderss'  Nat Geo HD
+http://182.50.65.213:8888/udp/239.239.0.1:3001
+#EXTINF:-1, group-title='wonderss'  Star Bharat HD
+http://182.50.65.213:8888/udp/239.239.0.7:3001
+#EXTINF:-1, group-title='wonderss'  Service01 HD
+http://182.50.65.213:8888/udp/239.239.0.2:3001
+#EXTINF:-1, group-title='wonderss'  Service01 HD
+http://182.50.65.213:8888/udp/239.239.0.4:3001
+#EXTINF:-1, group-title='wonderss'  Service01 HD
+http://182.50.65.213:8888/udp/239.239.0.3:3001
+#EXTINF:-1, group-title='wonderss'  Service01
+http://182.50.65.213:8888/udp/239.239.0.9:3001
+#EXTINF:-1, group-title='wonderss'  AP1 HD
+http://182.50.65.213:8888/udp/239.239.0.11:3001
+#EXTINF:-1, group-title='wonderss'  Star Sports Select 2 HD
+http://182.50.65.213:8888/udp/239.239.0.5:3001
+#EXTINF:-1, group-title='wonderss'  Star Sports Select 1 HD
+http://182.50.65.213:8888/udp/239.239.0.6:3001
+#EXTINF:-1, group-title='wonderss'  SONY HD
+http://182.50.65.213:8888/udp/239.239.0.14:3001
+#EXTINF:-1, group-title='wonderss'  Star Gold Select HD
+http://182.50.65.213:8888/udp/239.239.0.12:3001
+#EXTINF:-1, group-title='wonderss'  Nick
+http://182.50.65.213:8888/udp/239.239.0.22:3001
+#EXTINF:-1, group-title='wonderss'  SONY SAB
+http://182.50.65.213:8888/udp/239.239.0.15:3001
+#EXTINF:-1, group-title='wonderss'  SONY MAX HD
+http://182.50.65.213:8888/udp/239.239.0.16:3001
+#EXTINF:-1, group-title='wonderss'  Disney Intl. HD
+http://182.50.65.213:8888/udp/239.239.0.18:3001
+#EXTINF:-1, group-title='wonderss'  Star Movies Select HD
+http://182.50.65.213:8888/udp/239.239.0.20:3001
+#EXTINF:-1, group-title='wonderss'  Service01 HD
+http://182.50.65.213:8888/udp/239.239.0.10:3001
+#EXTINF:-1, group-title='wonderss'  ZEE Classic
+http://182.50.65.213:8888/udp/239.239.0.30:3001
+#EXTINF:-1, group-title='wonderss'  STAR Gold 2
+http://182.50.65.213:8888/udp/239.239.0.31:3001
+#EXTINF:-1, group-title='wonderss'  Hungama
+http://182.50.65.213:8888/udp/239.239.0.32:3001
+#EXTINF:-1, group-title='wonderss'  TEN 1 HD
+http://182.50.65.213:8888/udp/239.239.0.33:3001
+#EXTINF:-1, group-title='wonderss'  TEN 2 HD
+http://182.50.65.213:8888/udp/239.239.0.34:3001
+#EXTINF:-1, group-title='wonderss'  TEN 3 HD
+http://182.50.65.213:8888/udp/239.239.0.35:3001
+#EXTINF:-1, group-title='wonderss'  Star Movies HD
+http://182.50.65.213:8888/udp/239.239.0.17:3001
+#EXTINF:-1, group-title='wonderss'  Colors
+http://182.50.65.213:8888/udp/239.239.0.23:3001
+#EXTINF:-1, group-title='wonderss'  Star Plus HD
+http://182.50.65.213:8888/udp/239.239.0.19:3001
+#EXTINF:-1, group-title='wonderss'  Avenues TV
+http://182.50.65.213:8888/udp/239.239.0.25:3001
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name=".idku" tvg-logo="" group-title="FREEEEE",.idku
-https://nonton.site:8443/Thopani/Haidir/36730
-#EXTINF:-1 tvg-id="AsianFoodNetwork.my" tvg-name="AFN HD" tvg-logo="" group-title="FREEEEE",AFN HD
-https://nonton.site:8443/Thopani/Haidir/807
-#EXTINF:-1 tvg-id="" tvg-name="BBC Lifestyle HD" tvg-logo="https://www.bbcasia.com/brand/assets/images/channel-assets/bbc-lifestyle/about-logo-bbc-lifestyle.png" group-title="FREEEEE",BBC Lifestyle HD
-https://nonton.site:8443/Thopani/Haidir/36766
-#EXTINF:-1 tvg-id="" tvg-name="Blue Ant Entertainment HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" group-title="FREEEEE",Blue Ant Entertainment HD
-https://nonton.site:8443/Thopani/Haidir/1506
-#EXTINF:-1 tvg-id="" tvg-name="Citra Drama" tvg-logo="" group-title="FREEEEE",Citra Drama
-https://nonton.site:8443/Thopani/Haidir/905
-#EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk6inbOH58fazeEgCQdAtua7ejGdoLdJWbPO_hHLNuO2qYZ4sx" group-title="FREEEEE",DMAX
-https://nonton.site:8443/Thopani/Haidir/483
-#EXTINF:-1 tvg-id="" tvg-name="Eat & Go" tvg-logo="" group-title="FREEEEE",Eat & Go
-https://nonton.site:8443/Thopani/Haidir/26979
-#EXTINF:-1 tvg-id="" tvg-name="Every Good Game" tvg-logo="" group-title="FREEEEE",Every Good Game
-https://nonton.site:8443/Thopani/Haidir/921
-#EXTINF:-1 tvg-id="" tvg-name="Fashion TV" tvg-logo="https://www.licenseindia.com/wp-content/uploads/2015/05/fashion-tv.gif" group-title="FREEEEE",Fashion TV
-https://nonton.site:8443/Thopani/Haidir/280
-#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="http://www.orcacommunications.com/wp-content/uploads/2018/01/hgtv.png" group-title="FREEEEE",HGTV
-https://nonton.site:8443/Thopani/Haidir/537
-#EXTINF:-1 tvg-id="" tvg-name="Insert" tvg-logo="https://www.transvision.co.id/img/channel/insert.png" group-title="FREEEEE",Insert
-https://nonton.site:8443/Thopani/Haidir/1763
-#EXTINF:-1 tvg-id="" tvg-name="NHK World Japan" tvg-logo="" group-title="FREEEEE",NHK World Japan
-https://nonton.site:8443/Thopani/Haidir/785
-#EXTINF:-1 tvg-id="" tvg-name="TLC English" tvg-logo="https://i.imgur.com/VuFFsjk.png" group-title="FREEEEE",TLC English
-https://nonton.site:8443/Thopani/Haidir/351
-#EXTINF:-1 tvg-id="ABC.au" tvg-name="TLC HD" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/tlc-hd-world-large.jpg" group-title="FREEEEE",TLC HD
-https://nonton.site:8443/Thopani/Haidir/352
-#EXTINF:-1 tvg-id="" tvg-name="TV 5 Monde Asie" tvg-logo="" group-title="FREEEEE",TV 5 Monde Asie
-https://nonton.site:8443/Thopani/Haidir/786
-#EXTINF:-1 tvg-id="WakuWakuJapan.id" tvg-name="Waku Waku Japan HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/1200px-WakuWaku_Japan_logo.svg.png" group-title="FREEEEE",Waku Waku Japan HD
-https://nonton.site:8443/Thopani/Haidir/717
-#EXTINF:-1 tvg-id="" tvg-name="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Azad_Azerbaycan_TV_logosu.png/220px-Azad_Azerbaycan_TV_logosu.png" group-title="BBBBEBASMovie",ATV
-https://nonton.site:8443/Thopani/Haidir/29899
-#EXTINF:-1 tvg-id="AXN.id" tvg-name="AXN" tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png" group-title="BBBBEBASMovie",AXN
-https://nonton.site:8443/Thopani/Haidir/9
-#EXTINF:-1 tvg-id="BioskopIndonesia.id" tvg-name="Bioskop Indonesia" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png" group-title="BBBBEBASMovie",Bioskop Indonesia
-https://nonton.site:8443/Thopani/Haidir/908
-#EXTINF:-1 tvg-id="" tvg-name="Blue Ant Extreme HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="BBBBEBASMovie",Blue Ant Extreme HD
-https://nonton.site:8443/Thopani/Haidir/811
-#EXTINF:-1 tvg-id="CelestialMovies.id" tvg-name="Celestial Movies" tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="BBBBEBASMovie",Celestial Movies
-https://nonton.site:8443/Thopani/Haidir/5
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax FHD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/412_100.png" group-title="BBBBEBASMovie",Cinemax FHD
-https://nonton.site:8443/Thopani/Haidir/30185
-#EXTINF:-1 tvg-id="CineMax.id" tvg-name="Cinemax ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/250px-611-cinemax.png" group-title="BBBBEBASMovie",Cinemax ID
-https://nonton.site:8443/Thopani/Haidir/2156
-#EXTINF:-1 tvg-id="" tvg-name="FLIK HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png" group-title="BBBBEBASMovie",FLIK HD
-https://nonton.site:8443/Thopani/Haidir/29592
-#EXTINF:-1 tvg-id="FOXActionMovies.id" tvg-name="Hits Movies" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_411.png" group-title="BBBBEBASMovie",Hits Movies
-https://nonton.site:8443/Thopani/Haidir/1478
-#EXTINF:-1 tvg-id="FOXActionMovies.id" tvg-name="Hits Movies HD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_411.png" group-title="BBBBEBASMovie",Hits Movies HD
-https://nonton.site:8443/Thopani/Haidir/99
-#EXTINF:-1 tvg-id="" tvg-name="My Family Channel" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_410.png" group-title="BBBBEBASMovie",My Family Channel
-https://nonton.site:8443/Thopani/Haidir/14994
-#EXTINF:-1 tvg-id="FOX.id" tvg-name="FOX HD" tvg-logo="https://mncvision.id/userfiles/image/channel/fox_channel.png" group-title="BBBBEBASMovie",FOX HD
-https://nonton.site:8443/Thopani/Haidir/95
-#EXTINF:-1 tvg-id="FoxLife.id" tvg-name="HITS" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082015/fox-life_0.png" group-title="BBBBEBASMovie",HITS
-https://nonton.site:8443/Thopani/Haidir/94
-#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="Paramount Network" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_409.png" group-title="BBBBEBASMovie",Paramount Network
-https://nonton.site:8443/Thopani/Haidir/98
-#EXTINF:-1 tvg-id="" tvg-name="Galaxy Premium SD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png" group-title="BBBBEBASMovie",Galaxy Premium SD
-https://nonton.site:8443/Thopani/Haidir/29603
-#EXTINF:-1 tvg-id="" tvg-name="Galaxy SD" tvg-logo="https://2.bp.blogspot.com/-1zfZ3rEhu5s/V9OB0jOkU7I/AAAAAAAAfUQ/A9F_Fl1q51k_ONOLTVDyIT8sU3WS2nxhACLcB/s1600/galaxy-channel-tv-logo.png" group-title="BBBBEBASMovie",Galaxy SD
-https://nonton.site:8443/Thopani/Haidir/29604
-#EXTINF:-1 tvg-id="" tvg-name="HBO Family FHD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_family.png" group-title="BBBBEBASMovie",HBO Family FHD
-https://nonton.site:8443/Thopani/Haidir/30184
-#EXTINF:-1 tvg-id="HBOFamily.id" tvg-name="HBO Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="BBBBEBASMovie",HBO Family HD
-https://nonton.site:8443/Thopani/Haidir/592
-#EXTINF:-1 tvg-id="" tvg-name="HBO Family SD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_family.png" group-title="BBBBEBASMovie",HBO Family SD
-https://nonton.site:8443/Thopani/Haidir/26598
-#EXTINF:-1 tvg-id="" tvg-name="HBO FHD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/431_300.png" group-title="BBBBEBASMovie",HBO FHD
-https://nonton.site:8443/Thopani/Haidir/1496
-#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO HD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="BBBBEBASMovie",HBO HD
-https://nonton.site:8443/Thopani/Haidir/210
-#EXTINF:-1 tvg-id="HBOHits.id" tvg-name="HBO Hits FHD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_family.png" group-title="BBBBEBASMovie",HBO Hits FHD
-https://nonton.site:8443/Thopani/Haidir/11492
-#EXTINF:-1 tvg-id="HBOHits.id" tvg-name="HBO Hits HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="BBBBEBASMovie",HBO Hits HD
-https://nonton.site:8443/Thopani/Haidir/591
-#EXTINF:-1 tvg-id="" tvg-name="HBO Hits SD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_hits.png" group-title="BBBBEBASMovie",HBO Hits SD
-https://nonton.site:8443/Thopani/Haidir/26596
-#EXTINF:-1 tvg-id="" tvg-name="HBO SD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="BBBBEBASMovie",HBO SD
-https://nonton.site:8443/Thopani/Haidir/26595
-#EXTINF:-1 tvg-id="HBOSignature.id" tvg-name="HBO Signature FHD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="BBBBEBASMovie",HBO Signature FHD
-https://nonton.site:8443/Thopani/Haidir/1498
-#EXTINF:-1 tvg-id="HBOSignature.id" tvg-name="HBO Signature HD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="BBBBEBASMovie",HBO Signature HD
-https://nonton.site:8443/Thopani/Haidir/873
-#EXTINF:-1 tvg-id="" tvg-name="HBO Signature SD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="BBBBEBASMovie",HBO Signature SD
-https://nonton.site:8443/Thopani/Haidir/26597
-#EXTINF:-1 tvg-id="HITS.id" tvg-name="HITS HD" tvg-logo="https://cms.cignal.tv/Upload/Images/Hits.png" group-title="BBBBEBASMovie",HITS HD
-https://nonton.site:8443/Thopani/Haidir/1195
-#EXTINF:-1 tvg-id="" tvg-name="Hits Movie SD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_169.png" group-title="BBBBEBASMovie",Hits Movie SD
-https://nonton.site:8443/Thopani/Haidir/957
-#EXTINF:-1 tvg-id="" tvg-name="IMC SD" tvg-logo="" group-title="BBBBEBASMovie",IMC SD
-https://nonton.site:8443/Thopani/Haidir/35484
-#EXTINF:-1 tvg-id="" tvg-name="IN: & Picture" tvg-logo="" group-title="BBBBEBASMovie",IN: & Picture
-https://nonton.site:8443/Thopani/Haidir/31875
-#EXTINF:-1 tvg-id="" tvg-name="IN: &TV HD" tvg-logo="" group-title="BBBBEBASMovie",IN: &TV HD
-https://nonton.site:8443/Thopani/Haidir/31876
-#EXTINF:-1 tvg-id="KIX.id" tvg-name="KIX HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png" group-title="BBBBEBASMovie",KIX HD
-https://nonton.site:8443/Thopani/Haidir/8
-#EXTINF:-1 tvg-id="Lifetime.id" tvg-name="LifeTime HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_lifetime_small.png" group-title="BBBBEBASMovie",LifeTime HD
-https://nonton.site:8443/Thopani/Haidir/866
-#EXTINF:-1 tvg-id="" tvg-name="Star Chinese Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f0/Star_chinese_movies_2012.png" group-title="BBBBEBASMovie",Star Chinese Movies HD
-https://nonton.site:8443/Thopani/Haidir/780
-#EXTINF:-1 tvg-id="" tvg-name="Star Chinese Movies Legend" tvg-logo="https://www.infotelevisi.com/asset/images/tv/star_chinese_movies_legend.png" group-title="BBBBEBASMovie",Star Chinese Movies Legend
-https://nonton.site:8443/Thopani/Haidir/1859
-#EXTINF:-1 tvg-id="ABC.au" tvg-name="Star World" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Star_World_2016_logo.png/200px-Star_World_2016_logo.png" group-title="BBBBEBASMovie",Star World
-https://nonton.site:8443/Thopani/Haidir/381
-#EXTINF:-1 tvg-id="Thrill.id" tvg-name="Thrill" tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="BBBBEBASMovie",Thrill
-https://nonton.site:8443/Thopani/Haidir/4
-#EXTINF:-1 tvg-id="WarnerTV.id" tvg-name="Warner TV ID HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png" group-title="BBBBEBASMovie",Warner TV ID HD
-https://nonton.site:8443/Thopani/Haidir/1533
+#EXTINF:-1, group-title='wonderss'  AMC
+http://149.62.183.208:8000/play/a0cl/index.m3u8
+#EXTINF:-1, group-title='wonderss'  AXN Black
+http://149.62.183.208:8000/play/a0d3/index.m3u8
+#EXTINF:-1, group-title='wonderss'  AXN CZ
+http://149.62.183.208:8000/play/a0f9/index.m3u8
+#EXTINF:-1, group-title='wonderss'  AXN White
+http://149.62.183.208:8000/play/a0d4/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Adventure TV
+http://149.62.183.208:8000/play/a0dv/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Alfa Omega
+http://149.62.183.208:8000/play/a0h4/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Arena Sport 1 HD
+http://149.62.183.208:8000/play/a0fj/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Barrandov Krimi
+http://149.62.183.208:8000/play/a0fh/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Bravo Music
+http://149.62.183.208:8000/play/a05u/index.m3u8
+#EXTINF:-1, group-title='wonderss'  CANAL+ Domo
+http://149.62.183.208:8000/play/a0fl/index.m3u8
+#EXTINF:-1, group-title='wonderss'  CBS Reality
+http://149.62.183.208:8000/play/a0ft/index.m3u8
+#EXTINF:-1, group-title='wonderss'  CNN Prima News HD
+http://149.62.183.208:8000/play/a0cp/index.m3u8
+#EXTINF:-1, group-title='wonderss'  CS Film
+http://149.62.183.208:8000/play/a0cc/index.m3u8
+#EXTINF:-1, group-title='wonderss'  CS History
+http://149.62.183.208:8000/play/a0g6/index.m3u8
+#EXTINF:-1, group-title='wonderss'  CS Mystery
+http://149.62.183.208:8000/play/a0g1/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Cartoon Network CZ
+http://149.62.183.208:8000/play/a0ck/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Cinemax HD
+http://149.62.183.208:8000/play/a0fm/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Cinemax2 HD
+http://149.62.183.208:8000/play/a0dt/index.m3u8
+#EXTINF:-1, group-title='wonderss'  City Play
+http://149.62.183.208:8000/play/a072/index.m3u8
+#EXTINF:-1, group-title='wonderss'  DAJTO HD
+http://149.62.183.208:8000/play/a0bw/index.m3u8
+#EXTINF:-1, group-title='wonderss'  DIGI 24
+http://149.62.183.208:8000/play/a0gv/index.m3u8
+#EXTINF:-1, group-title='wonderss'  DOCUBOX
+http://149.62.183.208:8000/play/a0c7/index.m3u8
+#EXTINF:-1, group-title='wonderss'  DOMA HD
+http://149.62.183.208:8000/play/a0ev/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Disney CZ
+http://149.62.183.208:8000/play/a0cm/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Dvojka HD
+http://149.62.183.208:8000/play/a0dd/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Etno TV
+http://149.62.183.208:8000/play/a0gw/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Extreme Sports Channel
+http://149.62.183.208:8000/play/a0d5/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Favorit TV
+http://149.62.183.208:8000/play/a0h3/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Film Europe HD
+http://149.62.183.208:8000/play/a0fn/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Film Europe+ HD
+http://149.62.183.208:8000/play/a0du/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Film+ HD
+http://149.62.183.208:8000/play/a0dp/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Film+ SK
+http://149.62.183.208:8000/play/a0db/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Filmbox
+http://149.62.183.208:8000/play/a0cb/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Filmbox Extra HD
+http://149.62.183.208:8000/play/a0fo/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Filmbox Family
+http://149.62.183.208:8000/play/a0fu/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Filmbox Premium HD
+http://149.62.183.208:8000/play/a0ds/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Filmbox Stars
+http://149.62.183.208:8000/play/a0dw/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Fishing and Hunting
+http://149.62.183.208:8000/play/a0f8/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Golf Channel
+http://149.62.183.208:8000/play/a0fv/index.m3u8
+#EXTINF:-1, group-title='wonderss'  HA HA
+http://149.62.183.208:8000/play/a07b/index.m3u8
+#EXTINF:-1, group-title='wonderss'  HBO HD
+http://149.62.183.208:8000/play/a0f2/index.m3u8
+#EXTINF:-1, group-title='wonderss'  HBO2 HD
+http://149.62.183.208:8000/play/a0dq/index.m3u8
+#EXTINF:-1, group-title='wonderss'  HBO3 HD
+http://149.62.183.208:8000/play/a0dr/index.m3u8
+#EXTINF:-1, group-title='wonderss'  History HD
+http://149.62.183.208:8000/play/a0fw/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Hobby TV
+http://149.62.183.208:8000/play/a0fq/index.m3u8
+#EXTINF:-1, group-title='wonderss'  JOJ Cinema +1 HD
+http://149.62.183.208:8000/play/a0g3/index.m3u8
+#EXTINF:-1, group-title='wonderss'  JOJ Cinema HD
+http://149.62.183.208:8000/play/a0g5/index.m3u8
+#EXTINF:-1, group-title='wonderss'  JOJ Family HD
+http://149.62.183.208:8000/play/a0en/index.m3u8
+#EXTINF:-1, group-title='wonderss'  JOJ PLUS HD
+http://149.62.183.208:8000/play/a0by/index.m3u8
+#EXTINF:-1, group-title='wonderss'  JOJ Sport HD
+http://149.62.183.208:8000/play/a0c3/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Jednotka HD
+http://149.62.183.208:8000/play/a0dc/index.m3u8
+#EXTINF:-1, group-title='wonderss'  JimJam CZ
+http://149.62.183.208:8000/play/a0fx/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Jojko
+http://149.62.183.208:8000/play/a0bz/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Kino Barrandov
+http://149.62.183.208:8000/play/a0fg/index.m3u8
+#EXTINF:-1, group-title='wonderss'  LALA TV
+http://149.62.183.208:8000/play/a0fk/index.m3u8
+#EXTINF:-1, group-title='wonderss'  LOL
+http://149.62.183.208:8000/play/a07c/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Love Nature HD CZ
+http://149.62.183.208:8000/play/a0f6/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Love Nature HD INT
+http://149.62.183.208:8000/play/a0fd/index.m3u8
+#EXTINF:-1, group-title='wonderss'  MTV Europe CZ
+http://149.62.183.208:8000/play/a0f3/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Markiza +1 HD
+http://149.62.183.208:8000/play/a0et/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Markiza HD
+http://149.62.183.208:8000/play/a0eu/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Markiza International
+http://149.62.183.208:8000/play/a0ek/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Minimax
+http://149.62.183.208:8000/play/a0dy/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Mnam TV
+http://149.62.183.208:8000/play/a0dx/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Nat Geo HD
+http://149.62.183.208:8000/play/a0ex/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Nat Geo HD CZ
+http://149.62.183.208:8000/play/a0ey/index.m3u8
+#EXTINF:-1, group-title='wonderss'  National Geographic Wild HD
+http://149.62.183.208:8000/play/a0ez/index.m3u8
+#EXTINF:-1, group-title='wonderss'  National Geographic Wild HD CZ
+http://149.62.183.208:8000/play/a0f0/index.m3u8
+#EXTINF:-1, group-title='wonderss'  National Geographic Wild HD DUT
+http://149.62.183.208:8000/play/a0f1/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Nick Jr Czech
+http://149.62.183.208:8000/play/a0ch/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Nickelodeon CZ
+http://149.62.183.208:8000/play/a0g8/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Nicktoons CZ
+http://149.62.183.208:8000/play/a0d9/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Nova +1 HD
+http://149.62.183.208:8000/play/a0es/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Nova Action HD
+http://149.62.183.208:8000/play/a0bt/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Nova Cinema HD
+http://149.62.183.208:8000/play/a0bu/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Nova Fun HD
+http://149.62.183.208:8000/play/a0em/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Nova Gold
+http://149.62.183.208:8000/play/a0el/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Nova HD
+http://149.62.183.208:8000/play/a0bq/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Nova International
+http://149.62.183.208:8000/play/a0c0/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Nova Sport 1 HD
+http://149.62.183.208:8000/play/a0bs/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Nova Sport 2 HD
+http://149.62.183.208:8000/play/a0ei/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Paramount Network
+http://149.62.183.208:8000/play/a0c8/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Penthouse Gold CZ
+http://149.62.183.208:8000/play/a0ep/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Penthouse Quickies CZ
+http://149.62.183.208:8000/play/a0er/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Pink Action
+http://149.62.183.208:8000/play/a06s/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Pink BH
+http://149.62.183.208:8000/play/a07d/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Pink Classic
+http://149.62.183.208:8000/play/a074/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Pink Comedy
+http://149.62.183.208:8000/play/a05l/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Pink Crime&Mystery
+http://149.62.183.208:8000/play/a059/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Pink Extra
+http://149.62.183.208:8000/play/a06r/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Pink Family
+http://149.62.183.208:8000/play/a06w/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Pink Fashion
+http://149.62.183.208:8000/play/a05s/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Pink Film
+http://149.62.183.208:8000/play/a06u/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Pink Folk
+http://149.62.183.208:8000/play/a05k/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Pink Folk 2
+http://149.62.183.208:8000/play/a05n/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Pink HD
+http://149.62.183.208:8000/play/a05o/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Pink Hits 1
+http://149.62.183.208:8000/play/a05t/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Pink Hits 2
+http://149.62.183.208:8000/play/a05i/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Pink Horror
+http://149.62.183.208:8000/play/a05m/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Pink Kids
+http://149.62.183.208:8000/play/a06y/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Pink Koncert
+http://149.62.183.208:8000/play/a05j/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Pink Kuvar
+http://149.62.183.208:8000/play/a079/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Pink M
+http://149.62.183.208:8000/play/a07e/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Pink Movies
+http://149.62.183.208:8000/play/a06t/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Pink Music
+http://149.62.183.208:8000/play/a06v/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Pink Music 2
+http://149.62.183.208:8000/play/a070/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Pink Pedia
+http://149.62.183.208:8000/play/a05h/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Pink Plus
+http://149.62.183.208:8000/play/a06q/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Pink Premium HD
+http://149.62.183.208:8000/play/a05d/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Pink Reality
+http://149.62.183.208:8000/play/a05c/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Pink Romance
+http://149.62.183.208:8000/play/a05a/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Pink Sci-Fi&Fantasy
+http://149.62.183.208:8000/play/a05b/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Pink Serije
+http://149.62.183.208:8000/play/a076/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Pink Show
+http://149.62.183.208:8000/play/a078/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Pink Soap
+http://149.62.183.208:8000/play/a05e/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Pink Style
+http://149.62.183.208:8000/play/a05q/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Pink Super Kids
+http://149.62.183.208:8000/play/a07a/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Pink Thriller
+http://149.62.183.208:8000/play/a058/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Pink Western
+http://149.62.183.208:8000/play/a073/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Pink World
+http://149.62.183.208:8000/play/a05f/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Pink World Cinema
+http://149.62.183.208:8000/play/a077/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Pink Zabava
+http://149.62.183.208:8000/play/a05g/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Pink&Roll
+http://149.62.183.208:8000/play/a05r/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Prima COOL HD
+http://149.62.183.208:8000/play/a0bv/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Prima HD
+http://149.62.183.208:8000/play/a0br/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Prima KRIMI
+http://149.62.183.208:8000/play/a0c1/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Prima Love HD
+http://149.62.183.208:8000/play/a0cg/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Prima MAX HD
+http://149.62.183.208:8000/play/a0c9/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Prima ZOOM HD
+http://149.62.183.208:8000/play/a0ca/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Prime
+http://149.62.183.208:8000/play/a0cw/index.m3u8
+#EXTINF:-1, group-title='wonderss'  RTL Gold
+http://149.62.183.208:8000/play/a0cz/index.m3u8
+#EXTINF:-1, group-title='wonderss'  RTL Klub HD
+http://149.62.183.208:8000/play/a0d6/index.m3u8
+#EXTINF:-1, group-title='wonderss'  RTL+
+http://149.62.183.208:8000/play/a0cy/index.m3u8
+#EXTINF:-1, group-title='wonderss'  RTL2 HD
+http://149.62.183.208:8000/play/a0cx/index.m3u8
+#EXTINF:-1, group-title='wonderss'  RTVS 24 HD
+http://149.62.183.208:8000/play/a0de/index.m3u8
+#EXTINF:-1, group-title='wonderss'  RTVS SPORT HD
+http://149.62.183.208:8000/play/a0df/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Red HD
+http://149.62.183.208:8000/play/a05p/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Retro Music TV
+http://149.62.183.208:8000/play/a0fy/index.m3u8
+#EXTINF:-1, group-title='wonderss'  STORY4
+http://149.62.183.208:8000/play/a0d7/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Senzi
+http://149.62.183.208:8000/play/a0ci/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Seznam.cz HD
+http://149.62.183.208:8000/play/a0g7/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Slager Muzika
+http://149.62.183.208:8000/play/a0c2/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Slager Original
+http://149.62.183.208:8000/play/a0g2/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Slagr Premium HD
+http://149.62.183.208:8000/play/a0fs/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Spektrum HD
+http://149.62.183.208:8000/play/a0f7/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Spektrum Home
+http://149.62.183.208:8000/play/a0d8/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Sport 1 HD
+http://149.62.183.208:8000/play/a0g0/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Sport 2 HD
+http://149.62.183.208:8000/play/a0fb/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Sport 5
+http://149.62.183.208:8000/play/a0fc/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Stingray CMusic
+http://149.62.183.208:8000/play/a0f4/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Stingray CMusic CZ
+http://149.62.183.208:8000/play/a0f5/index.m3u8
+#EXTINF:-1, group-title='wonderss'  SuperTV2
+http://149.62.183.208:8000/play/a0d0/index.m3u8
+#EXTINF:-1, group-title='wonderss'  TV Barrandov HD
+http://149.62.183.208:8000/play/a0ff/index.m3u8
+#EXTINF:-1, group-title='wonderss'  TV JOJ +1 HD
+http://149.62.183.208:8000/play/a0g4/index.m3u8
+#EXTINF:-1, group-title='wonderss'  TV JOJ HD
+http://149.62.183.208:8000/play/a0bx/index.m3u8
+#EXTINF:-1, group-title='wonderss'  TV Paprika
+http://149.62.183.208:8000/play/a0co/index.m3u8
+#EXTINF:-1, group-title='wonderss'  TV2
+http://149.62.183.208:8000/play/a0d1/index.m3u8
+#EXTINF:-1, group-title='wonderss'  TV4
+http://149.62.183.208:8000/play/a0d2/index.m3u8
+#EXTINF:-1, group-title='wonderss'  TV8 HD
+http://149.62.183.208:8000/play/a0e0/index.m3u8
+#EXTINF:-1, group-title='wonderss'  TVR Cluj
+http://149.62.183.208:8000/play/a0gx/index.m3u8
+#EXTINF:-1, group-title='wonderss'  TVR Craiova
+http://149.62.183.208:8000/play/a0gy/index.m3u8
+#EXTINF:-1, group-title='wonderss'  TVR Iasi
+http://149.62.183.208:8000/play/a0gz/index.m3u8
+#EXTINF:-1, group-title='wonderss'  TVR Tg Mures
+http://149.62.183.208:8000/play/a0h1/index.m3u8
+#EXTINF:-1, group-title='wonderss'  TVR Timisoara
+http://149.62.183.208:8000/play/a0h0/index.m3u8
+#EXTINF:-1, group-title='wonderss'  UP NETWORK CZ
+http://149.62.183.208:8000/play/a0fr/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Vesti HD
+http://149.62.183.208:8000/play/a057/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Viasat Explore
+http://149.62.183.208:8000/play/a0fp/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Viasat History HD
+http://149.62.183.208:8000/play/a0dn/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Viasat Nature HD
+http://149.62.183.208:8000/play/a0do/index.m3u8
+#EXTINF:-1, group-title='wonderss'  Vixen HD
+http://149.62.183.208:8000/play/a0fa/index.m3u8
+#EXTINF:-1, group-title='wonderss'  WAU HD
+http://149.62.183.208:8000/play/a0ej/index.m3u8
 
-#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Animal Planet HD" tvg-logo="https://www.maryville.edu/wp-content/uploads/2017/08/channel-logo-animal-planet-1.png" group-title="BBBBEBASKnowledge",Animal Planet HD
-https://nonton.site:8443/Thopani/Haidir/358
-#EXTINF:-1 tvg-id="CrimeInvestigation.id" tvg-name="Crime Investigation" tvg-logo="https://www.useetv.com/assets/images/channel/logo_crimeinvestigation_small.png" group-title="BBBBEBASKnowledge",Crime Investigation
-https://nonton.site:8443/Thopani/Haidir/332
-#EXTINF:-1 tvg-id="" tvg-name="Da Vinci Learning" tvg-logo="" group-title="BBBBEBASKnowledge",Da Vinci Learning
-https://nonton.site:8443/Thopani/Haidir/36729
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Asia" tvg-logo="https://stagingcms.cignal.tv/Upload/Images/Discovery-Asia.png" group-title="BBBBEBASKnowledge",Discovery Asia
-https://nonton.site:8443/Thopani/Haidir/779
-#EXTINF:-1 tvg-id="DiscoveryAsia.my" tvg-name="Discovery Channel HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png" group-title="BBBBEBASKnowledge",Discovery Channel HD
-https://nonton.site:8443/Thopani/Haidir/165
-#EXTINF:-1 tvg-id="DiscoveryShed.uk" tvg-name="Discovery Shed" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Discovery_Shed.png/150px-Discovery_Shed.png" group-title="BBBBEBASKnowledge",Discovery Shed
-https://nonton.site:8443/Thopani/Haidir/333
-#EXTINF:-1 tvg-id="ABC.au" tvg-name="Discovery Turbo" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_turbo.png" group-title="BBBBEBASKnowledge",Discovery Turbo
-https://nonton.site:8443/Thopani/Haidir/462
-#EXTINF:-1 tvg-id="ABC.au" tvg-name="History FHD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png" group-title="BBBBEBASKnowledge",History FHD
-https://nonton.site:8443/Thopani/Haidir/8131
-#EXTINF:-1 tvg-id="ABC.au" tvg-name="History HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png" group-title="BBBBEBASKnowledge",History HD
-https://nonton.site:8443/Thopani/Haidir/718
-#EXTINF:-1 tvg-id="" tvg-name="Lingua Channel" tvg-logo="https://www.klikwarta.com/sites/default/files/inline-images/image003.png" group-title="BBBBEBASKnowledge",Lingua Channel
-https://nonton.site:8443/Thopani/Haidir/14944
-#EXTINF:-1 tvg-id="" tvg-name="Love Nature 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/170px-Love_Nature_TV.png" group-title="BBBBEBASKnowledge",Love Nature 4K
-https://nonton.site:8443/Thopani/Haidir/36767
-#EXTINF:-1 tvg-id="nationalgeographicchannelhd.id" tvg-name="Nat Geo HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png" group-title="BBBBEBASKnowledge",Nat Geo HD
-https://nonton.site:8443/Thopani/Haidir/96
-#EXTINF:-1 tvg-id="NatGeoPeople.id" tvg-name="Nat Geo People HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png" group-title="BBBBEBASKnowledge",Nat Geo People HD
-https://nonton.site:8443/Thopani/Haidir/455
-#EXTINF:-1 tvg-id="NatGeoWild.id" tvg-name="Nat Geo Wild HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png" group-title="BBBBEBASKnowledge",Nat Geo Wild HD
-https://nonton.site:8443/Thopani/Haidir/97
-#EXTINF:-1 tvg-id="" tvg-name="Ruang Terampil" tvg-logo="" group-title="BBBBEBASKnowledge",Ruang Terampil
-https://nonton.site:8443/Thopani/Haidir/36731
-#EXTINF:-1 tvg-id="" tvg-name="Smithsonian Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Smithsonian_Channel.png/220px-Smithsonian_Channel.png" group-title="BBBBEBASKnowledge",Smithsonian Channel
-https://nonton.site:8443/Thopani/Haidir/35998
-#EXTINF:-1 tvg-id="" tvg-name="TV Edukasi" tvg-logo="" group-title="BBBBEBASKnowledge",TV Edukasi
-https://nonton.site:8443/Thopani/Haidir/36732
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FREE FILMS",HBOID
 
-#EXTINF:-1 tvg-id="" tvg-name="K Drama" tvg-logo="" group-title="BBBBEBASMovie",K Drama
-https://nonton.site:8443/Thopani/Haidir/35769
-#EXTINF:-1 tvg-id="Kplus.id" tvg-name="K Plus" tvg-logo="http://images2.useetv.com/logo_kplus_big1.png?v=1.0.0.0" group-title="BBBBEBASMovie",K Plus
-https://nonton.site:8443/Thopani/Haidir/18
-#EXTINF:-1 tvg-id="" tvg-name="KBS World HD" tvg-logo="" group-title="BBBBEBASMovie",KBS World HD
-https://nonton.site:8443/Thopani/Haidir/15057
-#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="S GEM HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpM4ePgskZ0MwYEYal1_C-4H9NYHSwFl5ZHbhvWuoTzdDKYM0s" group-title="BBBBEBASMovie",S GEM HD
-https://nonton.site:8443/Thopani/Haidir/770
-#EXTINF:-1 tvg-id="SonyOne.id" tvg-name="Sony ONE" tvg-logo="http://images2.useetv.com/logo_sone_big1.png?v=1.0.0.0" group-title="BBBBEBASMovie",Sony ONE
-https://nonton.site:8443/Thopani/Haidir/19
-#EXTINF:-1 tvg-id="ABC.au" tvg-name="TVN ID" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/395_300.png" group-title="BBBBEBASMovie",TVN ID
-https://nonton.site:8443/Thopani/Haidir/767
-#EXTINF:-1 tvg-id="TVNMovies.id" tvg-name="tVN Movies HD" tvg-logo="https://pbs.twimg.com/profile_images/805623069490364416/S08BM74i_400x400.jpg" group-title="BBBBEBASMovie",tVN Movies HD
-https://nonton.site:8443/Thopani/Haidir/927
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO RIA HD" tvg-logo="" group-title="BBBBEBASAstro",ASTRO RIA HD
-https://nonton.site:8443/Thopani/Haidir/37332
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO PRIMA HD" tvg-logo="" group-title="BBBBEBASAstro",ASTRO PRIMA HD
-https://nonton.site:8443/Thopani/Haidir/37333
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO OASIS HD" tvg-logo="" group-title="BBBBEBASAstro",ASTRO OASIS HD
-https://nonton.site:8443/Thopani/Haidir/37334
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO WARNA HD" tvg-logo="" group-title="BBBBEBASAstro",ASTRO WARNA HD
-https://nonton.site:8443/Thopani/Haidir/37335
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO NAURA" tvg-logo="" group-title="BBBBEBASAstro",ASTRO NAURA
-https://nonton.site:8443/Thopani/Haidir/37336
-#EXTINF:-1 tvg-id="" tvg-name="MY - SUN MUSIC" tvg-logo="" group-title="BBBBEBASAstro",SUN MUSIC
-https://nonton.site:8443/Thopani/Haidir/37340
-#EXTINF:-1 tvg-id="" tvg-name="MY - CHUTTI TV" tvg-logo="" group-title="BBBBEBASAstro",CHUTTI TV
-https://nonton.site:8443/Thopani/Haidir/37341
-#EXTINF:-1 tvg-id="" tvg-name="MY - ADITHYA" tvg-logo="" group-title="BBBBEBASAstro",ADITHYA
-https://nonton.site:8443/Thopani/Haidir/37342
-#EXTINF:-1 tvg-id="" tvg-name="MY - ZEE Tamil HD" tvg-logo="" group-title="BBBBEBASAstro",ZEE Tamil HD
-https://nonton.site:8443/Thopani/Haidir/37343
-#EXTINF:-1 tvg-id="" tvg-name="MY - VINMEEN HD" tvg-logo="" group-title="BBBBEBASAstro",VINMEEN HD
-https://nonton.site:8443/Thopani/Haidir/37344
-#EXTINF:-1 tvg-id="" tvg-name="MY - STAR VIJAY HD" tvg-logo="" group-title="BBBBEBASAstro",STAR VIJAY HD
-https://nonton.site:8443/Thopani/Haidir/37345
-#EXTINF:-1 tvg-id="" tvg-name="MY - COLORS TAMIL" tvg-logo="" group-title="BBBBEBASAstro",COLORS TAMIL
-https://nonton.site:8443/Thopani/Haidir/37346
-#EXTINF:-1 tvg-id="" tvg-name="MY - SUN TV HD" tvg-logo="" group-title="BBBBEBASAstro",SUN TV HD
-https://nonton.site:8443/Thopani/Haidir/37347
-#EXTINF:-1 tvg-id="" tvg-name="MY - BOLLYONE HD" tvg-logo="" group-title="BBBBEBASAstro",BOLLYONE HD
-https://nonton.site:8443/Thopani/Haidir/37348
-#EXTINF:-1 tvg-id="" tvg-name="MY - iQIYI HD" tvg-logo="" group-title="BBBBEBASAstro",iQIYI HD
-https://nonton.site:8443/Thopani/Haidir/37349
-#EXTINF:-1 tvg-id="" tvg-name="MY - GO SHOP RUMMA" tvg-logo="" group-title="BBBBEBASAstro",GO SHOP RUMMA
-https://nonton.site:8443/Thopani/Haidir/37350
-#EXTINF:-1 tvg-id="" tvg-name="MY - XIAO TAI YANG HD" tvg-logo="" group-title="BBBBEBASAstro",XIAO TAI YANG HD
-https://nonton.site:8443/Thopani/Haidir/37351
-#EXTINF:-1 tvg-id="" tvg-name="MY - AEC HD" tvg-logo="" group-title="BBBBEBASAstro",AEC HD
-https://nonton.site:8443/Thopani/Haidir/37352
-#EXTINF:-1 tvg-id="" tvg-name="MY - SHUANG XING HD" tvg-logo="" group-title="BBBBEBASAstro",SHUANG XING HD
-https://nonton.site:8443/Thopani/Haidir/37353
-#EXTINF:-1 tvg-id="" tvg-name="MY - QUAN JIA HD" tvg-logo="" group-title="BBBBEBASAstro",QUAN JIA HD
-https://nonton.site:8443/Thopani/Haidir/37354
-#EXTINF:-1 tvg-id="" tvg-name="MY - CELESTIAL HD" tvg-logo="" group-title="BBBBEBASAstro",CELESTIAL HD
-https://nonton.site:8443/Thopani/Haidir/37355
-#EXTINF:-1 tvg-id="" tvg-name="MY - TVB JADE" tvg-logo="" group-title="BBBBEBASAstro",TVB JADE
-https://nonton.site:8443/Thopani/Haidir/37356
-#EXTINF:-1 tvg-id="" tvg-name="MY - AOD 351 HD" tvg-logo="" group-title="BBBBEBASAstro",AOD 351 HD
-https://nonton.site:8443/Thopani/Haidir/37357
-#EXTINF:-1 tvg-id="" tvg-name="MY - CTI ASIA" tvg-logo="" group-title="BBBBEBASAstro",CTI ASIA
-https://nonton.site:8443/Thopani/Haidir/37358
-#EXTINF:-1 tvg-id="" tvg-name="MY - TVB E-NEWS" tvg-logo="" group-title="BBBBEBASAstro",TVB E-NEWS
-https://nonton.site:8443/Thopani/Haidir/37359
-#EXTINF:-1 tvg-id="" tvg-name="MY - TVB XING HE HD" tvg-logo="" group-title="BBBBEBASAstro",TVB XING HE HD
-https://nonton.site:8443/Thopani/Haidir/37360
-#EXTINF:-1 tvg-id="" tvg-name="MY - TVBS ASIA HD" tvg-logo="" group-title="BBBBEBASAstro",TVBS ASIA HD
-https://nonton.site:8443/Thopani/Haidir/37361
-#EXTINF:-1 tvg-id="" tvg-name="MY - CCM" tvg-logo="" group-title="BBBBEBASAstro",CCM
-https://nonton.site:8443/Thopani/Haidir/37362
-#EXTINF:-1 tvg-id="" tvg-name="MY - HUA HEE DAI HD" tvg-logo="" group-title="BBBBEBASAstro",HUA HEE DAI HD
-https://nonton.site:8443/Thopani/Haidir/37363
-#EXTINF:-1 tvg-id="" tvg-name="MY - CCTV4 HD" tvg-logo="" group-title="BBBBEBASAstro",CCTV4 HD
-https://nonton.site:8443/Thopani/Haidir/37364
-#EXTINF:-1 tvg-id="" tvg-name="MY - AOD 352 HD" tvg-logo="" group-title="BBBBEBASAstro",AOD 352 HD
-https://nonton.site:8443/Thopani/Haidir/37365
-#EXTINF:-1 tvg-id="" tvg-name="MY - AOD 353 HD" tvg-logo="" group-title="BBBBEBASAstro",AOD 353 HD
-https://nonton.site:8443/Thopani/Haidir/37366
-#EXTINF:-1 tvg-id="" tvg-name="MY - AOD 354 HD" tvg-logo="" group-title="BBBBEBASAstro",AOD 354 HD
-https://nonton.site:8443/Thopani/Haidir/37367
-#EXTINF:-1 tvg-id="" tvg-name="MY - AOD 355 HD" tvg-logo="" group-title="BBBBEBASAstro",AOD 355 HD
-https://nonton.site:8443/Thopani/Haidir/37368
-#EXTINF:-1 tvg-id="" tvg-name="MY - KBS World HD" tvg-logo="" group-title="BBBBEBASAstro",KBS World HD
-https://nonton.site:8443/Thopani/Haidir/37369
-#EXTINF:-1 tvg-id="" tvg-name="MY - ONE HD" tvg-logo="" group-title="BBBBEBASAstro",ONE HD
-https://nonton.site:8443/Thopani/Haidir/37370
-#EXTINF:-1 tvg-id="" tvg-name="MY - Oh!K HD" tvg-logo="" group-title="BBBBEBASAstro",Oh!K HD
-https://nonton.site:8443/Thopani/Haidir/37371
-#EXTINF:-1 tvg-id="" tvg-name="MY - tvN HD" tvg-logo="" group-title="BBBBEBASAstro",tvN HD
-https://nonton.site:8443/Thopani/Haidir/37372
-#EXTINF:-1 tvg-id="" tvg-name="MY - HITS MOVIES HD" tvg-logo="" group-title="BBBBEBASAstro",HITS MOVIES HD
-https://nonton.site:8443/Thopani/Haidir/37373
-#EXTINF:-1 tvg-id="" tvg-name="MY - HBO HD" tvg-logo="" group-title="BBBBEBASAstro",HBO HD
-https://nonton.site:8443/Thopani/Haidir/37374
-#EXTINF:-1 tvg-id="" tvg-name="MY - CINEMAX HD" tvg-logo="" group-title="BBBBEBASAstro",CINEMAX HD
-https://nonton.site:8443/Thopani/Haidir/37375
-#EXTINF:-1 tvg-id="" tvg-name="MY - tvN Movies" tvg-logo="" group-title="BBBBEBASAstro",tvN Movies
-https://nonton.site:8443/Thopani/Haidir/37376
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO AWANI" tvg-logo="" group-title="BBBBEBASAstro",ASTRO AWANI
-https://nonton.site:8443/Thopani/Haidir/37377
-#EXTINF:-1 tvg-id="" tvg-name="MY - TVIQ" tvg-logo="" group-title="BBBBEBASAstro",TVIQ
-https://nonton.site:8443/Thopani/Haidir/37398
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO CERIA HD" tvg-logo="" group-title="BBBBEBASAstro",ASTRO CERIA HD
-https://nonton.site:8443/Thopani/Haidir/37399
-#EXTINF:-1 tvg-id="" tvg-name="MY - CARTOON NTWK HD" tvg-logo="" group-title="BBBBEBASAstro",CARTOON NTWK HD
-https://nonton.site:8443/Thopani/Haidir/37403
-#EXTINF:-1 tvg-id="" tvg-name="MY - NICKELODEON HD" tvg-logo="" group-title="BBBBEBASAstro",NICKELODEON HD
-https://nonton.site:8443/Thopani/Haidir/37404
-#EXTINF:-1 tvg-id="" tvg-name="MY - NICK JR" tvg-logo="" group-title="BBBBEBASAstro",NICK JR
-https://nonton.site:8443/Thopani/Haidir/37405
-#EXTINF:-1 tvg-id="" tvg-name="MY - AXN HD" tvg-logo="" group-title="BBBBEBASAstro",AXN HD
-https://nonton.site:8443/Thopani/Haidir/37406
-#EXTINF:-1 tvg-id="" tvg-name="MY - Astro Citra HD" tvg-logo="" group-title="BBBBEBASAstro",Astro Citra HD
-https://nonton.site:8443/Thopani/Haidir/37407
-#EXTINF:-1 tvg-id="" tvg-name="MY - KIX HD" tvg-logo="" group-title="BBBBEBASAstro",KIX HD
-https://nonton.site:8443/Thopani/Haidir/37408
-#EXTINF:-1 tvg-id="" tvg-name="MY - HITS HD" tvg-logo="" group-title="BBBBEBASAstro",HITS HD
-https://nonton.site:8443/Thopani/Haidir/37409
-#EXTINF:-1 tvg-id="" tvg-name="MY - TLC HD" tvg-logo="" group-title="BBBBEBASAstro",TLC HD
-https://nonton.site:8443/Thopani/Haidir/37410
-#EXTINF:-1 tvg-id="" tvg-name="MY - FOOD NTWK HD" tvg-logo="" group-title="BBBBEBASAstro",FOOD NTWK HD
-https://nonton.site:8443/Thopani/Haidir/37411
-#EXTINF:-1 tvg-id="" tvg-name="MY - HGTV HD" tvg-logo="" group-title="BBBBEBASAstro",HGTV HD
-https://nonton.site:8443/Thopani/Haidir/37416
-#EXTINF:-1 tvg-id="" tvg-name="MY - DMAX HD" tvg-logo="" group-title="BBBBEBASAstro",DMAX HD
-https://nonton.site:8443/Thopani/Haidir/37417
-#EXTINF:-1 tvg-id="" tvg-name="MY - MTV" tvg-logo="" group-title="BBBBEBASAstro",MTV
-https://nonton.site:8443/Thopani/Haidir/37419
-#EXTINF:-1 tvg-id="" tvg-name="MY - ANIMAX" tvg-logo="" group-title="BBBBEBASAstro",ANIMAX
-https://nonton.site:8443/Thopani/Haidir/37420
-#EXTINF:-1 tvg-id="" tvg-name="MY - eGG Network" tvg-logo="" group-title="BBBBEBASAstro",eGG Network
-https://nonton.site:8443/Thopani/Haidir/37421
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO ARENA HD" tvg-logo="" group-title="BBBBEBASAstro",ASTRO ARENA HD
-https://nonton.site:8443/Thopani/Haidir/37422
-#EXTINF:-1 tvg-id="" tvg-name="MY - COLORS HD" tvg-logo="" group-title="BBBBEBASAstro",COLORS HD
-https://nonton.site:8443/Thopani/Haidir/37427
-#EXTINF:-1 tvg-id="" tvg-name="MY - Showcase Movies" tvg-logo="" group-title="BBBBEBASAstro",Showcase Movies
-https://nonton.site:8443/Thopani/Haidir/37428
-#EXTINF:-1 tvg-id="" tvg-name="MY - FOX SPORTS HD" tvg-logo="" group-title="BBBBEBASAstro",FOX SPORTS HD
-https://nonton.site:8443/Thopani/Haidir/37429
-#EXTINF:-1 tvg-id="" tvg-name="MY - FOX SPORTS 2 HD" tvg-logo="" group-title="BBBBEBASAstro",FOX SPORTS 2 HD
-https://nonton.site:8443/Thopani/Haidir/37430
-#EXTINF:-1 tvg-id="" tvg-name="MY - FOX SPORTS 3 HD" tvg-logo="" group-title="BBBBEBASAstro",FOX SPORTS 3 HD
-https://nonton.site:8443/Thopani/Haidir/37431
-#EXTINF:-1 tvg-id="" tvg-name="MY - beIN SPORTS" tvg-logo="" group-title="BBBBEBASAstro",beIN SPORTS
-https://nonton.site:8443/Thopani/Haidir/37432
-#EXTINF:-1 tvg-id="" tvg-name="MY - bEIN MAX" tvg-logo="" group-title="BBBBEBASAstro",bEIN MAX
-https://nonton.site:8443/Thopani/Haidir/37433
-#EXTINF:-1 tvg-id="" tvg-name="MY - EUROSPORT HD" tvg-logo="" group-title="BBBBEBASAstro",EUROSPORT HD
-https://nonton.site:8443/Thopani/Haidir/37434
-#EXTINF:-1 tvg-id="" tvg-name="MY - WWE NETWORK" tvg-logo="" group-title="BBBBEBASAstro",WWE NETWORK
-https://nonton.site:8443/Thopani/Haidir/37435
-#EXTINF:-1 tvg-id="" tvg-name="MY - GOLF CHANNEL HD" tvg-logo="" group-title="BBBBEBASAstro",GOLF CHANNEL HD
-https://nonton.site:8443/Thopani/Haidir/37436
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO RUGBY PASS TV" tvg-logo="" group-title="BBBBEBASAstro",ASTRO RUGBY PASS TV
-https://nonton.site:8443/Thopani/Haidir/37437
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO CRICKET" tvg-logo="" group-title="BBBBEBASAstro",ASTRO CRICKET
-https://nonton.site:8443/Thopani/Haidir/37438
-#EXTINF:-1 tvg-id="" tvg-name="MY - ANIPLUS HD" tvg-logo="" group-title="BBBBEBASAstro",ANIPLUS HD
-https://nonton.site:8443/Thopani/Haidir/37439
-#EXTINF:-1 tvg-id="" tvg-name="MY - DW HD" tvg-logo="" group-title="BBBBEBASAstro",DW HD
-https://nonton.site:8443/Thopani/Haidir/37441
-#EXTINF:-1 tvg-id="" tvg-name="MY - FRANCE24 HD" tvg-logo="" group-title="BBBBEBASAstro",FRANCE24 HD
-https://nonton.site:8443/Thopani/Haidir/37442
-#EXTINF:-1 tvg-id="" tvg-name="MY - SPOTV" tvg-logo="" group-title="BBBBEBASAstro",SPOTV
-https://nonton.site:8443/Thopani/Haidir/37443
-#EXTINF:-1 tvg-id="" tvg-name="MY - LifeTime" tvg-logo="" group-title="BBBBEBASAstro",LifeTime
-https://nonton.site:8443/Thopani/Haidir/37444
-#EXTINF:-1 tvg-id="" tvg-name="MY - TA-DAA" tvg-logo="" group-title="BBBBEBASAstro",TA-DAA
-https://nonton.site:8443/Thopani/Haidir/37445
-#EXTINF:-1 tvg-id="" tvg-name="MY - TV1" tvg-logo="" group-title="BBBBEBASAstro",TV1
-https://nonton.site:8443/Thopani/Haidir/37446
-#EXTINF:-1 tvg-id="" tvg-name="MY - TV2" tvg-logo="" group-title="BBBBEBASAstro",TV2
-https://nonton.site:8443/Thopani/Haidir/37447
-#EXTINF:-1 tvg-id="" tvg-name="MY - Blue Ant Entertainment" tvg-logo="" group-title="BBBBEBASAstro",Blue Ant Entertainment
-https://nonton.site:8443/Thopani/Haidir/37451
-#EXTINF:-1 tvg-id="" tvg-name="MY - Blue Ant Extreme" tvg-logo="" group-title="BBBBEBASAstro",Blue Ant Extreme
-https://nonton.site:8443/Thopani/Haidir/37452
-#EXTINF:-1 tvg-id="" tvg-name="MY - Boomerang HD" tvg-logo="" group-title="BBBBEBASAstro",Boomerang HD
-https://nonton.site:8443/Thopani/Haidir/37453
-#EXTINF:-1 tvg-id="" tvg-name="MY - Cinema World HD" tvg-logo="" group-title="BBBBEBASAstro",Cinema World HD
-https://nonton.site:8443/Thopani/Haidir/37454
-#EXTINF:-1 tvg-id="" tvg-name="MY - Colors Cineplex" tvg-logo="" group-title="BBBBEBASAstro",Colors Cineplex
-https://nonton.site:8443/Thopani/Haidir/37455
-#EXTINF:-1 tvg-id="" tvg-name="MY - BOO" tvg-logo="" group-title="BBBBEBASAstro",BOO
-https://nonton.site:8443/Thopani/Haidir/37457
-#EXTINF:-1 tvg-id="" tvg-name="MY - PrimeTime" tvg-logo="" group-title="BBBBEBASAstro",PrimeTime
-https://nonton.site:8443/Thopani/Haidir/37458
-#EXTINF:-1 tvg-id="" tvg-name="MY - MTV Asia" tvg-logo="" group-title="BBBBEBASAstro",MTV Asia
-https://nonton.site:8443/Thopani/Haidir/37460
-#EXTINF:-1 tvg-id="" tvg-name="MY - Astro Rania HD" tvg-logo="" group-title="BBBBEBASAstro",Astro Rania HD
-https://nonton.site:8443/Thopani/Haidir/37467
-#EXTINF:-1 tvg-id="" tvg-name="MY - Astro Aura HD" tvg-logo="" group-title="BBBBEBASAstro",Astro Aura HD
-https://nonton.site:8443/Thopani/Haidir/37468
+http://203.77.246.50:5000/udp/239.1.3.84:5000
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FREE FILMS",HBOFamsID
+
+http://203.77.246.50:5000/udp/239.1.3.76:5000
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FREE FILMS",HBOsignID
+
+http://203.77.246.50:5000/udp/239.1.3.74:5000
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FREE FILMS",HBOhitsID
+
+http://203.77.246.50:5000/udp/239.1.3.82:5000
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FREE FILMS",2HBO Signature
+http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=sig
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FREE FILMS",2HBOFAM
+http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=fam
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FREE FILMS",2HBOIDx
+http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=hbo
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FREE FILMS",2HBO Hits
+http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=hits
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FREE FILMS",2HBO Cinemax
+http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=max
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",Holiwud action
+http://203.154.177.124:8899/live/ch7/playlist.m3u8
 #EXTINF:-1, group-title="FRESHH", Super Sport Premier League
 http://51.79.223.166:8080/live/hometv/premium/1.ts
 #EXTINF:-1, group-title="FRESHH", Super Sport Laliga
