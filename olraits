@@ -1,5 +1,17 @@
 #EXTM3U
 tompinx
+#EXTINF:-2022, HBO ASIA
+http://ip2121.com:8081/live/hbo/playlist.m3u8
+#EXTINF:-2022, DISCOVERY
+http://ip2121.com:8081/live/discovery/playlist.m3u8
+#EXTINF:-2022, 7 HD ASIA
+http://ip2121.com:8081/live/7HD/playlist.m3u8
+#EXTINF:-2022, CINEMAX
+http://ip2121.com:8081/live/cinemax/playlist.m3u8
+#EXTINF:-2022, ALJAZEERA
+http://ip2121.com:8081/live/aljazeera/playlist.m3u8
+#EXTINF:-2022, CNN
+http://ip2121.com:8081/live/cnn/playlist.m3u8
 #EXTINF:-1, group-title='wakwaww'  Nusantara TV
 http://203.77.246.50:5000/udp/239.1.1.14:5000
 #EXTINF:-1, group-title='wakwaww'  JAKTV
