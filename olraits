@@ -1,5 +1,400 @@
 #EXTM3U
 tompinx
+#EXTM3U
+
+################# SETANN #################
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_zbioskop_small1.png?v=2.0.0.13" group-title="SETANN",Zee Bioskop
+http://tvn.x10.bz/TvN_ID/master-15.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/kH-K9J4cROqL0TZrAyQhw7P5pBk=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png" group-title="SETANN",SCTV 
+http://tvn.x10.bz/TvN_ID/master-24.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/IRVkD3QGRzroJ4IZzXBpS-0MRls=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/782/e1af8b.png" group-title="SETANN",ANTV
+http://tvn.x10.bz/TvN_ID/master-12.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="SETANN",Indosiar
+http://tvn.x10.bz/TvN_ID/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nLdLcbF3/gtv.png" group-title="SETANN",GlobalTV
+https://link.zozotv.xyz:443/live/dayah/dayah/48.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hjftXyhc/mnc.png" group-title="SETANN",MNC TV
+https://link.zozotv.xyz:443/live/dayah/dayah/49.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xChTMvbH/rcti.png" group-title="SETANN",RCTI
+https://vcdn2.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_transtv_small1.png?v=2.0.0.13" group-title="SETANN",TRANSTV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6c29793a140a811d0c45ce03c1c93a28446503011668def857b1c03bafabba51
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/-MEB2a6J4sB6SvBDimCb7JYP6WY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png" group-title="SETANN",TRANS7
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=e995f98d56967d946471af29d7bf99f1446503011668def857b1c03bafabba51
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="SETANN",TvN
+http://tvn.x10.bz/TvN_ID/master-16.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="SETANN",Ajwa
+http://tvn.x10.bz/TvN_ID/master-14.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="SETANN",DAAI TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=889091ff744069cab08dc605d162a8d36a41c2a2a7270517f5ce8dd2f48fc68d
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="SETANN", Al-Qur'an Al kareem
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6e96be832cf8bc6b35a956e8fb66c76a446503011668def857b1c03bafabba51
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkuH7fJR702v_Zdkx93Nd0RY5Q205RerZF8A&usqp=CAU" group-title="SETANN",FLik
+https://link.zozotv.xyz:443/live/dayah/dayah/114.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlk51wwD_VRo1KgFaC_HdqKbGED8e70xCj4A&usqp=CAU" group-title="SETANN",ifilm
+https://live.presstv.ir/ifilmlive/smil:ifilmar.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_bioskopindonesia_small1.png?v=2.0.0.13" group-title="SETANN",BIOSKOP INDONESIA
+http://indo.on-site.x10.mx/Sebuah-Usee/chunklist.m3u8?id=bioskopindonesia&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_imc_small.png?v=2.0.0.13" group-title="SETANN",IMC
+http://indo.on-site.x10.mx/Sebuah-Usee/chunklist.m3u8?id=imc&bandwidth=default&sync=0
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nhPVhdr0/kp2.png" group-title="SETANN",K+
+http://rr.dens.tv/h/h08/01.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_pandatv_small.png?" group-title="SETANN",PANDA 🐼
+http://indo.on-site.x10.mx/Sebuah-Usee/chunklist.m3u8?id=pandatv&bandwidth=default&sync=0
+
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/cStgoV5oqj2Om_6NMOzK0AFY-sg=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/1561/665aea.png" group-title="SETANN",RTV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=b132ecc1609bfcf302615847c1caa69a446503011668def857b1c03bafabba51
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="SETANN",Citra Bioskop 
+http://tvn.x10.bz/TvN_ID/master-1.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="SETANN",Citra Drama
+http://tvn.x10.bz/TvN_ID/master-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="SETANN",Citra Dangdut
+http://tvn.x10.bz/TvN_ID/master-10.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="SETANN",Citra Entertainment
+http://tvn.x10.bz/TvN_ID/master-11.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="SETANN",Citra Muslim
+http://tvn.x10.bz/TvN_ID/master-9.m3u8
+
+#EXTINF:-1 group-title="SETANN",TV ONE
+https://begaltvku.site/ventidos/master-13.m3u8
+
+#EXTINF:-1 group-title="SETANN",OCHANNEL support Liga & 2
+http://tvn.x10.bz/xchannel/master-18.m3u8
+
+#EXTINF:-1 group-title="SETANN",KOMPAS TV
+http://tvn.x10.bz/xchannel/master-19.m3u8
+
+#EXTINF:-1 group-title="SETANN",MENTARI TV (KIDS)
+http://tvn.x10.bz/xchannel/master-22.m3u8
+
+#EXTINF:-1 group-title="SETANN",METRO TV
+http://tvn.x10.bz/xchannel/master-23.m3u8
+
+#EXTINF:-1 group-title="SETANN",musica studio
+http://tvn.x10.bz/xchannel/master-26.m3u8
+
+#EXTINF:-1 group-title="SETANN",prambors
+http://tvn.x10.bz/xchannel/master-28.m3u8
+
+#EXTINF:-1 group-title="SETANN",Nusantara TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=48bea99c85bcbaaba618ba10a6f69e44446503011668def857b1c03bafabba51
+
+#EXTINF:-1 group-title="SETANN",Champions 1 PRO LIGA
+http://tvn.x10.bz/xchannel/master-6.m3u8
+
+#EXTINF:-1 group-title="SETANN",Champions 2
+http://tvn.x10.bz/xchannel/master-7.m3u8
+
+#EXTINF:-1 group-title="SETANN",Champions 3
+http://tvn.x10.bz/xchannel/master-8.m3u8
+
+#EXTINF:-1 group-title="SETANN",CHAMPIONS 4
+http://tvn.x10.bz/xchannel/master-17.m3u8
+#EXTM3U 
+
+================================================
+
+#EXTINF:-1 group-title="SPORTS LOKAL", USEESPORT [LIGA1]
+http://51.79.223.166:8080/hometv/premium/32
+#EXTINF:-1 group-title="SPORTS LOKAL", USEESPORT 2
+http://51.79.223.166:8080/hometv/premium/33
+#EXTINF:-1 group-title="SPORTS LOKAL", TVRISPORTHD 
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+http://15.235.142.228:8080/live/hometv/premium/13.ts
+#EXTINF:-1 group-title="SPORTS LOKAL", INDOSIAR [LIGA1]
+https://begaltvku.site/ventidos/master.m3u8
+#EXTINF:-1 group-title="SPORTS LOKAL", Ochannel [LIGA1]
+http://begaltvku.site/ventidos/master-18.m3u8
+https://tvlivehometv.xyz/antibadai/vidio_ochannel.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="SPORTS LOKAL", iNews
+https://liveanevia.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+================================================
+
+#EXTINF:-1 group-title="Champion", CHAMPIONS TV
+http://15.235.142.241:8080/hometv/premium/8063
+#EXTINF:-1 group-title="Champion", CHAMPIONS TV 2
+http://15.235.142.241:8080/hometv/premium/8064
+#EXTINF:-1 group-title="Champion", CHAMPIONS TV 3
+http://15.235.142.241:8080/hometv/premium/8065
+#EXTINF:-1 group-title="Champion", CHAMPIONS TV BACKUP
+http://begaltvku.site/ventidos/master-6.m3u8
+#EXTINF:-1 group-title="Champion", CHAMPIONS TV 2 BACKUP
+http://begaltvku.site/ventidos/master-7.m3u8
+#EXTINF:-1 group-title="Champion", CHAMPIONS TV 3 BACKUP
+http://begaltvku.site/ventidos/master-8.m3u8
+
+================================================
+
+#EXTINF:-1 group-title="ASTRO SPORT", ASTRO SUPERSPORT 
+http://15.235.142.241:8080/hometv/premium/8066
+#EXTINF:-1 group-title="ASTRO SPORT", ASTRO SUPERSPORT 2 
+http://15.235.142.241:8080/hometv/premium/8067
+#EXTINF:-1 group-title="ASTRO SPORT", ASTRO SUPERSPORT 3
+http://15.235.142.241:8080/hometv/premium/8068
+#EXTINF:-1 group-title="ASTRO SPORT", ASTRO SUPERSPORT 4
+http://15.235.142.241:8080/hometv/premium/8069
+#EXTINF:-1 group-title="ASTRO SPORT", ASTRO SUPERSPORT 5
+http://15.235.142.241:8080/hometv/premium/8070
+#EXTINF:-1 group-title="ASTRO SPORT", ASTRO ARENA
+http://15.235.142.241:8080/hometv/premium/8071
+#EXTINF:-1 group-title="ASTRO SPORT", ASTRO ARENA 2
+http://15.235.142.241:8080/hometv/premium/8072
+================================================
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="Bein Sport", BEIN SPORT 1
+https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="Bein Sport", BEIN SPORT 3
+https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
+
+================================================
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="Sport Vision+", SPOTV 
+https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="Sport Vision+", SPOTV2 
+https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="Sport Vision+", SPOTV BACKUP
+https://liveanevia.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="Sport Vision+",, SOCCER CHANNEL 
+https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="Sport Vision+", MNC SPORT 
+https://liveanevia.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="Sport Vision+", MNCSPORT2
+https://liveanevia.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="Sport Vision+", FIGHTSPORT
+https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
+
+================================================
+
+#EXTINF:-1 group-title="SuperSport", SUPER SPORT EPL
+http://15.235.142.241:8080/hometv/premium/1
+#EXTINF:-1 group-title="SuperSport", SUPER SPORT LALIGA
+http://15.235.142.241:8080/hometv/premium/2
+#EXTINF:-1 group-title="SuperSport", SUPER SPORT FOOTBALL
+http://15.235.142.241:8080/hometv/premium/3
+#EXTINF:-1 group-title="SuperSport", SUPER SPORT TENNIS
+http://15.235.142.241:8080/hometv/premium/4
+#EXTINF:-1 group-title="SuperSport", SUPER SPORT MOTOSPORT
+http://15.235.142.241:8080/hometv/premium/5
+#EXTINF:-1 group-title="SuperSport", SUPER SPORT CRICKET
+http://15.235.142.241:8080/hometv/premium/6
+#EXTINF:-1 group-title="SuperSport", SUPER SPORT VARIETY
+http://15.235.142.228:8080/hometv/premium/7
+
+================================================
+
+#EXTINF:-1 group-title="BT+SKY", BT SPORT 1 📴
+http://51.79.223.166:8080/hometv/premium/7
+#EXTINF:-1 group-title="BT+SKY", BT SPORT 2 📴
+http://51.79.223.166:8080/hometv/premium/8
+#EXTINF:-1 group-title="BT+SKY", BT SPORT 3
+http://15.235.142.241:8080/hometv/premium/8074
+#EXTINF:-1 group-title="BT+SKY", SKYSPORT EPL 📴
+http://51.79.223.166:8080/hometv/premium/45
+#EXTINF:-1 group-title="BT+SKY", SKYSPORT FOOTBALL 
+http://51.79.223.166:8080/hometv/premium/37
+#EXTINF:-1 group-title="BT+SKY", SKYSPORT MAIN EVENT
+http://15.235.142.241:8080/hometv/premium/8076
+#EXTINF:-1 group-title="BT+SKY", SKYSPORT ARENA 📴
+http://51.79.223.166:8080/hometv/premium/43
+#EXTINF:-1 group-title="BT+SKY", SKYSPORT F1
+http://15.235.142.241:8080/hometv/premium/8075
+#EXTINF:-1 group-title="BT+SKY", SKYSPORT ACTION 📴
+http://51.79.223.166:8080/hometv/premium/45
+
+===================================================
+#EXTINF:-1 group-title="SPORTS OTHER", GOLF-PLUS
+http://15.235.142.241:8080/hometv/premium/8062
+#EXTINF:-1 group-title="SPORTS OTHER", DANZ
+http://51.79.223.166:8080/hometv/premium/11
+#EXTINF:-1 group-title="SPORTS OTHER", UFC
+http://15.235.142.241:8080/hometv/premium/16
+#EXTINF:-1 group-title="SPORTS OTHER", WWE
+http://15.235.142.241:8080/hometv/premium/8073
+#EXTINF:-1 group-title="SPORTS OTHER", STADIUM 📴
+http://15.235.142.228:8080/live/hometv/premium/11.ts
+#EXTINF:-1 group-title="SPORTS OTHER", TENNIS CHANNEL
+http://15.235.142.241:8080/hometv/premium/17
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS OTHER", RealMadridTV 📴
+http://51.79.223.166:8080/hometv/premium/10
+#EXTINF:-1 group-title="SPORTS OTHER", NBA TV
+http://15.235.142.241:8080/hometv/premium/8061
+https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=koceng&channel=nba
+#EXTINF:-1 group-title="SPORTS OTHER", FOX 1
+https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
+#EXTINF:-1 group-title="SPORTS OTHER", FOX 2
+https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
+#EXTINF:-1 group-title="SPORTS OTHER", FOX 3
+https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
+
+===================================================
+
+#EXTINF:-1 group-title="SPORTS AUSTRALIA", ESPN AUSTRALIA
+http://15.235.142.241:8080/hometv/premium/8
+#EXTINF:-1 group-title="SPORTS AUSTRALIA", ESPN 2 AUSTRALIA
+http://15.235.142.241:8080/hometv/premium/9
+#EXTINF:-1 group-title="SPORTS AUSTRALIA", ESPN U AUSTRALIA
+http://15.235.142.241:8080/hometv/premium/10
+#EXTINF:-1 group-title="SPORTS AUSTRALIA", FOX 502
+http://15.235.142.241:8080/hometv/premium/11
+#EXTINF:-1 group-title="SPORTS AUSTRALIA", FOX 503
+http://15.235.142.241:8080/hometv/premium/12
+#EXTINF:-1 group-title="SPORTS AUSTRALIA", FOX 504
+http://15.235.142.241:8080/hometv/premium/13
+#EXTINF:-1 group-title="SPORTS AUSTRALIA", FOX 505
+http://15.235.142.241:8080/hometv/premium/14
+#EXTINF:-1 group-title="SPORTS AUSTRALIA", FOX 506
+http://15.235.142.241:8080/hometv/premium/15
+#EXTINF:-1 group-title="SPORTS AUSTRALIA", FOX 506 BACKUP
+http://195.154.170.159:25461/live/532566/35662213/4753.ts?token=ShJcU0BbQQNHXQMBA1EDDQ9SBFQDVlYECFIBVQBTAFYHAgBTAVdUDwQbGBpEF0dcWF1vWQIXXlUGV1EbRxFAV0NvXVYRCUEMUg8BARVPF01QXVUSXARSVQZbUwdTVQEeE0BdVhEJQQtVDgUAFU8XXEFEVUIIVAg+VQcUXgYBEQhfRVheHxEMVzpdUVVWDVEbAxIAEkoXDRJBQFhZEAhfHhNSXUZBUhdcRwMWCwBRARsVElNfE1sQE0hAWBU2IxEeE1VMRlZdEFAKVxYCFRdGGxUSWUM5RwESRRAHVggBQRALEgQQHxEOWB1mV1dZDVBaTVlfXhUXXkMAQE4VCAtdW0VfRm1DWgcbXxsGCQFXBBtE
+
+
+================================================
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="Movies", HBO
+https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="Movies", HBO Signature
+https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="Movies", HBO Family
+https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="Movies", HBO Hits
+https://on-load.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="Movies", CINEMAX
+https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="Movies", CelestialClasic
+https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="Movies", TVN
+https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="Movies", TVN MOVIES
+https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="Movies", CelestialMovies
+https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="Movies", Animax
+https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="Movies", HITS
+https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="Movies", HITS MOVIES
+https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="Movies", KIX
+https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="Movies", AXN
+https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="Movies", THRILL
+https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="Movies", CINEMA WOLRD
+https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="Movies", WarnerTV
+https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="Movies", Zee BIOSKOP
+https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
+
+
+
+
 #EXTINF:-1,ORF 2 HD
 http://80.252.37.194:5000/udp/233.233.233.1:12000
 #EXTINF:-1,ORF Sport HD
