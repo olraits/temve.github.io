@@ -1,5 +1,9 @@
 #EXTM3U
 #taktiktuk
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png" group-title="NATI0NAL TV", Indosiar
+http://tvn.x10.bz/TvN_ID/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_sctv_small1.png" group-title="NATI0NAL TV", SCTV
+http://tvn.x10.bz/TvN_ID/master-24.m3u8
 #EXTINF:-1 group-title="FREE T0 AIR" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trans_tv_id.png",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/master.m3u8
 #EXTINF:-1 group-title="FREE T0 AIR" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trans_7_id.png",Trans 7
