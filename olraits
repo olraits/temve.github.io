@@ -1,6 +1,421 @@
 #EXTM3U
 #taktiktuk
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="jawara",Ch1
+https://dukun.masuk.id/2bd1f38e9c4f7063dca346aa73ccaa9733ae2f3ce554cbb36c2ab751b111eb6122b4ef08-b57bd4497d38801fc435f9e3d1f4bc97-1657019402-1657008602/olahraga/champ1etdahluapainnih.m3u8
+#EXTINF:-1 tvg-logo="" group-title="jawara",Ch2
+https://dukun.masuk.id/2bd1f38e9c4f7063dca346aa73ccaa9733ae2f3ce554cbb36c2ab751b111eb6122b4ef08-b57bd4497d38801fc435f9e3d1f4bc97-1657019402-1657008602/olahraga/champ2etdahluapainnih.m3u8
+#EXTINF:-1 tvg-logo="" group-title="jawara",Ch3
+https://dukun.masuk.id/2bd1f38e9c4f7063dca346aa73ccaa9733ae2f3ce554cbb36c2ab751b111eb6122b4ef08-b57bd4497d38801fc435f9e3d1f4bc97-1657019402-1657008602/olahraga/champ3etdahluapainnih.m3u8
+#EXTINF:-1 tvg-logo="" group-title="jawara",CGOAL
+https://dukun.masuk.id/2bd1f38e9c4f7063dca346aa73ccaa9733ae2f3ce554cbb36c2ab751b111eb6122b4ef08-b57bd4497d38801fc435f9e3d1f4bc97-1657019402-1657008602/olahraga/champgoaletdahluapainnih.m3u8
+#EXTINF:-1   tvg-logo="" group-title="jawara",assp 1 HD
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115615
+#EXTINF:-1   tvg-logo="" group-title="jawara",assp 2 HD
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115616
+#EXTINF:-1   tvg-logo="" group-title="jawara",assp 3 HD 
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115617
+#EXTINF:-1   tvg-logo="" group-title="jawara",assp 4 HD
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115618
+#EXTINF:-1   tvg-logo="" group-title="jawara",Spotv1 HDE
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115427
+#EXTINF:-1   tvg-logo="" group-title="jawara",Spotv2 HDE
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115685
+#EXTINF:-1   tvg-logo="" group-title="jawara",GOLF HDE
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115702
+#EXTINF:-1   tvg-logo="" group-title="jawara",Golf.2 HDTH
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115698
+#EXTINF:-1   tvg-logo="" group-title="jawara",NBA HD.TH
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115738
+#EXTINF:-1   tvg-logo="" group-title="jawara",One_Golf.TH
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115325
+#EXTINF:-1   tvg-logo="" group-title="jawara",PPTV HD
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115501
+#EXTINF:-1   tvg-logo="" group-title="jawara",Premier_Football_1 HDE
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115758
+#EXTINF:-1   tvg-logo="" group-title="jawara",Premier_Football_1 HDTH
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115759
+#EXTINF:-1   tvg-logo="" group-title="jawara",Premier_Football_2.HDE
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115762
+#EXTINF:-1   tvg-logo="" group-title="jawara",Premier_Football_2 HD.TH
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115508
+#EXTINF:-1   tvg-logo="" group-title="jawara",Premier_Football_3HD.TH
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115510
+#EXTINF:-1   tvg-logo="" group-title="jawara",Premier_Football_3 HDE
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115511
+#EXTINF:-1   tvg-logo="" group-title="jawara",Premier_Football_4 HD
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115513
+#EXTINF:-1   tvg-logo="" group-title="jawara",Premier_Football_4 HD.TH
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115768
+#EXTINF:-1   tvg-logo="" group-title="jawara",Premier_Football_5 HD
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115515
+#EXTINF:-1   tvg-logo="" group-title="jawara",TrueSport 1HD
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115531
+#EXTINF:-1   tvg-logo="" group-title="jawara",TrueSport 2HD 
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115533
+#EXTINF:-1   tvg-logo="" group-title="jawara",TrueSport 3HD 
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115537
+#EXTINF:-1   tvg-logo="" group-title="jawara",TrueSport1 TH
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115532
+#EXTINF:-1   tvg-logo="" group-title="jawara",TrueSport2 TH
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115535
+#EXTINF:-1   tvg-logo="" group-title="jawara",TrueSport3 TH
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115538
+#EXTINF:-1   tvg-logo="" group-title="jawara",TrueSport5 TH
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115541
+#EXTINF:-1   tvg-logo="" group-title="jawara",TrueSport6 TH
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115542
+#EXTINF:-1   tvg-logo="" group-title="jawara",TrueSport 7 E
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115798
+#EXTINF:-1   tvg-logo="" group-title="jawara",TrueSport 7 TH
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115799
+#EXTINF:-1   tvg-logo="" group-title="jawara",Super.BunteunG/FightBox
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115500
+#EXTINF:-1   tvg-logo="" group-title="jawara",Tennis.HD TH
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115805
+#EXTINF:-1   tvg-logo="" group-title="jawara",BeINSports1 HDTH
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115807
+#EXTINF:-1   tvg-logo="" group-title="jawara",BeINSports2 HDTH
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115809
+#EXTINF:-1   tvg-logo="" group-title="jawara",Thairath HD
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115328
+#EXTINF:-1   tvg-logo="" group-title="jawara",TraceSport.TH
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115318
+#EXTINF:-1 tvg-id="" tvg-name="INDO | Ch 1 TV" tvg-logo="jpg" group-title="jawara2",free|Ch 1 TV
+http://pprotv.com:80/asim1234/123456/39556
+#EXTINF:-1 tvg-id="" tvg-name="INDO | Ch 2 TV" tvg-logo="jpg" group-title="jawara2",free|Ch 2 TV
+http://pprotv.com:80/asim1234/123456/39557
+#EXTINF:-1 tvg-id="" tvg-name="INDO | NBA TV" tvg-logo="jpg" group-title="jawara2",free|NBA TV
+http://pprotv.com:80/asim1234/123456/39558
+#EXTINF:-1 tvg-id="" tvg-name="INDO | eGG TV" tvg-logo="jpg" group-title="jawara2",free|eGG TV
+http://pprotv.com:80/asim1234/123456/39559
+#EXTINF:-1 tvg-id="" tvg-name="INDO | FOX Sport 3" tvg-logo="jpg" group-title="jawara2",free|FOXSport 3
+http://pprotv.com:80/asim1234/123456/39550
+#EXTINF:-1 tvg-id="" tvg-name="INDO | Fight Sport" tvg-logo="jpg" group-title="jawara2",free|FightSport
+http://pprotv.com:80/asim1234/123456/39551
+#EXTINF:-1 tvg-id="" tvg-name="INDO | beIN Sports 1 ID" tvg-logo="jpg" group-title="jawara2",free|beINSports 1 ID
+http://pprotv.com:80/asim1234/123456/39552
+#EXTINF:-1 tvg-id="" tvg-name="INDO | beIN Sports 2 ID" tvg-logo="jpg" group-title="jawara2",free|beINSports 2 ID
+http://pprotv.com:80/asim1234/123456/39553
+#EXTINF:-1 tvg-id="" tvg-name="INDO | NBC Golf" tvg-logo="jpg" group-title="jawara2",free|NBC Golf
+http://pprotv.com:80/asim1234/123456/39529
+#EXTINF:-1 tvg-id="" tvg-name="INDO | FOX Sport 1" tvg-logo="jpg" group-title="jawara2",free|FOXSport 1
+http://pprotv.com:80/asim1234/123456/39530
+#EXTINF:-1 tvg-id="" tvg-name="INDO | FOX Sport 2" tvg-logo="jpg" group-title="jawara2",free|FOXSport 2
+http://pprotv.com:80/asim1234/123456/39531
+#EXTINF:-1 tvg-id="" tvg-name="MY | ARENA HD" tvg-logo="jpg" group-title="jawara2",MY|ARENA HD
+http://pprotv.com:80/asim1234/123456/39578
+#EXTINF:-1 tvg-id="" tvg-name="MY | ASSP HD" tvg-logo="jpg" group-title="jawara2",MY|ASSP HD
+http://pprotv.com:80/asim1234/123456/39579
+#EXTINF:-1 tvg-id="" tvg-name="MY | ASSP HD" tvg-logo="jpg" group-title="jawara2",MY|ASSP FHD
+http://pprotv.com:80/asim1234/123456/39580
+#EXTINF:-1 tvg-id="" tvg-name="MY | ASSP PLUS" tvg-logo="jpg" group-title="jawara2",MY|ASSP PLUS
+http://pprotv.com:80/asim1234/123456/39581
+#EXTINF:-1 tvg-id="" tvg-name="MY | ASSP2 HD" tvg-logo="jpg" group-title="jawara2",MY|ASSP2 HD
+http://pprotv.com:80/asim1234/123456/39582
+#EXTINF:-1 tvg-id="" tvg-name="MY | ASSP2 HD 50 FPS" tvg-logo="jpg" group-title="jawara2",MY|ASSP2 HD 50 FPS
+http://pprotv.com:80/asim1234/123456/39583
+#EXTINF:-1 tvg-id="" tvg-name="MY | ASSP3 HD" tvg-logo="jpg" group-title="jawara2",MY|ASSP3 HD
+http://pprotv.com:80/asim1234/123456/39584
+#EXTINF:-1 tvg-id="" tvg-name="MY | ASSP3 HD 50FPS" tvg-logo="jpg" group-title="jawara2",MY|ASSP3 HD 50FPS
+http://pprotv.com:80/asim1234/123456/39585
+#EXTINF:-1 tvg-id="" tvg-name="MY | ASSP4 HD" tvg-logo="jpg" group-title="jawara2",MY|ASSP4 HD
+http://pprotv.com:80/asim1234/123456/39586
+#EXTINF:-1 tvg-id="" tvg-name="MY | ASSP4 HD 50FPS" tvg-logo="jpg" group-title="jawara2",MY|ASSP4 HD 50FPS
+http://pprotv.com:80/asim1234/123456/39587
+#EXTINF:-1 tvg-id="" tvg-name="MY | ASTRO CRICKET" tvg-logo="jpg" group-title="jawara2",MY|ASTRO CRICKET
+http://pprotv.com:80/asim1234/123456/39588
+#EXTINF:-1 tvg-id="" tvg-name="MY | EUROSPORT HD" tvg-logo="jpg" group-title="jawara2",MY|EUROSPORT HD
+http://pprotv.com:80/asim1234/123456/39617
+#EXTINF:-1 tvg-id="" tvg-name="MY | FOOD NTWK HD" tvg-logo="jpg" group-title="jawara2",MY|FOOD NTWK HD
+http://pprotv.com:80/asim1234/123456/39618
+#EXTINF:-1 tvg-id="" tvg-name="MY | FOX SPORTS 2 HD" tvg-logo="jpg" group-title="jawara2",MY|FOXSPORTS 2 HD
+http://pprotv.com:80/asim1234/123456/39619
+#EXTINF:-1 tvg-id="" tvg-name="MY | FOX SPORTS 3 HD" tvg-logo="jpg" group-title="jawara2",MY|FOXSPORTS 3 HD
+http://pprotv.com:80/asim1234/123456/39620
+#EXTINF:-1 tvg-id="" tvg-name="MY | FOX SPORTS HD" tvg-logo="jpg" group-title="jawara2",MY|FOXSPORTS HD
+http://pprotv.com:80/asim1234/123456/39621
+#EXTINF:-1 tvg-id="" tvg-name="MY | GOLF CHANNEL HD" tvg-logo="jpg" group-title="jawara2",MY|GOLF CHANNEL HD
+http://pprotv.com:80/asim1234/123456/39627
+#EXTINF:-1 tvg-id="" tvg-name="MY | BEIN MAX" tvg-logo="jpg" group-title="jawara2",MY|BEIN MAX
+http://pprotv.com:80/asim1234/123456/39679
+#EXTINF:-1 tvg-id="" tvg-name="MY | BEIN SPORTS" tvg-logo="jpg" group-title="jawara2",MY|BEINSPORTS
+http://pprotv.com:80/asim1234/123456/39680
+#EXTINF:-1 tvg-id="" tvg-name="MY | EGG NETWORK" tvg-logo="jpg" group-title="jawara2",MY|EGG NETWORK
+http://pprotv.com:80/asim1234/123456/39681
+#EXTINF:-1 tvg-id="" tvg-name="TH | PPTV HD" tvg-logo="http://rockets.ws/logo/asian.png" group-title="jawara2",PPTV HD
+http://pprotv.com:80/asim1234/123456/144826
+#EXTINF:-1 tvg-id="" tvg-name="TH | PremierHD2" tvg-logo="http://rockets.ws/logo/asian.png" group-title="jawara2",PremierHD2
+http://pprotv.com:80/asim1234/123456/144827
+#EXTINF:-1 tvg-id="" tvg-name="TH | PremierHD3" tvg-logo="http://rockets.ws/logo/asian.png" group-title="jawara2",PremierHD3
+http://pprotv.com:80/asim1234/123456/144828
+#EXTINF:-1 tvg-id="" tvg-name="TH | PremierHD4" tvg-logo="http://rockets.ws/logo/asian.png" group-title="jawara2",PremierHD4
+http://pprotv.com:80/asim1234/123456/144829
+#EXTINF:-1 tvg-id="" tvg-name="TH | PremierHD5" tvg-logo="http://rockets.ws/logo/asian.png" group-title="jawara2",PremierHD5
+http://pprotv.com:80/asim1234/123456/144830
+#EXTINF:-1 tvg-id="" tvg-name="TH | Thairath TV" tvg-logo="http://rockets.ws/logo/asian.png" group-title="jawara2",Thairath TV
+http://pprotv.com:80/asim1234/123456/144833
+#EXTINF:-1 tvg-id="" tvg-name="TH | True Sport HD1" tvg-logo="http://rockets.ws/logo/asian.png" group-title="jawara2",TrueSport HD1
+http://pprotv.com:80/asim1234/123456/144834
+#EXTINF:-1 tvg-id="" tvg-name="TH | True Sport HD2" tvg-logo="http://rockets.ws/logo/asian.png" group-title="jawara2",TrueSport HD2
+http://pprotv.com:80/asim1234/123456/144835
+#EXTINF:-1 tvg-id="" tvg-name="TH | True Sport HD3" tvg-logo="http://rockets.ws/logo/asian.png" group-title="jawara2",TrueSport HD3
+http://pprotv.com:80/asim1234/123456/144836
+#EXTINF:-1 tvg-id="" tvg-name="TH | True Sport HD4" tvg-logo="http://rockets.ws/logo/asian.png" group-title="jawara2",TrueSport HD4
+http://pprotv.com:80/asim1234/123456/144837
+#EXTINF:-1 tvg-id="" tvg-name="CH | BTV-6 Sports" tvg-logo="http://rockets.ws/logo/asian.png" group-title="jawara2",CH|BTV-6Sports
+http://pprotv.com:80/asim1234/123456/22222
+#EXTINF:-1 tvg-id="" tvg-name="CH | CCTV-5  sports events" tvg-logo="http://rockets.ws/logo/asian.png" group-title="jawara2",CH|CCTV-5
+http://pprotv.com:80/asim1234/123456/22228
+#EXTINF:-1 tvg-id="" tvg-name="HK | Star sports" tvg-logo="http://rockets.ws/logo/asian.png" group-title="jawara2",HK|StarSports
+http://pprotv.com:80/asim1234/123456/22315
+#EXTINF:-1 tvg-logo="jpg"group-title="jawara3",BSHD1
+http://135.125.96.46:2082/19871987/19871987/157
+#EXTINF:-1 tvg-logo="jpg"group-title="jawara3",BSHD2
+http://135.125.96.46:2082/19871987/19871987/158
+#EXTINF:-1 tvg-logo="jpg"group-title="jawara3",BSHD3
+http://135.125.96.46:2082/19871987/19871987/159
+#EXTINF:-1 tvg-logo="jpg"group-title="jawara3",BSHD4
+http://135.125.96.46:2082/19871987/19871987/160
+#EXTINF:-1 tvg-logo="jpg"group-title="jawara3",BSHD5
+http://135.125.96.46:2082/19871987/19871987/161
+#EXTINF:-1 tvg-logo="jpg"group-title="jawara3",BSHD6
+http://135.125.96.46:2082/19871987/19871987/162
+#EXTINF:-1 tvg-logo="jpg"group-title="jawara3",BSHD7
+http://135.125.96.46:2082/19871987/19871987/163
+#EXTINF:-1 tvg-logo="jpg"group-title="jawara3",BSHD8
+http://135.125.96.46:2082/19871987/19871987/164
+#EXTINF:-1 tvg-logo="jpg"group-title="jawara3",BSEn HD1
+http://135.125.96.46:2082/19871987/19871987/56648
+#EXTINF:-1 tvg-logo="jpg"group-title="jawara3",BSEn HD2
+http://135.125.96.46:2082/19871987/19871987/56649
+#EXTINF:-1 tvg-logo="jpg"group-title="jawara3",BSEn HD3
+http://135.125.96.46:2082/19871987/19871987/56650
+#EXTINF:-1 tvg-logo="jpg"group-title="jawara3",BSFR HD1
+http://135.125.96.46:2082/19871987/19871987/56651
+#EXTINF:-1 tvg-logo="jpg"group-title="jawara3",BSFR HD2
+http://135.125.96.46:2082/19871987/19871987/56652
+#EXTINF:-1 tvg-logo="jpg"group-title="jawara3",BS1 Premium 720p
+http://135.125.96.46:2082/19871987/19871987/1427
+#EXTINF:-1 tvg-logo="jpg"group-title="jawara3",BS2 Premium 720p
+http://135.125.96.46:2082/19871987/19871987/1428
+#EXTINF:-1 tvg-logo="jpg"group-title="jawara3",BS3 Premium 720p
+http://135.125.96.46:2082/19871987/19871987/1429
+#EXTINF:-1 tvg-logo="jpg"group-title="jawara3",Bein AFC Global
+http://135.125.96.46:2082/19871987/19871987/62814
+#EXTINF:-1 tvg-logo="jpg"group-title="jawara3",Bein AFC1
+http://135.125.96.46:2082/19871987/19871987/62813
+#EXTINF:-1 tvg-logo="jpg"group-title="jawara3",Bein AFC2
+http://135.125.96.46:2082/19871987/19871987/62812
+#EXTINF:-1 tvg-logo="jpg"group-title="jawara3",Bein AFC3
+http://135.125.96.46:2082/19871987/19871987/62811
+#EXTINF:-1 tvg-logo="jpg"group-title="jawara3",BeinSport
+http://135.125.96.46:2082/19871987/19871987/4853
+#EXTINF:-1 tvg-logo="jpg"group-title="jawara3",BSNews
+http://135.125.96.46:2082/19871987/19871987/73
+#EXTINF:-1 tvg-logo="jpg"group-title="jawara3",BSXtra 1 HD
+http://135.125.96.46:2082/19871987/19871987/37790
+#EXTINF:-1 tvg-logo="jpg"group-title="jawara3",BSXtra 2 HD
+http://135.125.96.46:2082/19871987/19871987/37791
+#EXTINF:-1 tvg-logo="jpg"group-title="jawara3",BSPremium 1 HD
+http://135.125.96.46:2082/19871987/19871987/26539
+#EXTINF:-1 tvg-logo="jpg"group-title="jawara3",BSPremium 2 HD
+http://135.125.96.46:2082/19871987/19871987/26540
+#EXTINF:-1 tvg-logo="jpg"group-title="jawara3",BSPremium 3 HD
+http://135.125.96.46:2082/19871987/19871987/26541
 
+
+
+
+
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",PL-Eleven Sports 1
+http://135.125.96.46:2082/19871987/19871987/788
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",PL-Eleven Sports 2
+http://135.125.96.46:2082/19871987/19871987/1020
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",PL-Eleven Sports 3
+http://135.125.96.46:2082/19871987/19871987/969
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",PL-Eleven Sports 4
+http://135.125.96.46:2082/19871987/19871987/7057
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",TelekomSport 1
+http://135.125.96.46:2082/19871987/19871987/1700
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",TelekomSport 2
+http://135.125.96.46:2082/19871987/19871987/3635
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",TelekomSport 3
+http://135.125.96.46:2082/19871987/19871987/7048
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",TelekomSport 4
+http://135.125.96.46:2082/19871987/19871987/7049
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",SuperSport 1
+http://135.125.96.46:2082/19871987/19871987/7061
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",SuperSport 2
+http://135.125.96.46:2082/19871987/19871987/7058
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",SuperSport 3
+http://135.125.96.46:2082/19871987/19871987/7056
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",SuperSport 4
+http://135.125.96.46:2082/19871987/19871987/7054
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",SuperSport 5
+http://135.125.96.46:2082/19871987/19871987/7053
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",CosmoteSport 1
+http://135.125.96.46:2082/19871987/19871987/1612
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",CosmoteSport 2
+http://135.125.96.46:2082/19871987/19871987/1611
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",CosmoteSport 3
+http://135.125.96.46:2082/19871987/19871987/1608
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",DIGI_Sport 1
+http://135.125.96.46:2082/19871987/19871987/6646
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",DIGI_Sport 2
+http://135.125.96.46:2082/19871987/19871987/6645
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",DIGI_Sport 3
+http://135.125.96.46:2082/19871987/19871987/6643
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",DIGI_Sport 4
+http://135.125.96.46:2082/19871987/19871987/6642
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",ArenaSport 1 HR
+http://135.125.96.46:2082/19871987/19871987/9718
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",ArenaSport 2 HR
+http://135.125.96.46:2082/19871987/19871987/9561
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",ArenaSport 3 HR
+http://135.125.96.46:2082/19871987/19871987/7235
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",ArenaSport 4 HR
+http://135.125.96.46:2082/19871987/19871987/7209
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",PT-SPORT TV+
+http://135.125.96.46:2082/19871987/19871987/1532
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",PT-SPORT TV 1
+http://135.125.96.46:2082/19871987/19871987/1527
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",PT-SPORT TV 2
+http://135.125.96.46:2082/19871987/19871987/1528
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",PT-SPORT TV 3
+http://135.125.96.46:2082/19871987/19871987/1529
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",PT-SPORT TV 4
+http://135.125.96.46:2082/19871987/19871987/1530
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",PT-SPORT TV 5
+http://135.125.96.46:2082/19871987/19871987/1531
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",PT-Sport TV NBA
+http://135.125.96.46:2082/19871987/19871987/7234
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",PL-TVP Sport
+http://135.125.96.46:2082/19871987/19871987/793
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",CZ-SPORT 1
+http://135.125.96.46:2082/19871987/19871987/7060
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",NL-Eurosport
+http://135.125.96.46:2082/19871987/19871987/614
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",NL-Foxsport 1
+http://135.125.96.46:2082/19871987/19871987/615
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",NL-FoxSports 2
+http://135.125.96.46:2082/19871987/19871987/616
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",NL-FoxSport 3
+http://135.125.96.46:2082/19871987/19871987/617
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",NL-FoxSport 4
+http://135.125.96.46:2082/19871987/19871987/618
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",NL-FoxSports 5
+http://135.125.96.46:2082/19871987/19871987/619
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",NL-Ziggo Sport
+http://135.125.96.46:2082/19871987/19871987/621
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",NL-Ziggo Sport select
+http://135.125.96.46:2082/19871987/19871987/622
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",NL-Ziggo Sport Voetbal
+http://135.125.96.46:2082/19871987/19871987/623
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",NL-Ziggo Sport Racing
+http://135.125.96.46:2082/19871987/19871987/624
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",NL-Ziggo Sport eXtra 1
+http://135.125.96.46:2082/19871987/19871987/625
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",NL-ZIGGO GOLF
+http://135.125.96.46:2082/19871987/19871987/1526
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",RU-MATCH PRIME
+http://135.125.96.46:2082/19871987/19871987/1027
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",RU-MATCH THE COUNTRY
+http://135.125.96.46:2082/19871987/19871987/1029
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",RU-Match Football 1
+http://135.125.96.46:2082/19871987/19871987/1119
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",RU-Match Fighter
+http://135.125.96.46:2082/19871987/19871987/1441
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",RU-Match Arena
+http://135.125.96.46:2082/19871987/19871987/1569
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",RU-Match Football 3
+http://135.125.96.46:2082/19871987/19871987/47721
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",RU-Match Football 2
+http://135.125.96.46:2082/19871987/19871987/47722
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",RU-Match TV
+http://135.125.96.46:2082/19871987/19871987/47911
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",SPORT_KLUB
+http://135.125.96.46:2082/19871987/19871987/34937
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",SPORT_KLUB 1
+http://135.125.96.46:2082/19871987/19871987/34938
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",SPORT_KLUB 2
+http://135.125.96.46:2082/19871987/19871987/34939
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",SPORT_KLUB 3
+http://135.125.96.46:2082/19871987/19871987/34940
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",SPORT_KLUB 4
+http://135.125.96.46:2082/19871987/19871987/34941
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",Bra-ESPN Extra HD
+http://135.125.96.46:2082/19871987/19871987/66405
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",Bra-Band Sports HD
+http://135.125.96.46:2082/19871987/19871987/66407
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",USA-FOXSPORTS Racing HD
+http://135.125.96.46:2082/19871987/19871987/66556
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",USA-Fox Sportstime OH
+http://135.125.96.46:2082/19871987/19871987/66557
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",USA-Fubo Sports Network HD
+http://135.125.96.46:2082/19871987/19871987/66558
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",USA-GINX eSports HD
+http://135.125.96.46:2082/19871987/19871987/66559
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",USA-MSG 2 HD
+http://135.125.96.46:2082/19871987/19871987/66560
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",USA-MSG HD
+http://135.125.96.46:2082/19871987/19871987/66561
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",USA-MSG Plus HD
+http://135.125.96.46:2082/19871987/19871987/66562
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",USA-PREMIER SPORTS 2
+http://135.125.96.46:2082/19871987/19871987/66563
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",USA-Racing.com
+http://135.125.96.46:2082/19871987/19871987/66564
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",USA-SEC Network HD
+http://135.125.96.46:2082/19871987/19871987/66565
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",USA-Sportsman Channel HD
+http://135.125.96.46:2082/19871987/19871987/66566
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",USA-SPORTSNET ONE HD
+http://135.125.96.46:2082/19871987/19871987/66567
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",USA-AFN Sport
+http://135.125.96.46:2082/19871987/19871987/66549
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",USA-Bally Sports Socal
+http://135.125.96.46:2082/19871987/19871987/66550
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",USA-Eleven Sports HD
+http://135.125.96.46:2082/19871987/19871987/66551
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",USA-ESPN Longhorn Network
+http://135.125.96.46:2082/19871987/19871987/66552
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",USA-FoxSports (South) HD
+http://135.125.96.46:2082/19871987/19871987/66553
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",USA-FoxSports Arizona
+http://135.125.96.46:2082/19871987/19871987/66554
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",USA-FoxSports Ohio
+http://135.125.96.46:2082/19871987/19871987/66555
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",Br-Combate HD
+http://135.125.96.46:2082/19871987/19871987/66305
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",iT-Sport Italia
+http://135.125.96.46:2082/19871987/19871987/1146
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",iT-Super Tennis
+http://135.125.96.46:2082/19871987/19871987/1309
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",iT-Sky Sport F1
+http://135.125.96.46:2082/19871987/19871987/1310
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",iT-Rai sport
+http://135.125.96.46:2082/19871987/19871987/1322
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",iT-Sport Calcio
+http://135.125.96.46:2082/19871987/19871987/1328
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",iT-SKY MOTO GP HD
+http://135.125.96.46:2082/19871987/19871987/1330
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",iT-EuroSport 1
+http://135.125.96.46:2082/19871987/19871987/1331
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",iT-EuroSport 2
+http://135.125.96.46:2082/19871987/19871987/1332
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",iT-Lazio Channel
+http://135.125.96.46:2082/19871987/19871987/1347
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",iT-Auto Moto
+http://135.125.96.46:2082/19871987/19871987/1355
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",iT-Sky Sport Football
+http://135.125.96.46:2082/19871987/19871987/1357
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",iT-SKY SPORT ARENA
+http://135.125.96.46:2082/19871987/19871987/1481
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",iT-SKY SPORT UNO
+http://135.125.96.46:2082/19871987/19871987/1493
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",iT-SKY SPORTS 24
+http://135.125.96.46:2082/19871987/19871987/1494
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DIGITAL TV NEW STREAMS",JakTV
 http://203.77.246.50:5000/udp/239.1.1.8:5000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DIGITAL TV NEW STREAMS",Nusantara TV
