@@ -416,6 +416,11 @@ http://135.125.96.46:2082/19871987/19871987/1481
 http://135.125.96.46:2082/19871987/19871987/1493
 #EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",iT-SKY SPORTS 24
 http://135.125.96.46:2082/19871987/19871987/1494
+#EXTINF:-1 tvg-logo="jpg"group-title="SsJawara",DjowoTV
+http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/1756.ts
+http://zalogitv.tech:8080/live/densus/densus/1756.ts
+http://pprotv.com:80/Sherif/Sherif1981/39447
+http://pprotv.com:80/hashim111/hashim111/39447
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DIGITAL TV NEW STREAMS",JakTV
 http://203.77.246.50:5000/udp/239.1.1.8:5000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DIGITAL TV NEW STREAMS",Nusantara TV
