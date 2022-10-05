@@ -1,6 +1,407 @@
 #EXTM3U
 #taktiktuk
 #EXTM3U
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",CANAL+ F1
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/616.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",CANAL+ Premier League
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/617.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",CANAL+ MOTOGP
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/618.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",DAZN F1
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/2143.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",DAZN La Liga
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/2142.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",DAZN 1
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/644.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",DAZN 2
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/645.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",ANTV
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/2.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Berita Satu
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/98.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",CNBC Indonesia
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/100.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",CNN Indonesia
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/99.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",GTV
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/10.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Indosiar
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/5.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",iNews
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/6.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Kompas TV
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/14.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Metro TV
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/13.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",MNCTV
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/9.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",MOJI
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/17.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",NET
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/11.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",RCTI
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/8.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",RTV
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/16.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",SCTV
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/7.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Trans 7
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/3.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Trans TV
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/4.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",TVOne
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/12.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",8TV
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/28.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Aura
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/42.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Awani
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/35.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Awesome TV
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/31.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",BOO
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/44.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Citra
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/41.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Oasis
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/36.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Okey
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/30.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Prima
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/39.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Rania
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/43.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",RIA
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/38.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",TV 1
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/24.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",TV2
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/25.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",TV3
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/26.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",TV6
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/101.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",TV9
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/29.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Warna
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/40.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",ABO Thangathirai
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/105.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Bollyone HD
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/107.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Colors Hindi
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/106.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Vaanavil
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/104.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Vinmeen
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/103.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",ZEE Bioskop
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/102.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",AEC
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/181.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Celestial Classic Movies
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/111.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Celestial Movies
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/116.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",HUAHEITAI
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/182.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",IQIYI
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/180.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Star Chinese Movies
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/112.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",HBO
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/1.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",HBO HITS
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/45.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",HBO FAMILY
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/46.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",HBO SIGNATURE
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/47.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Cinemax
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/49.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",AXN
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/110.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Bioskop Indonesia
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/262.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Cinema World
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/55.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",FLik
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/63.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Galaxy
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/53.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Galaxy Premium
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/54.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Hits
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/60.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Hits Movies
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/59.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",IMC
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/62.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",MY Cinema
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/50.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",My Cinema Asia
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/51.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",My Family Channel
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/52.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Paramount
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/109.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",SHOWCASE MOVIE
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/48.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Star Movies
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/57.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Star Movies Select
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/58.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Thrill
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/61.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",TVN Movies
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/114.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Warner TV
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/115.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",ANIMAX
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/119.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",ANIPLUS
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/118.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Baby First
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/69.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Baby TV
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/2032.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Boomerang
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/68.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Cartoon Network
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/64.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",CERIA
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/37.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Dreamworks
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/67.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Nick JR
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/66.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Nickelodeon
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/65.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",ARIRANG
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/127.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",BBC Lifestyle
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/123.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Dunia Lain
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/121.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",History
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/139.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",K+
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/126.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Lifetime
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/120.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Rock Entertainment
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/131.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Rock Extreme
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/130.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Sony GEM
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/124.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Sony ONE
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/125.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",TvN
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/128.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Animal Planet
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/143.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Asian Food Network
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/146.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",BBC Earth
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/132.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Crime Investigation
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/141.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Discovery Asia
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/135.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Discovery Channel
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/142.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",DMAX
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/133.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",HGTV
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/140.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Love Nature
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/138.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Nat Geo Wild
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/144.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",National Geographic
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/145.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Smithsonian
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/134.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",TLC
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/137.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",AL JAZEERA
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/185.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Bloomberg
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/189.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",CGTN Documentary
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/136.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Channel News Asia
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/186.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",CNN International
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/191.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",DW English
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/190.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",FOX News
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/238.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",KBS World
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/187.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",NHK World
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/129.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Sea Today
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/192.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",TRT World
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/188.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Alhijrah
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/33.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Izzah TV
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/194.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Madinah TV
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/1377.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Rodja TV
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/195.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Tawaf TV
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/196.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Wesal TV
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/197.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",MTV EROPA
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/198.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",MUSIC PLUS
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/200.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",MUSIC TOP
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/199.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Arena 1
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/178.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Arena 2
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/177.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",ASSP
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/72.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",ASSP 2
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/73.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",ASSP 3
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/74.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",ASSP 4
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/75.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",ASSP 5
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/76.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",AT: SKY Sport 1
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/638.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",BEIN Sport 1 English
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/246.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",BEIN Sport 1 ID
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/77.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",BEIN Sport 3 ID
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/78.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",BEIN Sport MAX
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/80.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",BEIN Sport MY
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/79.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",BT Sport 1
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/81.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",BT Sport 2
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/82.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",BT Sport 3
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/239.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",CANAL+ Sport 1
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/619.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",CANAL+ Sport 2
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/620.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",CANAL+ Sport 3
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/621.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",CANAL+ Sport 4
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/622.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",CANAL+ Sport 5
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/623.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",ELEVEN Sport 1
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/582.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",ELEVEN Sport 2
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/583.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",ELEVEN Sport 3
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/584.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",ELEVEN Sport 4
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/585.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",ELEVEN Sport 5
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/586.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",ELEVEN Sport 6
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/587.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",EURO Sport 1
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/149.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",EURO Sport 2
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/240.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Fight Sport
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/175.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",NBA TV
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/172.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",NBC Golf
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/176.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",RMC Sport 1
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/254.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",RMC Sport 2
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/255.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",RMC Sport 3
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/256.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",RMC Sport 4
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/257.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",SKY Sport F1
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/242.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",SKY Sport Football
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/580.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",SKY Sport Mix
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/2144.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",SKY Sport Premier League
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/241.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Sony Ten 1
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/259.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Sony Ten 2
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/260.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Sony Ten 3
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/261.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Sport TV 1
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/249.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Sport TV 2
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/250.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Sport TV 3
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/251.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Sport TV 4
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/252.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Sport TV 5
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/253.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",SPOTV
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/84.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",SPOTV 2
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/85.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",STAR Sports Select 1
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/2146.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",STAR Sports Select 2
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/2147.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",SUKAN RTM
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/155.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Super Sport : LA LIGA
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/244.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Super Sport : Motorsport
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/243.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Super Sport : Football
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/71.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Super Sport : Premier League
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/70.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Super Sport : RUGBY
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/581.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",TENNIS Channel
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/171.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",TRING SPORT
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/635.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",TVRI
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/15.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",USEE Sport 1
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/173.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",USEE Sport 2
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/174.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",WWE
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/179.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Ziggo Sport Select
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/588.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Ziggo Sport Voetball
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/589.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Ziggo Sport Docu
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/590.ts
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Movie+
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/2033.ts
 #EXTINF:-1   tvg-logo="" group-title="satsutsit",RCTI
 https://vcdn2.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
 #EXTINF:-1   tvg-logo="" group-title="satsutsit",MNCTV
