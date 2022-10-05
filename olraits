@@ -1,6 +1,54 @@
 #EXTM3U
 #taktiktuk
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih2",Sony pal
+http://50.7.237.4:8080/SONYPAL/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih2",Nick Jr. Dora TV [Pluto] 
+https://siloh.pluto.tv/lilo/production/Nick/03/master_1.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Nick [Pluto]
+https://siloh.pluto.tv/lilo/production/Nick/01/master_1.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Tortues Ninja [Pluto] 
+https://siloh.pluto.tv/lilo/production/Nick/02/master_1.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Trans tv
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w487287366_b544100_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",MTV Hits
+http://50.7.237.4:8080/MTVHITS/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",MTV 80s
+http://50.7.237.4:8080/MTVCLASSIC/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",MTV 90s
+http://85.17.17.249/mtv_rocks/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",MTV 90s²
+http://50.7.237.4:8080/MTVBASE/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",NICK Music
+http://85.17.17.249/MTV_MUSIC/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",MTV 00s
+http://38.143.137.221:8000/LA49/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",MTV 
+http://38.143.137.221:8000/LA107/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",MTV 80s
+http://38.143.137.221:8000/LA48/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Horror Channel
+http://50.7.237.4:8080/HORRORCHANNEL/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Bein Sports Xtra
+https://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="pretdutcuih",Bein SportXtra [Pluto] 
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="pretdutcuih",CANAL+ F1
 http://play.cornertv.biz.id:8080/live/Kucoba/12345/616.ts
 #EXTINF:-1 tvg-logo="" group-title="pretdutcuih",CANAL+ Premier League
