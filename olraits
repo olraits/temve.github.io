@@ -1,6 +1,48 @@
 #EXTM3U
 #taktiktuk
 #EXTM3U
+#EXTINF:-1   tvg-logo="" group-title="estehh",ESPN
+http://82.197.214.59:4000/play/a02m/index.m3u8
+
+#EXTINF:-1   tvg-logo="" group-title="estehh",ESPN 2
+http://82.197.214.59:4000/play/a033/index.m3u8
+
+#EXTINF:-1   tvg-logo="" group-title="estehh",ESPN 4
+http://82.197.214.59:4000/play/a034/index.m3u8
+
+
+#EXTINF:-1   tvg-logo="" group-title="estehh",FOX HD
+http://82.197.214.59:4000/play/a035/index.m3u8
+
+
+#EXTINF:-1   tvg-logo="" group-title="estehh",Film1 Action HD
+http://82.197.214.59:4000/play/a02t/index.m3u8
+
+#EXTINF:-1   tvg-logo="" group-title="estehh",Film1 Drama HD
+http://82.197.214.59:4000/play/a02s/index.m3u8
+
+#EXTINF:-1   tvg-logo="" group-title="estehh",Film1 Family HD
+http://82.197.214.59:4000/play/a02u/index.m3u8
+
+#EXTINF:-1   tvg-logo="" group-title="estehh",Film1 Premiere HD
+http://82.197.214.59:4000/play/a02v/index.m3u8
+
+#EXTINF:-1   tvg-logo="" group-title="estehh",FilmBox
+http://82.197.214.59:4000/play/a02a/index.m3u8
+
+#EXTINF:-1   tvg-logo="" group-title="estehh",🔗SKY SPORTS F1🏎🏎🏎
+
+http://21929815.rossteleccom.net/iptv/HS69TXA6HFWQRG/19105/index.m3u8
+
+
+#EXTINF:-1   tvg-logo="" group-title="estehh",🔗Astro Super sports 5🏎🏎🏎
+
+http://172.96.160.37:9138/stream/live/c20561.m3u8
+
+#EXTINF:-1   tvg-logo="" group-title="estehh",🔗SKY SPORTS F1🏎🏎🏎
+
+http://31.172.87.20:2200/EX/Sky_Sports_F1_HD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hnVBUzT.png" group-title="☀️ JAPANESE MOVIES ☀️",Star 1
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
