@@ -1,7 +1,7 @@
 #EXTM3U
 #JURAGANOTOMOTIF
-#EXTINF:-1 group-title="Lokal" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_111.png","WELCOME to GRATIZAN AJAH BOSS STB"
-https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8 
+#EXTINF:-1 group-title="Lokal" tvg-logo="","WELCOME to GRATIZAN AJAH BOSS STB"
+https://s3.us-east-2.amazonaws.com/previews.intromaker.com/2761005_GlitchVer3-Logo_preview_90348f16.mp4
 -------------------------LIVE EVENT---------------------------------------------------------
 
 #EXTINF:0 tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg?w=750&h=423" group-title="LIVE EVENT",INDOSIAR 1
