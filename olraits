@@ -1295,6 +1295,64 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NEW LOKALTV",TRANS7_dt
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="TVLOKALFREE",HAARI™DRAMA
+http://103.167.167.5:8111/play/a01z/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="TVLOKALFREE",HAARI™KIDS
+http://103.167.167.5:8111/play/a00g/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="TVLOKALFREE",HAARI™MOVIES
+http://103.167.167.5:8111/play/a00h/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="TVLOKALFREE",ANIMAX™
+http://103.167.167.5:8111/play/a030/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="TVLOKALFREE",ANIPLUS™
+http://103.167.167.5:8111/play/a033/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="TVLOKALFREE",TVN™
+http://103.167.167.5:8111/play/a02u/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="TVLOKALFREE",KBS-WORLD™
+http://103.167.167.5:8111/play/a03a/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="TVLOKALFREE",KIX™
+http://103.167.167.5:8111/play/a00p/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="TVLOKALFREE",MY™CINEMA
+http://103.167.167.5:8111/play/a01h/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="TVLOKALFREE",MY™CINEMA™ASIA
+http://103.167.167.5:8111/play/a01g/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="TVLOKALFREE",MY™FAMILY
+http://103.167.167.5:8111/play/a00k/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="TVLOKALFREE",NICK™
+http://103.167.167.5:8111/play/a00e/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="TVLOKALFREE",NICK™JR
+http://103.167.167.5:8111/play/a00f/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="TVLOKALFREE",ROCK™ENTERTAINMENT
+http://103.167.167.5:8111/play/a01e/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="TVLOKALFREE",ROCK™EXTREME
+http://103.167.167.5:8111/play/a00m/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="TVLOKALFREE",SONY™GEM
+http://103.167.167.5:8111/play/a00z/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="TVLOKALFREE",SONY™ONE
+http://103.167.167.5:8111/play/a00u/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="TVLOKALFREE",THRILL™
+http://103.167.167.5:8111/play/a01l/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="TVLOKALFREE",WB™
+http://103.167.167.5:8111/play/a017/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="TVLOKALFREE",ZEE™BIOSKOP
+http://103.167.167.5:8111/play/a01a/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="TVLOKALFREE",happy kids junior
+http://103.167.167.5:8111/play/a03b/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="TVLOKALFREE",AXN™
+http://103.167.167.5:8111/play/a019/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="TVLOKALFREE",CARTOON™NETWORK 
+http://103.167.167.5:8111/play/a00x/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="TVLOKALFREE",CELESTIAL™CLASSIC™MOVIES
+http://103.167.167.5:8111/play/a01r/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="TVLOKALFREE",CELESTIAL™MOVIES
+http://103.167.167.5:8111/play/a00t/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="TVLOKALFREE",CINEMA™WORld
+http://103.167.167.5:8111/play/a01f/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="TVLOKALFREE",CN™
+http://103.167.167.5:8111/play/a03g/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="TVLOKALFREE",GALAXY™
+http://103.167.167.5:8111/play/a00j/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="TVLOKALFREE",GALAXY™PREMIUM
+http://103.167.167.5:8111/play/a00s/index.m3u8
 
 ======= IDX Channel =======
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
