@@ -1221,6 +1221,81 @@ http://210.210.155.37/qwr9ew/s/s10/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_nusantaratv_big.png?v=1.1" group-title="Indonesia",Nusantara Tv
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="NEW LOKALTV",™MNc•Sports🇮🇩
+http://103.167.167.5:8111/play/a00i/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NEW LOKALTV",™SPOTV®1
+http://103.167.167.5:8111/play/a020/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NEW LOKALTV",™SPOTV®2
+http://103.167.167.5:8111/play/a010/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NEW LOKALTV",™TVRI®SPORTS
+http://103.167.167.5:8111/play/a01x/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NEW LOKALTV",™BEIN®1
+http://103.167.167.5:8111/play/a02m/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NEW LOKALTV",™BEIN®3
+http://103.167.167.5:8111/play/a02n/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NEW LOKALTV",RCTI©
+http://103.167.167.5:8111/play/a01c/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NEW LOKALTV",SCTV©
+http://103.167.167.5:8111/play/a00o/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NEW LOKALTV",SCTV©BACKUP
+http://103.167.167.5:8111/play/a048/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NEW LOKALTV",GTV©
+http://103.167.167.5:8111/play/a014/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NEW LOKALTV",INDOSIAR©
+http://103.167.167.5:8111/play/a00r/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NEW LOKALTV",MNC TV©
+http://103.167.167.5:8111/play/a011/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NEW LOKALTV",TVRI Kanal 3©
+http://103.167.167.5:8111/play/a01w/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NEW LOKALTV",TVRI Nasional©
+http://103.167.167.5:8111/play/a01v/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NEW LOKALTV",TVRI Sport©
+http://103.167.167.5:8111/play/a01x/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NEW LOKALTV",MTV©
+http://103.167.167.5:8111/play/a00q/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NEW LOKALTV",MTV ASIA©
+http://103.167.167.5:8111/play/a018/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NEW LOKALTV",NATGEO WILD©
+http://103.167.167.5:8111/play/a01d/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NEW LOKALTV",NGC©
+http://103.167.167.5:8111/play/a036/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NEW LOKALTV",INHOUSE-JBV2©
+http://103.167.167.5:8111/play/a006/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NEW LOKALTV",INHOUSE-JBV3©
+http://103.167.167.5:8111/play/a007/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NEW LOKALTV",INHOUSE-JBV4©
+http://103.167.167.5:8111/play/a008/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NEW LOKALTV",LEGO©
+http://103.167.167.5:8111/play/a03c/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NEW LOKALTV",MAGNA CHANNEL©
+http://103.167.167.5:8111/play/a00a/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NEW LOKALTV",METRO TV HD©
+http://103.167.167.5:8111/play/a00c/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NEW LOKALTV",CNN INDONESIA©
+http://103.167.167.5:8111/play/a02q/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NEW LOKALTV",NET©
+http://103.167.167.5:8111/play/a041/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NEW LOKALTV",DAAI TSU ZHI©
+http://103.167.167.5:8111/play/a01s/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NEW LOKALTV",DISCOVERY©
+http://103.167.167.5:8111/play/a03w/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NEW LOKALTV",FASHION TV©
+http://103.167.167.5:8111/play/a03d/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NEW LOKALTV",BBC NEWS©
+http://103.167.167.5:8111/play/a03k/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NEW LOKALTV",BLOOMBERG©
+http://103.167.167.5:8111/play/a01t/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NEW LOKALTV",BN TV©
+http://103.167.167.5:8111/play/a00b/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NEW LOKALTV",Indo_Music
+https://cdn09jtedge.indihometv.com/bumper/bumperlivestreaming/chunklist_w1994879223_b894100_sleng.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NEW LOKALTV",Tvri_sports®wpc
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NEW LOKALTV",TRANStv_dt
+https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NEW LOKALTV",TRANS7_dt
+https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
+
 ======= IDX Channel =======
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
