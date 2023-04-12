@@ -10534,3 +10534,109 @@ http://kuchini.site:8080/mosesmn/4e40546ad6/296889
 http://kuchini.site:8080/mosesmn/4e40546ad6/174724
 #EXTINF:-1 tvg-id="" tvg-name="MY: Nick Junior" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/92307ca79c909c2f7881199792c74c0b.png" group-title="Cenel2free•Malaysia",Nick Junior
 http://kuchini.site:8080/mosesmn/4e40546ad6/157546
+#EXTINF:-1   tvg-logo="Cenel2free" group-title="Cenel2Sports",Astroc|Supersports1 
+https://donelfantastic.github.io/creativemedia/hls/asp1cmedia.m3u8
+#EXTINF:-1   tvg-logo="Cenel2free" group-title="Cenel2Sports",Astroc|Supersports2
+https://donelfantastic.github.io/creativemedia/hls/asp2cmedia.m3u8
+#EXTINF:-1   tvg-logo="Cenel2free" group-title="Cenel2Sports",Astroc|Supersports3
+https://donelfantastic.github.io/creativemedia/hls/asp3cmedia.m3u8
+#EXTINF:-1   tvg-logo="Cenel2free" group-title="Cenel2Sports",Astroc|Supersports4
+https://donelfantastic.github.io/creativemedia/hls/asp4cmedia.m3u8
+#EXTINF:-1   tvg-logo="Cenel2free" group-title="Cenel2Sports",Astroc|Supersports5
+http://tuyullxt@epg.protv.cc/play/live.php?mac=00:1A:79:B7:CD:49&stream=918982&extension=ts&play_token=tuyullxt@.m3u8
+#EXTINF:-1   tvg-logo="Cenel2free" group-title="Cenel2Sports",Premier1
+http://tuyullxt@epg.protv.cc/play/live.php?mac=00:1A:79:B7:CD:49&stream=1032529&extension=ts&play_token=tuyullxt@.m3u8
+#EXTINF:-1   tvg-logo="Cenel2free" group-title="Cenel2Sports",Premier2
+http://tuyullxt@epg.protv.cc/play/live.php?mac=00:1A:79:B7:CD:49&stream=1032528&extension=ts&play_token=tuyullxt@.m3u8
+#EXTINF:-1   tvg-logo="Cenel2free" group-title="Cenel2Sports",Now|HK|premier.1
+http://tuyullxt@epg.protv.cc/play/live.php?mac=00:1A:79:B7:CD:49&stream=1032487&extension=ts&play_token=tuyullxt@.m3u8
+#EXTINF:-1   tvg-logo="Cenel2free" group-title="Cenel2Sports",Now||sports.2
+http://tuyullxt@epg.protv.cc/play/live.php?mac=00:1A:79:B7:CD:49&stream=1032478&extension=ts&play_token=tuyullxt@.m3u8
+#EXTINF:-1   tvg-logo="Cenel2free" group-title="Cenel2Sports",Now||sports.3
+http://tuyullxt@epg.protv.cc/play/live.php?mac=00:1A:79:B7:CD:49&stream=1032477&extension=ts&play_token=tuyullxt@.m3u8
+#EXTINF:-1   tvg-logo="Cenel2free" group-title="Cenel2Sports",BEINsports|premier1
+https://donelfantastic.github.io/creativemedia/hls/bs1premcmedia.m3u8
+#EXTINF:-1   tvg-logo="Cenel2free" group-title="Cenel2Sports",Beinsports|premier2
+https://donelfantastic.github.io/creativemedia/hls/bs2premcmedia.m3u8
+#EXTINF:-1   tvg-logo="Cenel2free" group-title="Cenel2Sports",BEINsports|premier3 
+https://donelfantastic.github.io/creativemedia/hls/bs3premcmedia.m3u8
+#EXTINF:-1   tvg-logo="Cenel2free" group-title="Cenel2Sports",TRUE|PREMIER1
+http://tuyullxt@tvt3.xyz/play/live.php?mac=00:1A:79:00:04:02&stream=115758&extension=ts&play_token=tuyullxt@.m3u8
+#EXTINF:-1   tvg-logo="Cenel2free" group-title="Cenel2Sports",TRUE|PREMIER2
+http://tuyullxt@tvt3.xyz/play/live.php?mac=00:1A:79:00:04:02&stream=115508&extension=ts&play_token=tuyullxt@.m3u8
+#EXTINF:-1   tvg-logo="Cenel2free" group-title="Cenel2Sports",TRUE|PREMIER3
+http://tuyullxt@tvt3.xyz/play/live.php?mac=00:1A:79:00:04:02&stream=115511&extension=ts&play_token=tuyullxt@.m3u8
+#EXTINF:-1   tvg-logo="Cenel2free" group-title="Cenel2Sports",TRUE|PREMIER4
+http://tuyullxt@tvt3.xyz/play/live.php?mac=00:1A:79:00:04:02&stream=115768&extension=ts&play_token=tuyullxt@.m3u8
+#EXTINF:-1   tvg-logo="Cenel2free" group-title="Cenel2Sports",TRUE|PREMIER5
+http://tuyullxt@tvt3.xyz/play/live.php?mac=00:1A:79:00:04:02&stream=115515&extension=ts&play_token=tuyullxt@.m3u8
+#EXTINF:-1   tvg-logo="Cenel2free" group-title="Cenel2Sports",TRUE|SPORTS1
+http://tuyullxt@tvt3.xyz/play/live.php?mac=00:1A:79:00:04:02&stream=115532&extension=ts&play_token=tuyullxt@.m3u8
+#EXTINF:-1   tvg-logo="Cenel2free" group-title="Cenel2Sports",TRUE|SPORTS2
+http://tuyullxt@tvt3.xyz/play/live.php?mac=00:1A:79:00:04:02&stream=115533&extension=ts&play_token=tuyullxt@.m3u8
+#EXTINF:-1   tvg-logo="Cenel2free" group-title="Cenel2Sports",TRUE|SPORTS3
+http://tuyullxt@tvt3.xyz/play/live.php?mac=00:1A:79:00:04:02&stream=115538&extension=ts&play_token=tuyullxt@.m3u8
+#EXTINF:-1   tvg-logo="Cenel2free" group-title="Cenel2Sports",TRUE|SPORTS5
+http://tuyullxt@tvt3.xyz/play/live.php?mac=00:1A:79:00:04:02&stream=115541&extension=ts&play_token=tuyullxt@.m3u8
+#EXTINF:-1   tvg-logo="Cenel2free" group-title="Cenel2Sports",TRUE|SPORTS7
+http://tuyullxt@tvt3.xyz/play/live.php?mac=00:1A:79:00:04:02&stream=115799&extension=ts&play_token=tuyullxt@.m3u8
+#EXTINF:-1   tvg-logo="Cenel2free" group-title="Cenel2Sports",SPOTV_TH
+http://tuyullxt@tvt3.xyz/play/live.php?mac=00:1A:79:00:04:02&stream=115304&extension=ts&play_token=tuyullxt@.m3u8
+#EXTINF:-1   tvg-logo="Cenel2free" group-title="Cenel2Sports",BEINSPORTS1_TRUE
+http://tuyullxt@tvt3.xyz/play/live.php?mac=00:1A:79:00:04:02&stream=115807&extension=ts&play_token=tuyullxt@.m3u8
+#EXTINF:-1   tvg-logo="Cenel2free" group-title="Cenel2Sports",BEINSPORTS2_TRUE
+http://tuyullxt@tvt3.xyz/play/live.php?mac=00:1A:79:00:04:02&stream=115809&extension=ts&play_token=tuyullxt@.m3u8
+#EXTINF:-1   tvg-logo="Cenel2free" group-title="Cenel2Sports",ASSP|1
+http://tuyullxt@tvt3.xyz/play/live.php?mac=00:1A:79:00:04:02&stream=115615&extension=ts&play_token=tuyullxt@.m3u8
+#EXTINF:-1   tvg-logo="Cenel2free" group-title="Cenel2Sports",ASSP|2
+http://tuyullxt@tvt3.xyz/play/live.php?mac=00:1A:79:00:04:02&stream=115616&extension=ts&play_token=tuyullxt@.m3u8
+#EXTINF:-1   tvg-logo="Cenel2free" group-title="Cenel2Sports",ASSP|3
+http://tuyullxt@tvt3.xyz/play/live.php?mac=00:1A:79:00:04:02&stream=115617&extension=ts&play_token=tuyullxt@.m3u8
+#EXTINF:-1   tvg-logo="Cenel2free" group-title="Cenel2Sports",ASSP|4
+http://tuyullxt@tvt3.xyz/play/live.php?mac=00:1A:79:00:04:02&stream=115618&extension=ts&play_token=tuyullxt@.m3u8
+
+
+#EXTINF:-1  tvg-logo="Cenel2free" group-title="vreeh2ajah",Mnc•Sports
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=683139&extension=ts&play_token=tuyullxt@.ts
+#EXTINF:-1  tvg-logo="Cenel2free" group-title="vreeh2ajah",Mnc•|Sports.HD
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=683133&extension=ts&play_token=tuyullxt@.ts
+#EXTINF:-1  tvg-logo="Cenel2free" group-title="vreeh2ajah",AstroK•1
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=918986&extension=ts&play_token=tuyullxt@.ts
+#EXTINF:-1  tvg-logo="Cenel2free" group-title="vreeh2ajah",AstroK•2
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=918985&extension=ts&play_token=tuyullxt@.ts
+#EXTINF:-1  tvg-logo="Cenel2free" group-title="vreeh2ajah",AstroK•3
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=918984&extension=ts&play_token=tuyullxt@.ts
+#EXTINF:-1  tvg-logo="Cenel2free" group-title="vreeh2ajah",AstroK•4
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=918983&extension=ts&play_token=tuyullxt@.ts
+#EXTINF:-1  tvg-logo="Cenel2free" group-title="vreeh2ajah",AstroK•5
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=918982&extension=ts&play_token=tuyullxt@.ts
+#EXTINF:-1  tvg-logo="Cenel2free" group-title="vreeh2ajah",Hpremier.1
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032529&extension=ts&play_token=tuyullxt@.ts
+#EXTINF:-1  tvg-logo="Cenel2free" group-title="vreeh2ajah",Hpremier.2
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032528&extension=ts&play_token=tuyullxt@.ts
+#EXTINF:-1  tvg-logo="Cenel2free" group-title="vreeh2ajah",H premier.3
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032527&extension=ts&play_token=tuyullxt@.ts
+#EXTINF:-1  tvg-logo="Cenel2free" group-title="vreeh2ajah",b premier.4
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032526&extension=ts&play_token=tuyullxt@.ts
+#EXTINF:-1  tvg-logo="Cenel2free" group-title="vreeh2ajah",b premier.5
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032525&extension=ts&play_token=tuyullxt@.ts
+#EXTINF:-1  tvg-logo="Cenel2free" group-title="vreeh2ajah",Hpremier.6
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032524&extension=ts&play_token=tuyullxt@.ts
+#EXTINF:-1  tvg-logo="Cenel2free" group-title="vreeh2ajah",Hub premier.7
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032523&extension=ts&play_token=tuyullxt@.ts
+#EXTINF:-1  tvg-logo="Cenel2free" group-title="vreeh2ajah",NowSport.hk4k.1
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032489&extension=ts&play_token=tuyullxt@.ts
+#EXTINF:-1  tvg-logo="Cenel2free" group-title="vreeh2ajah",Nowpremier.1
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032487&extension=ts&play_token=tuyullxt@.ts
+#EXTINF:-1  tvg-logo="Cenel2free" group-title="vreeh2ajah",NowSports.2
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032478&extension=ts&play_token=tuyullxt@.ts
+#EXTINF:-1  tvg-logo="Cenel2free" group-title="vreeh2ajah",NowSport.3
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032477&extension=ts&play_token=tuyullxt@.ts
+#EXTINF:-1  tvg-logo="Cenel2free" group-title="vreeh2ajah",NowSport.4
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032476&extension=ts&play_token=tuyullxt@.ts
+#EXTINF:-1  tvg-logo="Cenel2free" group-title="vreeh2ajah",NowSport.5
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032475&extension=ts&play_token=tuyullxt@.ts
+#EXTINF:-1  tvg-logo="Cenel2free" group-title="vreeh2ajah",NowSport.6
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032474&extension=ts&play_token=tuyullxt@.ts
+#EXTINF:-1  tvg-logo="Cenel2free" group-title="vreeh2ajah",NowSport.7
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032473&extension=ts&play_token=tuyullxt@.ts
