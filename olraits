@@ -1,4 +1,76 @@
 #EXTM3U
+#EXTINF:-1  tvg-logo="" group-title="belagagilak",  CANAL+ SPORT 2 HD
+http://5.255.90.238:5002/play/a02j/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="belagagilak",  CANAL+ SPORT 2 HD
+http://5.255.90.238:5002/play/a02i/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="belagagilak",  CANAL+ SPORT 2 HD
+http://5.255.90.238:5002/play/a028/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="belagagilak",  CANAL+1 HD
+http://5.255.90.238:5002/play/a002/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="belagagilak",  CANAL+1 HD
+http://5.255.90.238:5002/play/a02h/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="belagagilak",  CBS Europa HD
+http://5.255.90.238:5002/play/a010/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="belagagilak",  Cartoon Network HD
+http://5.255.90.238:5002/play/a00v/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="belagagilak",  DOMO+ HD
+http://5.255.90.238:5002/play/a029/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="belagagilak",  DOMO+ HD
+http://5.255.90.238:5002/play/a003/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="belagagilak",  Discovery Science HD
+http://5.255.90.238:5002/play/a012/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="belagagilak",  Disney Junior
+http://5.255.90.238:5002/play/a017/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="belagagilak",  Eleven Extra HD
+http://5.255.90.238:5002/play/a008/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="belagagilak",  Eleven HD
+http://5.255.90.238:5002/play/a005/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="belagagilak",  Eleven Sports 2 HD
+http://5.255.90.238:5002/play/a02f/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="belagagilak",  Eleven Sports 3 HD
+http://5.255.90.238:5002/play/a02g/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="belagagilak",  Eleven Sports HD
+http://5.255.90.238:5002/play/a007/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="belagagilak",  Eurosport 2 HD
+http://5.255.90.238:5002/play/a015/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="belagagilak",  Extreme Sports HD
+http://5.255.90.238:5002/play/a00z/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="belagagilak",  Fightklub HD
+http://5.255.90.238:5002/play/a02a/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="belagagilak",  Fightklub HD
+http://5.255.90.238:5002/play/a004/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="belagagilak",  Food Network HD_
+http://5.255.90.238:5002/play/a02e/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="belagagilak",  HBO HD
+http://5.255.90.238:5002/play/a014/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="belagagilak",  Nat Geo People HD
+http://5.255.90.238:5002/play/a00w/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="belagagilak",  National Geographic Wild HD
+http://5.255.90.238:5002/play/a02k/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="belagagilak",  Polsat Sport Fight HD
+http://5.255.90.238:5002/play/a016/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="belagagilak",  Polsat Sport News HD
+http://5.255.90.238:5002/play/a02c/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="belagagilak",  Polsat Viasat Nature HD
+http://5.255.90.238:5002/play/a02b/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="belagagilak",  TNT HD
+http://5.255.90.238:5002/play/a00u/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="belagagilak",  TTV HD
+http://5.255.90.238:5002/play/a00p/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="belagagilak",  TVN 24 HD
+http://5.255.90.238:5002/play/a00l/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="belagagilak",  TVN 7 HD
+http://5.255.90.238:5002/play/a00m/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="belagagilak",  TVN Fabula
+http://5.255.90.238:5002/play/a00o/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="belagagilak",  TVN HD
+http://5.255.90.238:5002/play/a00g/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="belagagilak",  TVN Style HD
+http://5.255.90.238:5002/play/a00h/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="belagagilak",  TVN Turbo HD
+http://5.255.90.238:5002/play/a00j/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="belagagilak",  Travel Channel HD
+http://5.255.90.238:5002/play/a02d/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="belagagilak", 13 Ulica HD
 http://5.255.90.238:5000/play/a01k/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="belagagilak", E! Entertainment
