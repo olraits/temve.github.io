@@ -1,4 +1,30 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="belagagilak",BLOOMBERG HD
+http://82.118.0.14:8000/play/4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="belagagilak"PREMIER LEAGUE
+http://82.118.0.14:8000/play/5/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="belagagilak" TOXIC FOLK HD
+http://82.118.0.14:8000/play/6/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="belagagilak" TOXIC RAP HD
+http://82.118.0.14:8000/play/7/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="belagagilak" SUPERSTAR 2 SD
+http://82.118.0.14:8000/play/8/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="belagagilak" ARENA 1x2
+http://82.118.0.14:8000/play/9/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="belagagilak" RTV MIR
+http://82.118.0.14:8000/play/2020/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="belagagilak" ARENA PREMIUM 1 BIH
+http://82.118.0.14:8000/play/5100/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="belagagilak" ARENA PREMIUM 2 BIH
+http://82.118.0.14:8000/play/5110/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="belagagilak" ARENA PREMIUM 3 BIH
+http://82.118.0.14:8000/play/5120/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="belagagilak" AS BIH 4 HD
+http://82.118.0.14:8000/play/10/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="belagagilak" AS BIH 5 HD
+http://82.118.0.14:8000/play/11/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="belagagilak" AS BIH 6 HD
+http://82.118.0.14:8000/play/12/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="NONSTOP AJAHH",The•LEGEND•Of•BRUCE LEE
 
 http://176.57.50.167:25461/122162/994771/81529
