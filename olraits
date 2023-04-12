@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1  tvg-logo="" group-title="belagagilakDu0",  AMC
 http://5.255.90.238:5001/play/a00b/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="belagagilakDu0",  Studio Universal HD
+http://45.161.115.26:50000/play/a00j/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="belagagilakDu0",  Ale kino+ HD
 http://5.255.90.238:5001/play/a00p/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="belagagilakDu0",  CANAL+ DISCOVERY HD
