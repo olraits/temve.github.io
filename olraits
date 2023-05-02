@@ -869,9 +869,585 @@ http://168.228.194.32:58001/play/a053/index.m3u8
 http://168.228.194.32:58001/play/a00i/index.m3u8
 #EXTINF:-1 group-title="General",TVE
 http://168.228.194.32:58001/play/a00s/index.m3u8
+#EXTINF:-1 group-title="USmix", 5 USA
+http://103.28.88.15:4000/play/a01c
+#EXTINF:-1 group-title="USmix", 5ACTION
+http://103.28.88.15:4000/play/a01j
+#EXTINF:-1 group-title="USmix", 5SELECT
+http://103.28.88.15:4000/play/a01f
+#EXTINF:-1 group-title="USmix", 5STAR
+http://103.28.88.15:4000/play/a01e
+#EXTINF:-1 group-title="USmix", 5STAR+1
+http://103.28.88.15:4000/play/a01g
+#EXTINF:-1 group-title="USmix", 5USA+1
+http://103.28.88.15:4000/play/a01d
+#EXTINF:-1 group-title="USmix", AAJ TAK
+http://103.28.88.15:4000/play/a098
+#EXTINF:-1 group-title="USmix", ARY Digital
+http://103.28.88.15:4000/play/a070
+#EXTINF:-1 group-title="USmix", Aastha
+http://103.28.88.15:4000/play/a07l
+#EXTINF:-1 group-title="USmix", Absolute
+http://103.28.88.15:4000/play/a0a0
+#EXTINF:-1 group-title="USmix", Absolute 80s
+http://103.28.88.15:4000/play/a0a1
+#EXTINF:-1 group-title="USmix", Absolute 90s
+http://103.28.88.15:4000/play/a0a2
+#EXTINF:-1 group-title="USmix", Ahlulbayt TV
+http://103.28.88.15:4000/play/a06e
+#EXTINF:-1 group-title="USmix", Al Jazeera HD
+http://103.28.88.15:4000/play/a09t
+#EXTINF:-1 group-title="USmix", Arise News
+http://103.28.88.15:4000/play/a06s
+#EXTINF:-1 group-title="USmix", BBC 6 Music
+http://103.28.88.15:4000/play/a022
+#EXTINF:-1 group-title="USmix", BBC ALBA
+http://103.28.88.15:4000/play/a029
+#EXTINF:-1 group-title="USmix", BBC ALBA
+http://103.28.88.15:4000/play/a01q
+#EXTINF:-1 group-title="USmix", BBC Asian
+http://103.28.88.15:4000/play/a02j
+#EXTINF:-1 group-title="USmix", BBC Four
+http://103.28.88.15:4000/play/a02n
+#EXTINF:-1 group-title="USmix", BBC Four
+http://103.28.88.15:4000/play/a01o
+#EXTINF:-1 group-title="USmix", BBC Four HD
+http://103.28.88.15:4000/play/a05v
+#EXTINF:-1 group-title="USmix", BBC Four HD
+http://103.28.88.15:4000/play/a05r
+#EXTINF:-1 group-title="USmix", BBC NEWS
+http://103.28.88.15:4000/play/a01r
+#EXTINF:-1 group-title="USmix", BBC One
+http://103.28.88.15:4000/play/a01u
+#EXTINF:-1 group-title="USmix", BBC One
+http://103.28.88.15:4000/play/a01l
+#EXTINF:-1 group-title="USmix", BBC One
+http://103.28.88.15:4000/play/a01v
+#EXTINF:-1 group-title="USmix", BBC One
+http://103.28.88.15:4000/play/a02k
+#EXTINF:-1 group-title="USmix", BBC One
+http://103.28.88.15:4000/play/a01w
+#EXTINF:-1 group-title="USmix", BBC One EMidHD
+http://103.28.88.15:4000/play/a05u
+#EXTINF:-1 group-title="USmix", BBC One EastHD
+http://103.28.88.15:4000/play/a05t
+#EXTINF:-1 group-title="USmix", BBC One Lon HD
+http://103.28.88.15:4000/play/a05p
+#EXTINF:-1 group-title="USmix", BBC One NE HD
+http://103.28.88.15:4000/play/a02s
+#EXTINF:-1 group-title="USmix", BBC One NW HD
+http://103.28.88.15:4000/play/a02u
+#EXTINF:-1 group-title="USmix", BBC One Yks HD
+http://103.28.88.15:4000/play/a02w
+#EXTINF:-1 group-title="USmix", BBC Parl HD
+http://103.28.88.15:4000/play/a02r
+#EXTINF:-1 group-title="USmix", BBC Parliament
+http://103.28.88.15:4000/play/a01s
+#EXTINF:-1 group-title="USmix", BBC R Cymru
+http://103.28.88.15:4000/play/a02c
+#EXTINF:-1 group-title="USmix", BBC R Cymru 2
+http://103.28.88.15:4000/play/a02d
+#EXTINF:-1 group-title="USmix", BBC R Foyle
+http://103.28.88.15:4000/play/a02h
+#EXTINF:-1 group-title="USmix", BBC R Scot.
+http://103.28.88.15:4000/play/a02e
+#EXTINF:-1 group-title="USmix", BBC R Ulster
+http://103.28.88.15:4000/play/a02g
+#EXTINF:-1 group-title="USmix", BBC R Wales
+http://103.28.88.15:4000/play/a02b
+#EXTINF:-1 group-title="USmix", BBC R n Gael
+http://103.28.88.15:4000/play/a02f
+#EXTINF:-1 group-title="USmix", BBC R1
+http://103.28.88.15:4000/play/a01x
+#EXTINF:-1 group-title="USmix", BBC R1X
+http://103.28.88.15:4000/play/a026
+#EXTINF:-1 group-title="USmix", BBC R2
+http://103.28.88.15:4000/play/a01y
+#EXTINF:-1 group-title="USmix", BBC R3
+http://103.28.88.15:4000/play/a01z
+#EXTINF:-1 group-title="USmix", BBC R4 Ex
+http://103.28.88.15:4000/play/a025
+#EXTINF:-1 group-title="USmix", BBC R4 FM
+http://103.28.88.15:4000/play/a020
+#EXTINF:-1 group-title="USmix", BBC R4 LW
+http://103.28.88.15:4000/play/a023
+#EXTINF:-1 group-title="USmix", BBC R5L
+http://103.28.88.15:4000/play/a021
+#EXTINF:-1 group-title="USmix", BBC R5SX
+http://103.28.88.15:4000/play/a024
+#EXTINF:-1 group-title="USmix", BBC RB 1
+http://103.28.88.15:4000/play/a01t
+#EXTINF:-1 group-title="USmix", BBC RLondon
+http://103.28.88.15:4000/play/a02i
+#EXTINF:-1 group-title="USmix", BBC Scotland
+http://103.28.88.15:4000/play/a01p
+#EXTINF:-1 group-title="USmix", BBC Three
+http://103.28.88.15:4000/play/a02m
+#EXTINF:-1 group-title="USmix", BBC Three
+http://103.28.88.15:4000/play/a01n
+#EXTINF:-1 group-title="USmix", BBC Two
+http://103.28.88.15:4000/play/a02l
+#EXTINF:-1 group-title="USmix", BBC Two
+http://103.28.88.15:4000/play/a01m
+#EXTINF:-1 group-title="USmix", BBC Two NI HD
+http://103.28.88.15:4000/play/a02v
+#EXTINF:-1 group-title="USmix", BBC Two NI HD
+http://103.28.88.15:4000/play/a02t
+#EXTINF:-1 group-title="USmix", BBC Two Wal HD
+http://103.28.88.15:4000/play/a05q
+#EXTINF:-1 group-title="USmix", BBC WS
+http://103.28.88.15:4000/play/a02a
+#EXTINF:-1 group-title="USmix", BFBS Radio
+http://103.28.88.15:4000/play/a09u
+#EXTINF:-1 group-title="USmix", BLAZE
+http://103.28.88.15:4000/play/a06h
+#EXTINF:-1 group-title="USmix", Babenation
+http://103.28.88.15:4000/play/a09k
+#EXTINF:-1 group-title="USmix", Best Direct
+http://103.28.88.15:4000/play/a091
+#EXTINF:-1 group-title="USmix", Brit Asia TV
+http://103.28.88.15:4000/play/a06z
+#EXTINF:-1 group-title="USmix", British Muslim
+http://103.28.88.15:4000/play/a07h
+#EXTINF:-1 group-title="USmix", CBS Reality
+http://103.28.88.15:4000/play/a04z
+#EXTINF:-1 group-title="USmix", CBS Reality
+http://103.28.88.15:4000/play/a04y
+#EXTINF:-1 group-title="USmix", CBS Reality+1
+http://103.28.88.15:4000/play/a050
+#EXTINF:-1 group-title="USmix", CBeebies HD
+http://103.28.88.15:4000/play/a05w
+#EXTINF:-1 group-title="USmix", CBeebies HD
+http://103.28.88.15:4000/play/a05s
+#EXTINF:-1 group-title="USmix", CHSTV
+http://103.28.88.15:4000/play/a09j
+#EXTINF:-1 group-title="USmix", CNBC
+http://103.28.88.15:4000/play/a07o
+#EXTINF:-1 group-title="USmix", CNN
+http://103.28.88.15:4000/play/a06d
+#EXTINF:-1 group-title="USmix", Capital
+http://103.28.88.15:4000/play/a084
+#EXTINF:-1 group-title="USmix", Capital XTRA
+http://103.28.88.15:4000/play/a082
+#EXTINF:-1 group-title="USmix", Channel 4
+http://103.28.88.15:4000/play/a04h
+#EXTINF:-1 group-title="USmix", Channel 4
+http://103.28.88.15:4000/play/a04g
+#EXTINF:-1 group-title="USmix", Channel 4
+http://103.28.88.15:4000/play/a04f
+#EXTINF:-1 group-title="USmix", Channel 4
+http://103.28.88.15:4000/play/a04e
+#EXTINF:-1 group-title="USmix", Channel 4
+http://103.28.88.15:4000/play/a04d
+#EXTINF:-1 group-title="USmix", Channel 5
+http://103.28.88.15:4000/play/a01b
+#EXTINF:-1 group-title="USmix", Channel 5 HD
+http://103.28.88.15:4000/play/a01i
+#EXTINF:-1 group-title="USmix", Channel 5+1
+http://103.28.88.15:4000/play/a01h
+#EXTINF:-1 group-title="USmix", Channel 7
+http://103.28.88.15:4000/play/a06w
+#EXTINF:-1 group-title="USmix", Channels 24
+http://103.28.88.15:4000/play/a08s
+#EXTINF:-1 group-title="USmix", Classic FM
+http://103.28.88.15:4000/play/a087
+#EXTINF:-1 group-title="USmix", Classic Rock
+http://103.28.88.15:4000/play/a0a3
+#EXTINF:-1 group-title="USmix", Clubland TV
+http://103.28.88.15:4000/play/a08f
+#EXTINF:-1 group-title="USmix", Court TV
+http://103.28.88.15:4000/play/a095
+#EXTINF:-1 group-title="USmix", Craft Extra
+http://103.28.88.15:4000/play/a081
+#EXTINF:-1 group-title="USmix", DMAX
+http://103.28.88.15:4000/play/a03q
+#EXTINF:-1 group-title="USmix", DMAX+1
+http://103.28.88.15:4000/play/a03m
+#EXTINF:-1 group-title="USmix", Dave
+http://103.28.88.15:4000/play/a05h
+#EXTINF:-1 group-title="USmix", Dave
+http://103.28.88.15:4000/play/a05c
+#EXTINF:-1 group-title="USmix", Dave ja vu
+http://103.28.88.15:4000/play/a05j
+#EXTINF:-1 group-title="USmix", Deen TV
+http://103.28.88.15:4000/play/a08w
+#EXTINF:-1 group-title="USmix", Drama
+http://103.28.88.15:4000/play/a05g
+#EXTINF:-1 group-title="USmix", Drama
+http://103.28.88.15:4000/play/a05e
+#EXTINF:-1 group-title="USmix", Drama+1
+http://103.28.88.15:4000/play/a05i
+#EXTINF:-1 group-title="USmix", Dunya News
+http://103.28.88.15:4000/play/a071
+#EXTINF:-1 group-title="USmix", E4
+http://103.28.88.15:4000/play/a04l
+#EXTINF:-1 group-title="USmix", Eman Channel
+http://103.28.88.15:4000/play/a09q
+#EXTINF:-1 group-title="USmix", Euronews
+http://103.28.88.15:4000/play/a07g
+#EXTINF:-1 group-title="USmix", Faith UK
+http://103.28.88.15:4000/play/a06x
+#EXTINF:-1 group-title="USmix", Faith World TV
+http://103.28.88.15:4000/play/a099
+#EXTINF:-1 group-title="USmix", Film4
+http://103.28.88.15:4000/play/a04i
+#EXTINF:-1 group-title="USmix", Food Network
+http://103.28.88.15:4000/play/a03o
+#EXTINF:-1 group-title="USmix", Food Network
+http://103.28.88.15:4000/play/a03n
+#EXTINF:-1 group-title="USmix", Food Netwrk+1
+http://103.28.88.15:4000/play/a03p
+#EXTINF:-1 group-title="USmix", Foodxp
+http://103.28.88.15:4000/play/a09g
+#EXTINF:-1 group-title="USmix", G! romance+1
+http://103.28.88.15:4000/play/a038
+#EXTINF:-1 group-title="USmix", GB News HD
+http://103.28.88.15:4000/play/a03j
+#EXTINF:-1 group-title="USmix", GEO News
+http://103.28.88.15:4000/play/a06t
+#EXTINF:-1 group-title="USmix", GEO TV
+http://103.28.88.15:4000/play/a09d
+#EXTINF:-1 group-title="USmix", GOD Channel
+http://103.28.88.15:4000/play/a092
+#EXTINF:-1 group-title="USmix", GREAT! action
+http://103.28.88.15:4000/play/a035
+#EXTINF:-1 group-title="USmix", GREAT! movies
+http://103.28.88.15:4000/play/a036
+#EXTINF:-1 group-title="USmix", GREAT! movies+1
+http://103.28.88.15:4000/play/a03d
+#EXTINF:-1 group-title="USmix", GREAT! romance
+http://103.28.88.15:4000/play/a037
+#EXTINF:-1 group-title="USmix", GREAT! tv
+http://103.28.88.15:4000/play/a03h
+#EXTINF:-1 group-title="USmix", GREAT! tv+1
+http://103.28.88.15:4000/play/a03i
+#EXTINF:-1 group-title="USmix", GREAT!action+1
+http://103.28.88.15:4000/play/a03f
+#EXTINF:-1 group-title="USmix", Gems TV
+http://103.28.88.15:4000/play/a06u
+#EXTINF:-1 group-title="USmix", Gold
+http://103.28.88.15:4000/play/a085
+#EXTINF:-1 group-title="USmix", Good News TV
+http://103.28.88.15:4000/play/a08b
+#EXTINF:-1 group-title="USmix", Greatest Hits
+http://103.28.88.15:4000/play/a08q
+#EXTINF:-1 group-title="USmix", HGTV
+http://103.28.88.15:4000/play/a078
+#EXTINF:-1 group-title="USmix", HGTV+1
+http://103.28.88.15:4000/play/a07a
+#EXTINF:-1 group-title="USmix", HUM EUROPE
+http://103.28.88.15:4000/play/a08v
+#EXTINF:-1 group-title="USmix", HUM Masala
+http://103.28.88.15:4000/play/a08t
+#EXTINF:-1 group-title="USmix", Heart
+http://103.28.88.15:4000/play/a09w
+#EXTINF:-1 group-title="USmix", Heart 80s
+http://103.28.88.15:4000/play/a09x
+#EXTINF:-1 group-title="USmix", Heart 90s
+http://103.28.88.15:4000/play/a08r
+#EXTINF:-1 group-title="USmix", Heart Dance
+http://103.28.88.15:4000/play/a08l
+#EXTINF:-1 group-title="USmix", Hidayat TV
+http://103.28.88.15:4000/play/a07q
+#EXTINF:-1 group-title="USmix", High Street TV 1
+http://103.28.88.15:4000/play/a09b
+#EXTINF:-1 group-title="USmix", High Street TV 2
+http://103.28.88.15:4000/play/a08a
+#EXTINF:-1 group-title="USmix", High Street TV 3
+http://103.28.88.15:4000/play/a08c
+#EXTINF:-1 group-title="USmix", High Street TV 4
+http://103.28.88.15:4000/play/a08y
+#EXTINF:-1 group-title="USmix", Hits Radio
+http://103.28.88.15:4000/play/a08m
+#EXTINF:-1 group-title="USmix", HobbyMaker
+http://103.28.88.15:4000/play/a06g
+#EXTINF:-1 group-title="USmix", HorrorXtra
+http://103.28.88.15:4000/play/a04s
+#EXTINF:-1 group-title="USmix", HorrorXtra+1
+http://103.28.88.15:4000/play/a051
+#EXTINF:-1 group-title="USmix", IQRA Bangla
+http://103.28.88.15:4000/play/a075
+#EXTINF:-1 group-title="USmix", IQRA TV
+http://103.28.88.15:4000/play/a076
+#EXTINF:-1 group-title="USmix", ITV1
+http://103.28.88.15:4000/play/a048
+#EXTINF:-1 group-title="USmix", ITV1
+http://103.28.88.15:4000/play/a045
+#EXTINF:-1 group-title="USmix", ITV1
+http://103.28.88.15:4000/play/a043
+#EXTINF:-1 group-title="USmix", ITV1
+http://103.28.88.15:4000/play/a042
+#EXTINF:-1 group-title="USmix", ITV1 HD
+http://103.28.88.15:4000/play/a06q
+#EXTINF:-1 group-title="USmix", ITV1 HD
+http://103.28.88.15:4000/play/a06p
+#EXTINF:-1 group-title="USmix", ITV1 HD
+http://103.28.88.15:4000/play/a06n
+#EXTINF:-1 group-title="USmix", ITV1 HD
+http://103.28.88.15:4000/play/a06m
+#EXTINF:-1 group-title="USmix", ITV1 HD
+http://103.28.88.15:4000/play/a06l
+#EXTINF:-1 group-title="USmix", ITV1 HD
+http://103.28.88.15:4000/play/a06a
+#EXTINF:-1 group-title="USmix", ITV1 HD
+http://103.28.88.15:4000/play/a069
+#EXTINF:-1 group-title="USmix", ITV1 HD
+http://103.28.88.15:4000/play/a067
+#EXTINF:-1 group-title="USmix", ITV1 HD
+http://103.28.88.15:4000/play/a063
+#EXTINF:-1 group-title="USmix", ITV1 HD
+http://103.28.88.15:4000/play/a062
+#EXTINF:-1 group-title="USmix", ITV1 HD
+http://103.28.88.15:4000/play/a061
+#EXTINF:-1 group-title="USmix", ITV1 HD
+http://103.28.88.15:4000/play/a060
+#EXTINF:-1 group-title="USmix", ITV1 HD
+http://103.28.88.15:4000/play/a033
+#EXTINF:-1 group-title="USmix", ITV1 HD
+http://103.28.88.15:4000/play/a032
+#EXTINF:-1 group-title="USmix", ITV1 HD
+http://103.28.88.15:4000/play/a031
+#EXTINF:-1 group-title="USmix", ITV1 HD
+http://103.28.88.15:4000/play/a030
+#EXTINF:-1 group-title="USmix", ITV1 Wales
+http://103.28.88.15:4000/play/a047
+#EXTINF:-1 group-title="USmix", ITV1 Wales HD
+http://103.28.88.15:4000/play/a05z
+#EXTINF:-1 group-title="USmix", ITV1 Wales HD
+http://103.28.88.15:4000/play/a02z
+#EXTINF:-1 group-title="USmix", ITV1+1
+http://103.28.88.15:4000/play/a046
+#EXTINF:-1 group-title="USmix", ITV2 HD
+http://103.28.88.15:4000/play/a05y
+#EXTINF:-1 group-title="USmix", ITV2 HD
+http://103.28.88.15:4000/play/a02y
+#EXTINF:-1 group-title="USmix", ITV3
+http://103.28.88.15:4000/play/a04a
+#EXTINF:-1 group-title="USmix", ITV3 HD
+http://103.28.88.15:4000/play/a06o
+#EXTINF:-1 group-title="USmix", ITV4
+http://103.28.88.15:4000/play/a04b
+#EXTINF:-1 group-title="USmix", ITV4 HD
+http://103.28.88.15:4000/play/a068
+#EXTINF:-1 group-title="USmix", Ideal Extra
+http://103.28.88.15:4000/play/a09r
+#EXTINF:-1 group-title="USmix", Inspiration TV
+http://103.28.88.15:4000/play/a06j
+#EXTINF:-1 group-title="USmix", Islam Channel
+http://103.28.88.15:4000/play/a06v
+#EXTINF:-1 group-title="USmix", Islam TV
+http://103.28.88.15:4000/play/a074
+#EXTINF:-1 group-title="USmix", JML Direct
+http://103.28.88.15:4000/play/a097
+#EXTINF:-1 group-title="USmix", Jazz FM
+http://103.28.88.15:4000/play/a08p
+#EXTINF:-1 group-title="USmix", JewelleryMaker
+http://103.28.88.15:4000/play/a093
+#EXTINF:-1 group-title="USmix", Kanshi TV
+http://103.28.88.15:4000/play/a09h
+#EXTINF:-1 group-title="USmix", Khushkhabri
+http://103.28.88.15:4000/play/a086
+#EXTINF:-1 group-title="USmix", Kiss
+http://103.28.88.15:4000/play/a09y
+#EXTINF:-1 group-title="USmix", LALIGATVBAR4
+http://103.28.88.15:4000/play/a0as
+#EXTINF:-1 group-title="USmix", LBC
+http://103.28.88.15:4000/play/a09v
+#EXTINF:-1 group-title="USmix", LBC News
+http://103.28.88.15:4000/play/a08j
+#EXTINF:-1 group-title="USmix", Legend
+http://103.28.88.15:4000/play/a04v
+#EXTINF:-1 group-title="USmix", Liga SmartBank
+http://103.28.88.15:4000/play/a0am
+#EXTINF:-1 group-title="USmix", Liga SmartBank 2
+http://103.28.88.15:4000/play/a0af
+#EXTINF:-1 group-title="USmix", Liga SmartBank 3
+http://103.28.88.15:4000/play/a0al
+#EXTINF:-1 group-title="USmix", M+ La Resistencia
+http://103.28.88.15:4000/play/a0ah
+#EXTINF:-1 group-title="USmix", M+DEPORTES7
+http://103.28.88.15:4000/play/a0ag
+#EXTINF:-1 group-title="USmix", M+LCAMPEON10
+http://103.28.88.15:4000/play/a0an
+#EXTINF:-1 group-title="USmix", M+LCAMPEON11
+http://103.28.88.15:4000/play/a0ap
+#EXTINF:-1 group-title="USmix", M+LCAMPEON12
+http://103.28.88.15:4000/play/a0ar
+#EXTINF:-1 group-title="USmix", M+LCAMPEON13
+http://103.28.88.15:4000/play/a0aj
+#EXTINF:-1 group-title="USmix", M+LCAMPEON6
+http://103.28.88.15:4000/play/a0aq
+#EXTINF:-1 group-title="USmix", M+LCAMPEON7
+http://103.28.88.15:4000/play/a0ai
+#EXTINF:-1 group-title="USmix", M+LCAMPEON8
+http://103.28.88.15:4000/play/a0ao
+#EXTINF:-1 group-title="USmix", M+LCAMPEON9
+http://103.28.88.15:4000/play/a0ak
+#EXTINF:-1 group-title="USmix", MATV National
+http://103.28.88.15:4000/play/a072
+#EXTINF:-1 group-title="USmix", Madani Chnl
+http://103.28.88.15:4000/play/a07s
+#EXTINF:-1 group-title="USmix", Magic
+http://103.28.88.15:4000/play/a09z
+#EXTINF:-1 group-title="USmix", More4+1
+http://103.28.88.15:4000/play/a04j
+#EXTINF:-1 group-title="USmix", NDTV 24x7
+http://103.28.88.15:4000/play/a08h
+#EXTINF:-1 group-title="USmix", NOW 70s
+http://103.28.88.15:4000/play/a09i
+#EXTINF:-1 group-title="USmix", NOW 80s
+http://103.28.88.15:4000/play/a06c
+#EXTINF:-1 group-title="USmix", NOW ROCK
+http://103.28.88.15:4000/play/a08g
+#EXTINF:-1 group-title="USmix", NTD
+http://103.28.88.15:4000/play/a08d
+#EXTINF:-1 group-title="USmix", NTV
+http://103.28.88.15:4000/play/a07e
+#EXTINF:-1 group-title="USmix", New Vision TV
+http://103.28.88.15:4000/play/a073
+#EXTINF:-1 group-title="USmix", Noor TV
+http://103.28.88.15:4000/play/a08e
+#EXTINF:-1 group-title="USmix", PBC
+http://103.28.88.15:4000/play/a07r
+#EXTINF:-1 group-title="USmix", PBS America
+http://103.28.88.15:4000/play/a04x
+#EXTINF:-1 group-title="USmix", POP
+http://103.28.88.15:4000/play/a03a
+#EXTINF:-1 group-title="USmix", POP Max
+http://103.28.88.15:4000/play/a03c
+#EXTINF:-1 group-title="USmix", POP Max+1
+http://103.28.88.15:4000/play/a03e
+#EXTINF:-1 group-title="USmix", POP+1
+http://103.28.88.15:4000/play/a03g
+#EXTINF:-1 group-title="USmix", PTC PUNJABI
+http://103.28.88.15:4000/play/a07d
+#EXTINF:-1 group-title="USmix", PTV Global
+http://103.28.88.15:4000/play/a08u
+#EXTINF:-1 group-title="USmix", Panjab Radio
+http://103.28.88.15:4000/play/a09m
+#EXTINF:-1 group-title="USmix", Pick
+http://103.28.88.15:4000/play/a05m
+#EXTINF:-1 group-title="USmix", Pitaara
+http://103.28.88.15:4000/play/a09f
+#EXTINF:-1 group-title="USmix", Planet Rock
+http://103.28.88.15:4000/play/a088
+#EXTINF:-1 group-title="USmix", QUEST
+http://103.28.88.15:4000/play/a03x
+#EXTINF:-1 group-title="USmix", QUEST HD
+http://103.28.88.15:4000/play/a058
+#EXTINF:-1 group-title="USmix", QUEST+1
+http://103.28.88.15:4000/play/a03z
+#EXTINF:-1 group-title="USmix", QVC Beauty
+http://103.28.88.15:4000/play/a07x
+#EXTINF:-1 group-title="USmix", QVC Extra
+http://103.28.88.15:4000/play/a07w
+#EXTINF:-1 group-title="USmix", QVC HD
+http://103.28.88.15:4000/play/a07y
+#EXTINF:-1 group-title="USmix", QVC Style HD
+http://103.28.88.15:4000/play/a07z
+#EXTINF:-1 group-title="USmix", Quest Red
+http://103.28.88.15:4000/play/a03y
+#EXTINF:-1 group-title="USmix", Quest Red+1
+http://103.28.88.15:4000/play/a03w
+#EXTINF:-1 group-title="USmix", ROK
+http://103.28.88.15:4000/play/a09a
+#EXTINF:-1 group-title="USmix", Radio X
+http://103.28.88.15:4000/play/a083
+#EXTINF:-1 group-title="USmix", RealityXtra
+http://103.28.88.15:4000/play/a04u
+#EXTINF:-1 group-title="USmix", RealityXtra
+http://103.28.88.15:4000/play/a04q
+#EXTINF:-1 group-title="USmix", Really
+http://103.28.88.15:4000/play/a07b
+#EXTINF:-1 group-title="USmix", Really
+http://103.28.88.15:4000/play/a079
+#EXTINF:-1 group-title="USmix", S4C
+http://103.28.88.15:4000/play/a053
+#EXTINF:-1 group-title="USmix", S4C HD
+http://103.28.88.15:4000/play/a056
+#EXTINF:-1 group-title="USmix", STV HD
+http://103.28.88.15:4000/play/a065
+#EXTINF:-1 group-title="USmix", Samaa TV
+http://103.28.88.15:4000/play/a07j
+#EXTINF:-1 group-title="USmix", Sangat
+http://103.28.88.15:4000/play/a07t
+#EXTINF:-1 group-title="USmix", Sanskar
+http://103.28.88.15:4000/play/a07f
+#EXTINF:-1 group-title="USmix", Sikh Channel
+http://103.28.88.15:4000/play/a06f
+#EXTINF:-1 group-title="USmix", Siraj TV
+http://103.28.88.15:4000/play/a07p
+#EXTINF:-1 group-title="USmix", SkyNewsArabia
+http://103.28.88.15:4000/play/a05n
+#EXTINF:-1 group-title="USmix", Smooth
+http://103.28.88.15:4000/play/a08k
+#EXTINF:-1 group-title="USmix", SonLife
+http://103.28.88.15:4000/play/a08i
+#EXTINF:-1 group-title="USmix", Sukh Sagar
+http://103.28.88.15:4000/play/a09n
+#EXTINF:-1 group-title="USmix", TJC
+http://103.28.88.15:4000/play/a089
+#EXTINF:-1 group-title="USmix", TJC Beauty
+http://103.28.88.15:4000/play/a06y
+#EXTINF:-1 group-title="USmix", TRT World
+http://103.28.88.15:4000/play/a07n
+#EXTINF:-1 group-title="USmix", TV One
+http://103.28.88.15:4000/play/a07i
+#EXTINF:-1 group-title="USmix", TV Warehouse
+http://103.28.88.15:4000/play/a09c
+#EXTINF:-1 group-title="USmix", TVC News
+http://103.28.88.15:4000/play/a07u
+#EXTINF:-1 group-title="USmix", TWR
+http://103.28.88.15:4000/play/a08o
+#EXTINF:-1 group-title="USmix", Takbeer TV
+http://103.28.88.15:4000/play/a096
+#EXTINF:-1 group-title="USmix", TalkTV HD
+http://103.28.88.15:4000/play/a059
+#EXTINF:-1 group-title="USmix", TalkingPictures
+http://103.28.88.15:4000/play/a09o
+#EXTINF:-1 group-title="USmix", That's 60s
+http://103.28.88.15:4000/play/a09l
+#EXTINF:-1 group-title="USmix", That's 70s
+http://103.28.88.15:4000/play/a04r
+#EXTINF:-1 group-title="USmix", That's 80s
+http://103.28.88.15:4000/play/a052
+#EXTINF:-1 group-title="USmix", That's TV
+http://103.28.88.15:4000/play/a09p
+#EXTINF:-1 group-title="USmix", Tiny Pop
+http://103.28.88.15:4000/play/a039
+#EXTINF:-1 group-title="USmix", Tiny Pop+1
+http://103.28.88.15:4000/play/a03b
+#EXTINF:-1 group-title="USmix", Trace Hits
+http://103.28.88.15:4000/play/a04t
+#EXTINF:-1 group-title="USmix", Trace Vault
+http://103.28.88.15:4000/play/a04w
+#EXTINF:-1 group-title="USmix", Travelxp
+http://103.28.88.15:4000/play/a094
+#EXTINF:-1 group-title="USmix", UTV
+http://103.28.88.15:4000/play/a044
+#EXTINF:-1 group-title="USmix", UTV HD
+http://103.28.88.15:4000/play/a066
+#EXTINF:-1 group-title="USmix", ViaplayXtraHD
+http://103.28.88.15:4000/play/a057
+#EXTINF:-1 group-title="USmix", Virgin Radio
+http://103.28.88.15:4000/play/a08n
+#EXTINF:-1 group-title="USmix", W
+http://103.28.88.15:4000/play/a06i
+#EXTINF:-1 group-title="USmix", W
+http://103.28.88.15:4000/play/a05d
+#EXTINF:-1 group-title="USmix", W+1
+http://103.28.88.15:4000/play/a05f
+#EXTINF:-1 group-title="USmix", YESTERDAY
+http://103.28.88.15:4000/play/a05b
+#EXTINF:-1 group-title="USmix", YESTERDAY+1
+http://103.28.88.15:4000/play/a05k
+#EXTINF:-1 group-title="USmix", c4 l
+http://103.28.88.15:4000/play/a04o
+#EXTINF:-1 group-title="USmix", talkSPORT
+http://103.28.88.15:4000/play/a09s
+
 #EXTINF:-1 tvg-logo="" group-title="FAVE",SoniPIX
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="FAVE",RAWK on!
 https://dri82941jql2y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/RockMetal-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-HQ0BoR9WfbA/VM5wXxFjkoI/AAAAAAAAAG0/UIAegQIiXqU/s1600/trans7-amiz.png" group-title="Lokal",Trans 7
