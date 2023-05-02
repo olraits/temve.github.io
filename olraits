@@ -1,4 +1,313 @@
 #EXTM3U
+#EXTINF:-1  tvg-logo="" group-title="National (K)",NET.TV
+https://kusnadipepenk.github.io/campeign/netv.m3u8
+#EXTINF:-1  tvg-logo="" group-title="National (K)",TRANSTV
+https://kusnadipepenk.github.io/campeign/trns.m3u8
+##http://rr2.dens.tv/s/s05/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="National (K)",TRANSTV(alt)
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1317535298_b544100_sleng.m3u8
+##https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/733-trans-tv
+#EXTINF:-1 tvg-logo="" group-title="National (K)",TRANS7
+https://kusnadipepenk.github.io/campeign/trns7.m3u8
+##http://rr.dens.tv/h/h11/02.m3u8
+#EXTINF:-1 tvg-logo="" group-title="National (K)",TRANS7(alt)
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1820541708_b744100_sleng.m3u8
+#EXTINF:-1  tvg-logo="" group-title="National (K)",RCTI
+https://kusnadipepenk.github.io/campeign/rcti.m3u8
+#EXTINF:-1  tvg-logo="" group-title="National (K)",SCTV
+##https://beetv.my.id/x/usee-sctv-gojokkk.m3u8
+https://kusnadipepenk.github.io/campeign/sctv.m3u8
+##http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/02.m3u8
+#EXTINF:-1  tvg-logo="" group-title="National (K)",MNCtv
+##http://kuchini.site:8080/live/joeBt/e229c03d/165054.ts
+##http://cod5.me/play/live.php?mac=00:1a:79:1e:4f:3a&stream=704434&extension=ts
+https://kusnadipepenk.github.io/campeign/mnc.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="National (K)",INDOSIAR 2
+##http://103.167.167.5:8111/play/a00r/index.m3u8
+https://kusnadipepenk.github.io/campeign/indos.m3u8
+##http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.vidio.com/live/205-indosiar
+##https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/205-indosiar
+#EXTINF:-1  tvg-logo="" group-title="National (K)",ANTV
+##http://210.210.155.35/session/4fb0762e-7f90-11ea-a2cb-ae6fb3689b94/qwr9ew/s/s07/02.m3u8
+https://kusnadipepenk.github.io/campeign/antv.m3u8
+#EXTINF:-1  tvg-logo="" group-title="National (K)",GLOBALTV
+https://kusnadipepenk.github.io/campeign/global.m3u8
+#EXTINF:-1  group-title="National (K)",TV ONE
+https://kusnadipepenk.github.io/campeign/tvone.m3u8
+##http://210.210.155.35/session/be487896-a900-11e9-9c8d-9a45a6ec88e8/qwr9ew/s/s105/02.m3u8
+#EXTINF:-1  tvg-logo="" group-title="National (K)",RTV
+https://kusnadipepenk.github.io/campeign/rtv.m3u8
+##http://210.210.155.35/dr9445/h/h10/02.m3u8
+#EXTINF:-1  tvg-logo="" group-title="National (K)",METROTV2
+https://kusnadipepenk.github.io/campeign/metro.m3u8
+##http://45.126.83.51/uq2663/h/h12/02.m3u8
+#EXTINF:-1  tvg-logo="" group-title="National (K)",KOMPASTV
+##https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
+##http://210.210.155.35/session/b44f53c0-1a28-11ea-980f-a261a2f9ca81/qwr9ew/s/s104/02.m3u8
+https://kusnadipepenk.github.io/campeign/kompas.m3u8
+#EXTINF:-1 tvg-logo="" group-title="National (K)",Inews
+https://kusnadipepenk.github.io/campeign/inews.m3u8
+##http://kuchini.site:8080/live/joeBt/e229c03d/157579.ts
+#EXTINF:-1  tvg-logo="" group-title="National (K)",CNN Indonesia
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+#EXTINF:-1 tvg-logo="" group-title="National (K)",BeritaSatu world
+https://b1world.beritasatumedia.com/Beritasatu/B1World_960x540.m3u8
+#EXTINF:-1 tvg-logo="" group-title="National (K)",The Indonesian Chanel
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="National (K)",IDX Ch
+https://kusnadipepenk.github.io/campeign/idx.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/News_Live_title_card.jpg" group-title="BERITA",Channel News Asia
+https://kusnadipepenk.github.io/campeign/cna.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/News_Live_title_card.jpg" group-title="BERITA",SKY news
+https://kusnadipepenk.github.io/campeign/skynew.m3u8
+
+#EXTINF:-1 tvg-logo="https://w0.peakpx.com/wallpaper/7/658/HD-wallpaper-pororo-other-penguin-thumbnail.jpg" group-title="KIDS",CArtoon Networks
+https://kusnadipepenk.github.io/ntn/cn.m3u8
+##http://server.sibfungold.info:8080/eurotv-iptveu/bxdTtmPF1C/51109
+#EXTINF:-1 tvg-logo="https://w0.peakpx.com/wallpaper/7/658/HD-wallpaper-pororo-other-penguin-thumbnail.jpg" group-title="KIDS",Boomerangs
+https://kusnadipepenk.github.io/ntn/boom.m3u8 
+##http://server.sibfungold.info:8080/eurotv-iptveu/bxdTtmPF1C/54202
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wyrQfKC/animax.jpg" group-title="KIDS",ANIMAX
+https://kusnadipepenk.github.io/campeign/amax.m3u8
+##http://clientsportals.com:80/live/d4Je5xwD/yadTXB63/40750.m3u8
+##http://210.210.155.35/session/fb26cc6e-6a2f-11e9-800a-90c6aac61e2a/dr9445/h/h144/02.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JBh6DYD/aniplus.jpg" group-title="KIDS",ANIPLUS
+https://kusnadipepenk.github.io/campeign/anplus.m3u8
+
+#EXTINF:-1 tvg-logo="https://w0.peakpx.com/wallpaper/7/658/HD-wallpaper-pororo-other-penguin-thumbnail.jpg" group-title="KIDS",Miaomi
+https://kusnadipepenk.github.io/campeign/miaomi.m3u8
+
+#EXTINF:-1 tvg-logo="https://w0.peakpx.com/wallpaper/7/658/HD-wallpaper-pororo-other-penguin-thumbnail.jpg" group-title="KIDS",Kids TV
+https://kusnadipepenk.github.io/campeign/kid.m3u8
+
+#EXTINF:-1 tvg-logo="https://w0.peakpx.com/wallpaper/7/658/HD-wallpaper-pororo-other-penguin-thumbnail.jpg" group-title="KIDS",Disney JR
+##http://server.sibfungold.info:8080/eurotv-iptveu/bxdTtmPF1C/3684
+https://kusnadipepenk.github.io/ntn/disn.m3u8
+
+#EXTINF:-1 tvg-logo="https://w0.peakpx.com/wallpaper/7/658/HD-wallpaper-pororo-other-penguin-thumbnail.jpg" group-title="KIDS",Dreamworks
+https://kusnadipepenk.github.io/campeign/drmwk.m3u8
+#EXTINF:-1 tvg-logo="https://w0.peakpx.com/wallpaper/7/658/HD-wallpaper-pororo-other-penguin-thumbnail.jpg" group-title="KIDS",ZOOMOO
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://w0.peakpx.com/wallpaper/7/658/HD-wallpaper-pororo-other-penguin-thumbnail.jpg" group-title="KIDS",Nick JRs
+https://kusnadipepenk.github.io/campeign/nika.m3u8
+#EXTINF:-1 tvg-logo="https://w0.peakpx.com/wallpaper/7/658/HD-wallpaper-pororo-other-penguin-thumbnail.jpg" group-title="KIDS",Nickelodeon
+https://kusnadipepenk.github.io/campeign/nike.m3u8
+##http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/46762
+##http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54257
+
+#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvN
+https://kusnadipepenk.github.io/campeign/tvn.m3u8
+##http://210.210.155.35:80/dr9445/h/h20/02.m3u8
+#EXTINF:-1  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/274_144.png" group-title="PREMIUM INDONESIA",tvNMovies
+https://kusnadipepenk.github.io/campeign/tvnmovies.m3u8
+##http://210.210.155.35:80/dr9445/h/h21/02.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="PREMIUM INDONESIA",AXN
+https://kusnadipepenk.github.io/ntn/axn.m3u8
+##http://210.210.155.35:80/dr9445/h/h141/01.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/T8fdzXn/blueantx.png" group-title="PREMIUM INDONESIA",BLUEANT EXTREME
+https://kusnadipepenk.github.io/campeign/bluext.m3u8
+##http://210.210.155.35:80/dr9445/h/h15/02.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/Q8xjNSc/blueantent.png" group-title="PREMIUM INDONESIA",BLUEANT ENTERTAINMENT
+https://kusnadipepenk.github.io/campeign/bluent.m3u8
+##http://210.210.155.35:80/dr9445/h/h16/02.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/vjhX0S9/kplus.jpg" group-title="PREMIUM INDONESIA",K+ Ph
+https://kusnadipepenk.github.io/campeign/kplus.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/jWjxD83/sonson.jpg" group-title="PREMIUM INDONESIA",SonyOne
+https://kusnadipepenk.github.io/campeign/sone.m3u8
+##http://iptvid.my.id:80/hmm/sone.m3u8
+#EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=109_MtH3Y5T8d_07P1VVEnD3sAkyX9_go" group-title="PREMIUM INDONESIA",HITS CH
+https://kusnadipepenk.github.io/campeign/hit.m3u8
+#EXTINF:-1  group-title="PREMIUM INDONESIA",CELESTIAL MOVIE
+https://kusnadipepenk.github.io/campeign/celmov.m3u8
+##http://210.210.155.35:80/dr9445/h/h14/02.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/vvKpnbc/kixx.jpg" group-title="PREMIUM INDONESIA",KIX
+https://kusnadipepenk.github.io/campeign/kix.m3u8
+##http://210.210.155.35/dr9445/h/h07/02.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/PYPLz36/trill.png" group-title="PREMIUM INDONESIA",THRILL
+https://kusnadipepenk.github.io/campeign/thril.m3u8
+##http://210.210.155.35/session/453c7fb4-6a31-11e9-b1c1-bf03b175abaa/qwr9ew/s/s34/02.m3u8
+#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",CCM
+https://kusnadipepenk.github.io/campeign/ccm.m3u8
+##http://rr2.dens.tv/s/s31/02.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/ByFQvJQ/zeebioskop.jpg" group-title="PREMIUM INDONESIA",ZEE BIOSKOP
+https://kusnadipepenk.github.io/campeign/zeeb.m3u8
+##http://210.210.155.35/session/6429f88c-c312-11e8-b712-b82a72d63267/qwr9ew/s/s32/02.m3u8
+
+#EXTINF:-1  tvg-logo="https://pcwyoming.org/wp-content/uploads/2020/04/prayer-hands.jpeg" group-title="RELIGI",life CH
+https://kusnadipepenk.github.io/campeign/life.m3u8
+
+#EXTINF:-1  tvg-logo="https://pcwyoming.org/wp-content/uploads/2020/04/prayer-hands.jpeg" group-title="RELIGI",Reformed 21
+https://kusnadipepenk.github.io/campeign/reform.m3u8
+
+#EXTINF:-1  tvg-logo="https://pcwyoming.org/wp-content/uploads/2020/04/prayer-hands.jpeg" group-title="RELIGI",TV Muhammadiyah
+https://kusnadipepenk.github.io/campeign/muhtv.m3u8
+#EXTINF:-1  tvg-logo="https://pcwyoming.org/wp-content/uploads/2020/04/prayer-hands.jpeg" group-title="RELIGI",Muslim TV
+https://kusnadipepenk.github.io/campeign/muslim.m3u8
+
+#EXTINF:-1  tvg-logo="https://img.lovepik.com/photo/50044/4947.jpg_wh300.jpg" group-title="KNOWLEDGE",HGTV
+https://kusnadipepenk.github.io/ntn/hgtv.m3u8
+##http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54253
+
+#EXTINF:-1  tvg-logo="https://img.lovepik.com/photo/50044/4947.jpg_wh300.jpg" group-title="KNOWLEDGE",BBC Earth
+https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
+##https://kusnadipepenk.github.io/ntn/bbce.m3u8
+#EXTINF:-1  tvg-logo="https://img.lovepik.com/photo/50044/4947.jpg_wh300.jpg" group-title="KNOWLEDGE",TLC
+https://varun-iptv.netlify.app/m3u/TLC.m3u8
+#EXTINF:-1  tvg-logo="https://img.lovepik.com/photo/50044/4947.jpg_wh300.jpg" group-title="KNOWLEDGE",National GeoGraphic
+https://kusnadipepenk.github.io/ntn/natgeo.m3u8
+##http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54197
+
+#EXTINF:-1  tvg-logo="https://img.lovepik.com/photo/50044/4947.jpg_wh300.jpg" group-title="KNOWLEDGE",DISCOVERY Science
+https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
+#EXTINF:-1  tvg-logo="https://img.lovepik.com/photo/50044/4947.jpg_wh300.jpg" group-title="KNOWLEDGE",DISCOVERY
+https://kusnadipepenk.github.io/ntn/disc.m3u8
+#EXTINF:-1  tvg-logo="https://img.lovepik.com/photo/50044/4947.jpg_wh300.jpg" group-title="KNOWLEDGE",DISCOVERY Turbo
+https://kusnadipepenk.github.io/ntn/disturbo.m3u8
+
+#EXTINF:-1  tvg-logo="https://img.lovepik.com/photo/50044/4947.jpg_wh300.jpg" group-title="KNOWLEDGE",History
+https://kusnadipepenk.github.io/campeign/histo.m3u8
+##http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d4af1803e7983b391d73b13/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-logo="https://img.lovepik.com/photo/50044/4947.jpg_wh300.jpg" group-title="KNOWLEDGE",AFC
+https://kusnadipepenk.github.io/campeign/afc.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.seekpng.com/png/detail/223-2235525_hbo-logo-vector-hbo-png.png" group-title="HBOgrup",ID HBO
+https://kusnadipepenk.github.io/campeign/hbo.m3u8
+##http://203.77.246.50:5000/udp/239.1.3.84:5000
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.seekpng.com/png/detail/223-2235525_hbo-logo-vector-hbo-png.png" group-title="HBOgrup",ID HBO Family
+https://kusnadipepenk.github.io/campeign/hbofam.m3u8
+##http://203.77.246.50:5000/udp/239.1.3.76:5000
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.seekpng.com/png/detail/223-2235525_hbo-logo-vector-hbo-png.png" group-title="HBOgrup",ID HBO Hits
+https://kusnadipepenk.github.io/campeign/hbihit.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.seekpng.com/png/detail/223-2235525_hbo-logo-vector-hbo-png.png" group-title="HBOgrup",ID HBO Signs
+https://kusnadipepenk.github.io/campeign/hbosi.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.seekpng.com/png/detail/223-2235525_hbo-logo-vector-hbo-png.png" group-title="HBOgrup",ID Cinemax
+https://kusnadipepenk.github.io/campeign/hbocinema.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/realistic-cinema-advertising-poster-popcorn-260nw-1411840919.jpg" group-title="MOVIES",SYFY
+https://kusnadipepenk.github.io/ntn/syfy.m3u8
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/realistic-cinema-advertising-poster-popcorn-260nw-1411840919.jpg" group-title="MOVIES",Runtime
+https://ammoruntime-plex.amagi.tv/playlistR432p.m3u8
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/realistic-cinema-advertising-poster-popcorn-260nw-1411840919.jpg" group-title="MOVIES",SONY PIX
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+##https://kusnadipepenk.github.io/ntn/spix.m3u8
+##https://tv.googledrivelinks.com/live.php?c=Sony_Pix_HD&q=400&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/realistic-cinema-advertising-poster-popcorn-260nw-1411840919.jpg" group-title="MOVIES",Star Movies
+https://kusnadipepenk.github.io/ntn/strmvi.m3u8
+##http://server.sibfungold.info:8080/eurotv-iptveu/bxdTtmPF1C/1765
+##http://182.50.65.213:8888/udp/239.239.0.17:3001
+##http://103.166.253.222/hls/starmovies.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/realistic-cinema-advertising-poster-popcorn-260nw-1411840919.jpg" group-title="MOVIES",Movies Now
+https://kusnadipepenk.github.io/ntn/mnow.m3u8
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/realistic-cinema-advertising-poster-popcorn-260nw-1411840919.jpg" group-title="MOVIES",MN Plus
+https://kusnadipepenk.github.io/ntn/mnpls.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/realistic-cinema-advertising-poster-popcorn-260nw-1411840919.jpg" group-title="MOVIES",Paramount
+https://kusnadipepenk.github.io/campeign/prmont.m3u8
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/realistic-cinema-advertising-poster-popcorn-260nw-1411840919.jpg" group-title="MOVIES",AndPrives
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/prv.m3u8
+##https://aqfadtv.xyz/live/&prive/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/realistic-cinema-advertising-poster-popcorn-260nw-1411840919.jpg" group-title="MOVIES",AndFlix
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/flx.m3u8
+##https://aqfadtv.xyz/live/&flix/index.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",Sky Sport Football
+https://kusnadipepenk.github.io/ntn/skyfut.m3u8
+##http://204.12.247.162:8080/premium35/mono.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",Sky Sport Arena
+https://kusnadipepenk.github.io/ntn/skyare.m3u8
+##http://204.12.247.162:8080/premium36/mono.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",Dazn 1 Sport
+https://kusnadipepenk.github.io/ntn/daz1.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",Dazn 2 Sport
+https://kusnadipepenk.github.io/ntn/daz2.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",Arena 1 Sport
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/arns1.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",Arena 2 Sport
+https://kusnadipepenk.github.io/ntn/arns2.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",Arena 3 Sport
+https://kusnadipepenk.github.io/ntn/arns3.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",Arena 4 Sport
+https://kusnadipepenk.github.io/ntn/arns4.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",Eleven 1
+https://kusnadipepenk.github.io/ntn/ele1.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",Eleven 2
+https://kusnadipepenk.github.io/ntn/ele2.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",Eleven 3
+https://kusnadipepenk.github.io/ntn/ele3.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",Nova Sport
+http://204.12.247.162:8080/premium468/mono.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",SPortv1
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/sprtv1.m3u8
+##http://warkop.cf/89/sporttv/01.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",SPortv2
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/sprtv2.m3u8
+##http://warkop.cf/89/sporttv/02.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",SPortv3
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/sprtv3.m3u8
+##http://warkop.cf/89/sporttv/03.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",SPortv4
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/sprtv4.m3u8
+##http://warkop.cf/89/sporttv/04.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",Bn 1
+https://kusnadipepenk.github.io/ntn/bs1.m3u8
+##http://warkop.cf/89/bein/01.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",Ben 2
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/bs2.m3u8
+##http://warkop.cf/89/bein/02.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",Bn 3s
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/bs3.m3u8
+##http://warkop.cf/89/bein/03.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",OC-Moji
+http://210.210.155.35/qwr9ew/s/s41/02.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",Fight SPort
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=778
+##http://210.210.155.35:80/dr9445/h/h05/01.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",SPOTV-2
+https://kusnadipepenk.github.io/ntn/spotv2.m3u8
+##https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",SPOTV
+https://kusnadipepenk.github.io/ntn/spotv1.m3u8
+##https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",SSC sport
+https://kusnadipepenk.github.io/ntn/sscspo.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Euro Sport
+https://kusnadipepenk.github.io/ntn/eurospo.m3u8
+##https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Stadium Sport
+https://bcovlive-a.akamaihd.net/79ebca453e6340dcb32b09707ce3fb82/us-east-1/5994000126001/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Sony Ten 1
+https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Sony Ten 2
+https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Sony Ten 3
+https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Sony Ten 4
+https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Race
+https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_099/HD/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Eleven Sport 1
+https://kusnadipepenk.github.io/ntn/elesp1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Eleven Sport 2
+https://kusnadipepenk.github.io/ntn/elesp2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Eleven Sport 3
+https://kusnadipepenk.github.io/ntn/elesp3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",True Football 1
+https://kusnadipepenk.github.io/ntn/truf1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",True Football 2
+https://kusnadipepenk.github.io/ntn/truf2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",V-Sport
+https://kusnadipepenk.github.io/ntn/vspom.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Sky Sport Futbol
+https://kusnadipepenk.github.io/ntn/skyprem.m3u8
+
 #EXTINF:-1   tvg-logo="" group-title="barrruh",ANTV_s
 https://sub.home-tv.my.id/first/antv.m3u8
 #EXTINF:-1   tvg-logo="" group-title="barrruh",SCTV_s
