@@ -6,6 +6,8 @@ http://181.188.138.186:8000/play/a0eo/index.m3u8
 #EXTINF:-1 group-title="Musix (K)",80s Hits
 http://181.188.138.186:8000/play/a0ep/index.m3u8
 #EXTINF:-1 tvg-id="eskarock.pl" group-title="Musix (K)",RockTeve
+#EXTINF:-1 group-title="Musix (K)",MTV 00s
+http://204.199.132.195:50000/play/a01u/index.m3u8
 http://37.48.101.149:5012/play/a01n/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="National (K)",TRANSTV
 https://kusnadipepenk.github.io/campeign/trns.m3u8
