@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1  tvg-logo="" group-title="National (K)",NET.TV
 https://kusnadipepenk.github.io/campeign/netv.m3u8
+#EXTINF:-1 tvg-id="eskarock.pl" group-title="Musix (K)",RockTeve
+http://37.48.101.149:5012/play/a01n/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="National (K)",TRANSTV
 https://kusnadipepenk.github.io/campeign/trns.m3u8
 ##http://rr2.dens.tv/s/s05/index.m3u8
