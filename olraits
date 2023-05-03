@@ -537,7 +537,7 @@ http://iptvmedia.live:8080/F19591/d7d02309/162591
 http://iptvmedia.live:8080/F19591/d7d02309/162592
 #EXTINF:-1   tvg-logo="" group-title="barrruh",Tr•Sport|4
 http://iptvmedia.live:8080/F19591/d7d02309/285569
-#EXTINF:-1   tvg-logo="" group-title="barrruh",Tr•Vision|NBA
+#EXTINF:-1   tvg-logo="" group-title="barrruh",Tr•Vision|nba
 http://iptvmedia.live:8080/F19591/d7d02309/281638
 #EXTINF:-1   tvg-logo="" group-title="barrruh",BPremium_1_ar
 http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=697229347
@@ -1689,8 +1689,6 @@ https://geocities.ws/ariev7xx/sctv.m3u8
 http://mpwtv.my.id/vidioye/204-sctv.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rmyQVQrf/sctv3.png" group-title="Lokal",SCTV 5
 https://devds.site/api/v.m3u8?ch=sctv
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5t45f2Hw/net3.png" group-title="Lokal",NET 
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/80292
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5t45f2Hw/net3.png" group-title="Lokal",NET 2
 https://devds.site/api/indihoy/hls.m3u8?ch=net
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5t45f2Hw/net3.png" group-title="Lokal",NET 3
