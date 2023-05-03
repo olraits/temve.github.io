@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1  tvg-logo="" group-title="2023pinned",TNT Film/sportsBsketboll
+http://208.86.19.13:81/16.stream/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="2023pinned",K-Drama
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=425
+#EXTINF:-1  tvg-logo="" group-title="2023pinned",K-Movies
+https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="2023pinned",K-IDS
+https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="National (K)",NET.TV
 https://kusnadipepenk.github.io/campeign/netv.m3u8
 #EXTINF:-1 group-title="Musix (K)",70s Hits
