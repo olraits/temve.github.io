@@ -165,13 +165,10 @@ https://b1world.beritasatumedia.com/Beritasatu/B1World_960x540.m3u8
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="National (K)",IDX Ch
 https://kusnadipepenk.github.io/campeign/idx.m3u8
-
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/News_Live_title_card.jpg" group-title="BERITA",Channel News Asia
 https://kusnadipepenk.github.io/campeign/cna.m3u8
-
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/News_Live_title_card.jpg" group-title="BERITA",SKY news
 https://kusnadipepenk.github.io/campeign/skynew.m3u8
-
 #EXTINF:-1 tvg-logo="https://w0.peakpx.com/wallpaper/7/658/HD-wallpaper-pororo-other-penguin-thumbnail.jpg" group-title="KIDS",CArtoon Networks
 https://kusnadipepenk.github.io/ntn/cn.m3u8
 ##http://server.sibfungold.info:8080/eurotv-iptveu/bxdTtmPF1C/51109
@@ -184,17 +181,13 @@ https://kusnadipepenk.github.io/campeign/amax.m3u8
 ##http://210.210.155.35/session/fb26cc6e-6a2f-11e9-800a-90c6aac61e2a/dr9445/h/h144/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JBh6DYD/aniplus.jpg" group-title="KIDS",ANIPLUS
 https://kusnadipepenk.github.io/campeign/anplus.m3u8
-
 #EXTINF:-1 tvg-logo="https://w0.peakpx.com/wallpaper/7/658/HD-wallpaper-pororo-other-penguin-thumbnail.jpg" group-title="KIDS",Miaomi
 https://kusnadipepenk.github.io/campeign/miaomi.m3u8
-
 #EXTINF:-1 tvg-logo="https://w0.peakpx.com/wallpaper/7/658/HD-wallpaper-pororo-other-penguin-thumbnail.jpg" group-title="KIDS",Kids TV
 https://kusnadipepenk.github.io/campeign/kid.m3u8
-
 #EXTINF:-1 tvg-logo="https://w0.peakpx.com/wallpaper/7/658/HD-wallpaper-pororo-other-penguin-thumbnail.jpg" group-title="KIDS",Disney JR
 ##http://server.sibfungold.info:8080/eurotv-iptveu/bxdTtmPF1C/3684
 https://kusnadipepenk.github.io/ntn/disn.m3u8
-
 #EXTINF:-1 tvg-logo="https://w0.peakpx.com/wallpaper/7/658/HD-wallpaper-pororo-other-penguin-thumbnail.jpg" group-title="KIDS",Dreamworks
 https://kusnadipepenk.github.io/campeign/drmwk.m3u8
 #EXTINF:-1 tvg-logo="https://w0.peakpx.com/wallpaper/7/658/HD-wallpaper-pororo-other-penguin-thumbnail.jpg" group-title="KIDS",ZOOMOO
@@ -205,7 +198,6 @@ https://kusnadipepenk.github.io/campeign/nika.m3u8
 https://kusnadipepenk.github.io/campeign/nike.m3u8
 ##http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/46762
 ##http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54257
-
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvN
 https://kusnadipepenk.github.io/campeign/tvn.m3u8
 ##http://210.210.155.35:80/dr9445/h/h20/02.m3u8
@@ -415,7 +407,126 @@ https://kusnadipepenk.github.io/ntn/truf2.m3u8
 https://kusnadipepenk.github.io/ntn/vspom.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sky Sport Futbol
 https://kusnadipepenk.github.io/ntn/skyprem.m3u8
-
+#EXTINF:-1  tvg-logo="" group-title="24/7 full~MOVIES",BRUCE~LEE MOVIES
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/324916
+#EXTINF:-1  tvg-logo="" group-title="24/7 full~MOVIES",JACKIE~CHAN MOVIES
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/324822
+#EXTINF:-1  tvg-logo="" group-title="24/7 full~MOVIES",JET~LI MOVIES
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/324823
+#EXTINF:-1  tvg-logo="" group-title="24/7 full~MOVIES",ACTION~MOVIES
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/324847
+#EXTINF:-1  tvg-logo="" group-title="24/7 full~MOVIES",WAR~MOVIES
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/324872
+#EXTINF:-1  tvg-logo="" group-title="24/7 full~MOVIES",VAMPIRE~MOVIES
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/324873
+#EXTINF:-1  tvg-logo="" group-title="24/7 full~MOVIES",BOXING~MOVIES
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/324918
+#EXTINF:-1  tvg-logo="" group-title="24/7 full~MOVIES",BLADE~MOVIES
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/324919
+#EXTINF:-1  tvg-logo="" group-title="24/7 full~MOVIES",BATMAN~MOVIES
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/324920
+#EXTINF:-1  tvg-logo="" group-title="24/7 full~MOVIES",BACK.TO.THE.FUTURE
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/324921
+#EXTINF:-1  tvg-logo="" group-title="24/7 full~MOVIES",ARNOLD~SCHWARZENEGGER
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/324922
+#EXTINF:-1  tvg-logo="" group-title="24/7 full~MOVIES",AL~PACINO
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/324923
+#EXTINF:-1  tvg-logo="" group-title="24/7 full~MOVIES",X-MEN~CARTOONS
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/324925
+#EXTINF:-1  tvg-logo="" group-title="24/7 full~MOVIES",ROB`ZOMBIE MOVIES
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/324926
+#EXTINF:-1  tvg-logo="" group-title="24/7 full~MOVIES",TRANSFORMERS~CARTOONS
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/324927
+#EXTINF:-1  tvg-logo="" group-title="24/7 full~MOVIES",TOM.AND.JERRY
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/324929
+#EXTINF:-1  tvg-logo="" group-title="24/7 full~MOVIES",THOMAS.AND.FRIENDS
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/324931
+#EXTINF:-1  tvg-logo="" group-title="24/7 full~MOVIES",THE.BATMAN
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/324936
+#EXTINF:-1  tvg-logo="" group-title="24/7 full~MOVIES",KUNGFU~PANDA
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/324939
+#EXTINF:-1  tvg-logo="" group-title="24/7 full~MOVIES",SCI-FI~MOVIES
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/324944
+#EXTINF:-1  tvg-logo="" group-title="24/7 full~MOVIES",SPIDERMAN~
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/324945
+#EXTINF:-1  tvg-logo="" group-title="24/7 full~MOVIES",SCOOBY-DOO~CLASSIC
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/324946
+#EXTINF:-1  tvg-logo="" group-title="24/7 full~MOVIES",SCOOBY-DOO~
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/324947
+#EXTINF:-1  tvg-logo="" group-title="24/7 full~MOVIES",SPONGEBOB~SQUAREPANTS
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/324948
+#EXTINF:-1  tvg-logo="" group-title="24/7 full~MOVIES",POWER~RANGERS
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/324951
+#EXTINF:-1  tvg-logo="" group-title="24/7 full~MOVIES",POPEYE~
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/324952
+#EXTINF:-1  tvg-logo="" group-title="24/7 full~MOVIES",POKEMON~
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/324953
+#EXTINF:-1  tvg-logo="" group-title="24/7 full~MOVIES",AVATAR~
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/324994
+#EXTINF:-1  tvg-logo="" group-title="24/7 full~MOVIES",TRANSPORTER~
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/324875
+#EXTINF:-1  tvg-logo="" group-title="24/7 full~MOVIES",TRANSFORMERS~
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/324876
+#EXTINF:-1  tvg-logo="" group-title="24/7 full~MOVIES",THRILLER~MOVIES
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/324877
+#EXTINF:-1  tvg-logo="" group-title="24/7 full~MOVIES",THE~AVENGERS
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/324880
+#EXTINF:-1  tvg-logo="" group-title="24/7 full~MOVIES",SUPERHERO~MOVIES
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/324881
+#EXTINF:-1  tvg-logo="" group-title="24/7 full~MOVIES",STEVEN~SEAGAL
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/324882
+#EXTINF:-1  tvg-logo="" group-title="24/7 full~MOVIES",STAR~WARS
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/324883
+#EXTINF:-1  tvg-logo="" group-title="24/7 full~MOVIES",STARTREK~MOVIES
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/324884
+#EXTINF:-1  tvg-logo="" group-title="24/7 full~MOVIES",SPORTS~MOVIES
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/324885
+#EXTINF:-1  tvg-logo="" group-title="24/7 full~MOVIES",ROMANCE~MOVIES
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/324889
+#EXTINF:-1  tvg-logo="" group-title="24/7 full~MOVIES",ROCKY~
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/324890
+#EXTINF:-1  tvg-logo="" group-title="24/7 full~MOVIES",RAMBO~
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/324891
+#EXTINF:-1  tvg-logo="" group-title="24/7 full~MOVIES",PREDATOR/ALIEN~MOVIES
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/324893
+#EXTINF:-1  tvg-logo="" group-title="24/7 full~MOVIES",PLANET.OF.THE.APES
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/324894
+#EXTINF:-1  tvg-logo="" group-title="24/7 full~MOVIES",PIRATES.OF.THE.CARIBBEAN
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/324895
+#EXTINF:-1  tvg-logo="" group-title="24/7 full~MOVIES",TEXAS~CHAINSAW~MOVIES
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/324896
+#EXTINF:-1  tvg-logo="" group-title="24/7 full~MOVIES",MEN~IN~BLACK
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/324897
+#EXTINF:-1  tvg-logo="" group-title="24/7 full~MOVIES",MATRIX~
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/324898
+#EXTINF:-1  tvg-logo="" group-title="24/7 full~MOVIES",LORD~OF~THE~RINGS
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/324899
+#EXTINF:-1  tvg-logo="" group-title="24/7 full~MOVIES",LETHAL~WEAPON
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/324900
+#EXTINF:-1  tvg-logo="" group-title="24/7 full~MOVIES",FRIDAY~THE~13TH
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/324901
+#EXTINF:-1  tvg-logo="" group-title="24/7 full~MOVIES",JURASSIC~PARK
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/324902
+#EXTINF:-1  tvg-logo="" group-title="24/7 full~MOVIES",JIM~CARREY
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/324903
+#EXTINF:-1  tvg-logo="" group-title="24/7 full~MOVIES",JCVD~MOVIES
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/324904
+#EXTINF:-1  tvg-logo="" group-title="24/7 full~MOVIES",JAMES~BOND
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/324906
+#EXTINF:-1  tvg-logo="" group-title="24/7 full~MOVIES",INDIANA~JONES
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/324907
+#EXTINF:-1  tvg-logo="" group-title="24/7 full~MOVIES",HORROR~MOVIES
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/324908
+#EXTINF:-1  tvg-logo="" group-title="24/7 full~MOVIES",HARRY~POTTER
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/324909
+#EXTINF:-1  tvg-logo="" group-title="24/7 full~MOVIES",FAST~AND~FURIOUS
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/324912
+#EXTINF:-1  tvg-logo="" group-title="24/7 full~MOVIES",FAMILY~MOVIES
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/324913
+#EXTINF:-1  tvg-logo="" group-title="24/7 full~MOVIES",DIE~HARD
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/324914
+#EXTINF:-1  tvg-logo="" group-title="24/7 full~MOVIES",CRIME~MOVIES
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/324915
 #EXTINF:-1 group-title="Korean",아이넷
 http://110.47.7.144:9981/stream/channelid/1
 #EXTINF:-1 group-title="Korean",내셔널지오그래
