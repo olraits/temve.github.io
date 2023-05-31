@@ -7,6 +7,18 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=425
 https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="2023pinned",K-IDS
 https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="Seproot0623",MAL|SupSport
+http://kuchini.site:8080/dooby1312/b244f7ab/146068
+#EXTINF:-1  tvg-logo="" group-title="Seproot0623",MAL|SupSport 2
+http://kuchini.site:8080/dooby1312/b244f7ab/157556
+#EXTINF:-1  tvg-logo="" group-title="Seproot0623",MAL|SupSport 3
+http://kuchini.site:8080/dooby1312/b244f7ab/157557
+#EXTINF:-1  tvg-logo="" group-title="Seproot0623",MAL|SupSport IV
+http://kuchini.site:8080/dooby1312/b244f7ab/157558
+#EXTINF:-1  tvg-logo="" group-title="Seproot0623",MAL|SupSport 5
+http://kuchini.site:8080/dooby1312/b244f7ab/287792
+
 #EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 1 PREMIUM HD" tvg-logo="http://obsfullhd.tv:25461/images/664e959174fde9763f371b9988aa84e0.png" group-title="olahdjiwo2023",BS-1 PREMIUM HD
 http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/47269
 #EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 2 PREMIUM HD" tvg-logo="http://obsfullhd.tv:25461/images/798afb26c7eebf47806683604b27f493.png" group-title="olahdjiwo2023",BS-2 PREMIUM HD
