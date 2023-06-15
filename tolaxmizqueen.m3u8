@@ -312,99 +312,99 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=HD&ccode=JP&m=d0:20
 http://mn-nl.mncdn.com/blutv_play1/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/b31gzGv/BLUE-TV-2.png",BluTV Play 2
 http://mn-nl.mncdn.com/blutv_play2/live_720p2000000kbps/index.m3u8
-#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,Wrestling
+#EXTINF:-1  group-title="MOVIES" tvg-logo="https://cdn-icons-png.flaticon.com/512/2798/2798007.png" ,Wrestling
 http://tuyuull@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=331467&extension=ts&play_token=tuyull.ts
-#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,BRUCE•LEE•
+#EXTINF:-1  group-title="MOVIES" tvg-logo="https://cdn-icons-png.flaticon.com/512/2798/2798007.png" ,BRUCELEE
 http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558763&extension=ts&tuyull@BruceleeMovie
-#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,RAMBO•
+#EXTINF:-1  group-title="MOVIES" tvg-logo="https://cdn-icons-png.flaticon.com/512/2798/2798007.png" ,RAMBO
 http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558774&extension=ts&tuyull@RamboMovie
-#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,MR•BEAN•
+#EXTINF:-1  group-title="MOVIES" tvg-logo="https://cdn-icons-png.flaticon.com/512/2798/2798007.png" ,MRBEAN
 http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558931&extension=ts&tuyull@MrBeanMovie
-#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,007•
+#EXTINF:-1  group-title="MOVIES" tvg-logo="https://cdn-icons-png.flaticon.com/512/2798/2798007.png" ,007
 http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558789&extension=ts&tuyull@JamesBond007Movie
-#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,MARVEL•01•
+#EXTINF:-1  group-title="MOVIES" tvg-logo="https://cdn-icons-png.flaticon.com/512/2798/2798007.png" ,MARVEL01
 http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=924731&extension=ts&tuyull@Marvel01Movie
-#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,MARVEL•02•
+#EXTINF:-1  group-title="MOVIES" tvg-logo="https://cdn-icons-png.flaticon.com/512/2798/2798007.png" ,MARVEL02
 http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=924732&extension=ts&tuyull@Marvel02Movie
-#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,MARVEL•03•
+#EXTINF:-1  group-title="MOVIES" tvg-logo="https://cdn-icons-png.flaticon.com/512/2798/2798007.png" ,MARVEL03
 http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=924733&extension=ts&tuyull@Marvel03Movie
-#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,MARVEL•04•
+#EXTINF:-1  group-title="MOVIES" tvg-logo="https://cdn-icons-png.flaticon.com/512/2798/2798007.png" ,MARVEL04
 http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=924734&extension=ts&tuyull@Marvel04Movie
-#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,FAST&FURY•
+#EXTINF:-1  group-title="MOVIES" tvg-logo="https://cdn-icons-png.flaticon.com/512/2798/2798007.png" ,FAST&FURY
 http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=924701&extension=ts&tuyull@Fast@FuryMovie
-#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,SCREAM•
+#EXTINF:-1  group-title="MOVIES" tvg-logo="https://cdn-icons-png.flaticon.com/512/2798/2798007.png" ,SCREAM
 http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=914930&extension=ts&tuyull@ScreamMovie
-#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,MIKE•TYSON•
+#EXTINF:-1  group-title="MOVIES" tvg-logo="https://cdn-icons-png.flaticon.com/512/2798/2798007.png" ,MIKETYSON
 http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=1207319&extension=ts&tuyull@MikeTysonMovie
-#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,ALIEN|PREDATOR•
+#EXTINF:-1  group-title="MOVIES" tvg-logo="https://cdn-icons-png.flaticon.com/512/2798/2798007.png" ,ALIENPREDATOR
 http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558776&extension=ts&tuyull@AlienPredator
-#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,HORROR•
+#EXTINF:-1  group-title="MOVIES" tvg-logo="https://cdn-icons-png.flaticon.com/512/2798/2798007.png" ,HORROR
 http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558784&extension=ts&tuyull@HorrorMovie
-#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,ROMAMCE•
+#EXTINF:-1  group-title="MOVIES" tvg-logo="https://cdn-icons-png.flaticon.com/512/2798/2798007.png" ,ROMAMCE
 http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558772&extension=ts&tuyull@RomanceMovie
-#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,ACTION•
+#EXTINF:-1  group-title="MOVIES" tvg-logo="https://cdn-icons-png.flaticon.com/512/2798/2798007.png" ,ACTION
 http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558770&extension=ts&tuyull@ActionMovie
-#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,SPORTS•
+#EXTINF:-1  group-title="MOVIES" tvg-logo="https://cdn-icons-png.flaticon.com/512/2798/2798007.png" ,SPORTS
 http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558768&extension=ts&tuyull@SportsMovie
-#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,SUPER•HEROES•
+#EXTINF:-1  group-title="MOVIES" tvg-logo="https://cdn-icons-png.flaticon.com/512/2798/2798007.png" ,SUPER•HEROES
 http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558765&extension=ts&tuyull@SuperHeroesMovie
-#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,BATMAN•
+#EXTINF:-1  group-title="MOVIES" tvg-logo="https://cdn-icons-png.flaticon.com/512/2798/2798007.png" ,BATMAN
 http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=534118&extension=ts&tuyull@BatmanMovie
-#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,PLANET•OF•APES•MOVIE
+#EXTINF:-1  group-title="MOVIES" tvg-logo="https://cdn-icons-png.flaticon.com/512/2798/2798007.png" ,PLANEtOFAPESMOVIE
 http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558777&extension=ts&tuyull@planetOfApesMovie
-#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,THRILLER•
+#EXTINF:-1  group-title="MOVIES" tvg-logo="https://cdn-icons-png.flaticon.com/512/2798/2798007.png" ,THRILLER
 http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558779&extension=ts&tuyull@ThrillMovie
-#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,MATRIX•
+#EXTINF:-1  group-title="MOVIES" tvg-logo="https://cdn-icons-png.flaticon.com/512/2798/2798007.png" ,MATRIX
 http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558781&extension=ts&tuyull@MatrixMovie
-#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,TEXAS•CHAINSAW•
+#EXTINF:-1  group-title="MOVIES" tvg-logo="https://cdn-icons-png.flaticon.com/512/2798/2798007.png" ,TEXAScHAINSAW
 http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558784&extension=ts&tuyull@texasChainsawMovie
-#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,WALKING•DEAD•
+#EXTINF:-1  group-title="MOVIES" tvg-logo="https://cdn-icons-png.flaticon.com/512/2798/2798007.png" ,WALKINGDEAD
 http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=998171&extension=ts&tuyull@WalkingDeadMovie
-#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,FRIDAY•ELM•STREET•
+#EXTINF:-1  group-title="MOVIES" tvg-logo="https://cdn-icons-png.flaticon.com/512/2798/2798007.png" ,FRIDAYELMSTREET
 http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558791&extension=ts&tuyull@FridayOnElmStreetMovie
-#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,SCIFI•
+#EXTINF:-1  group-title="MOVIES" tvg-logo="https://cdn-icons-png.flaticon.com/512/2798/2798007.png" ,SCIFI
 http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558762&extension=ts&tuyull@ScifiMovie
-#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,ENGLISH•_01
+#EXTINF:-1  group-title="MOVIES" tvg-logo="https://cdn-icons-png.flaticon.com/512/2798/2798007.png" ,ENGLISH_01
 http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558930&extension=ts&tuyull@EnglishMovie1
-#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,ENGLISH•_02
+#EXTINF:-1  group-title="MOVIES" tvg-logo="https://cdn-icons-png.flaticon.com/512/2798/2798007.png" ,ENGLISH_02
 http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558796&extension=ts&tuyull@EnglishMovie2
-#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,ENGLISH•_03
+#EXTINF:-1  group-title="MOVIES" tvg-logo="https://cdn-icons-png.flaticon.com/512/2798/2798007.png" ,ENGLISH_03
 http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558933&extension=ts&tuyull@EnglishMovie3
-#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,ARNOLD•_SWA9G•
+#EXTINF:-1  group-title="MOVIES" tvg-logo="https://cdn-icons-png.flaticon.com/512/2798/2798007.png" ,ARNOLD_SWA9G
 http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=534117&extension=ts&tuyull@ArnoldMovie
-#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,Harry.potter
+#EXTINF:-1  group-title="MOVIES" tvg-logo="https://cdn-icons-png.flaticon.com/512/2798/2798007.png" ,Harry.potter
 http://tuyuull@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=100029&extension=ts&play_token=tuyull.ts
-#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,Home.Alone
+#EXTINF:-1  group-title="MOVIES" tvg-logo="https://cdn-icons-png.flaticon.com/512/2798/2798007.png" ,Home.Alone
 http://tuyuull@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=99436&extension=ts&play_token=tuyull.ts
-#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,John.Wick.fhd
+#EXTINF:-1  group-title="MOVIES" tvg-logo="https://cdn-icons-png.flaticon.com/512/2798/2798007.png" ,John.Wick.fhd
 http://tuyuull@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=99483&extension=ts&play_token=tuyull.ts
-#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,Pirates.of.Csribbean
+#EXTINF:-1  group-title="MOVIES" tvg-logo="https://cdn-icons-png.flaticon.com/512/2798/2798007.png" ,Pirates.of.Csribbean
 http://tuyuull@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=100026&extension=ts&play_token=tuyull.ts
-#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,T.Hobbit
+#EXTINF:-1  group-title="MOVIES" tvg-logo="https://cdn-icons-png.flaticon.com/512/2798/2798007.png" ,T.Hobbit
 http://tuyuull@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=100138&extension=ts&play_token=tuyull.ts
-#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,Jason.Staham
+#EXTINF:-1  group-title="MOVIES" tvg-logo="https://cdn-icons-png.flaticon.com/512/2798/2798007.png" ,Jason.Staham
 http://tuyuull@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=111152&extension=ts&play_token=tuyull.ts
-#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,Jacky.Chan
+#EXTINF:-1  group-title="MOVIES" tvg-logo="https://cdn-icons-png.flaticon.com/512/2798/2798007.png" ,Jacky.Chan
 http://tuyuull@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=111151&extension=ts&play_token=tuyull.ts
-#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,Jim.Carrer_1
+#EXTINF:-1  group-title="MOVIES" tvg-logo="https://cdn-icons-png.flaticon.com/512/2798/2798007.png" ,Jim.Carrer_1
 http://tuyuull@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=111153&extension=ts&play_token=tuyull.ts
-#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,Jim.carrer_2
+#EXTINF:-1  group-title="MOVIES" tvg-logo="https://cdn-icons-png.flaticon.com/512/2798/2798007.png" ,Jim.carrer_2
 http://tuyuull@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=111155&extension=ts&play_token=tuyull.ts
-#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,Johny.deep
+#EXTINF:-1  group-title="MOVIES" tvg-logo="https://cdn-icons-png.flaticon.com/512/2798/2798007.png" ,Johny.deep
 http://tuyuull@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=111154&extension=ts&play_token=tuyull.ts
-#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,T.Lord.of.T.Rings
+#EXTINF:-1  group-title="MOVIES" tvg-logo="https://cdn-icons-png.flaticon.com/512/2798/2798007.png" ,T.Lord.of.T.Rings
 http://tuyuull@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=100028&extension=ts&play_token=tuyull.ts
-#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,Mel.Gibson
+#EXTINF:-1  group-title="MOVIES" tvg-logo="https://cdn-icons-png.flaticon.com/512/2798/2798007.png" ,Mel.Gibson
 http://tuyuull@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=111156&extension=ts&play_token=tuyull.ts
-#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,Nicholas.Cage
+#EXTINF:-1  group-title="MOVIES" tvg-logo="https://cdn-icons-png.flaticon.com/512/2798/2798007.png" ,Nicholas.Cage
 http://tuyuull@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=111158&extension=ts&play_token=tuyull.ts
-#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,Silvester.Stallone
+#EXTINF:-1  group-title="MOVIES" tvg-logo="https://cdn-icons-png.flaticon.com/512/2798/2798007.png" ,Silvester.Stallone
 http://tuyuull@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=111143&extension=ts&play_token=tuyull.ts
-#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,Tom.Cruise
+#EXTINF:-1  group-title="MOVIES" tvg-logo="https://cdn-icons-png.flaticon.com/512/2798/2798007.png" ,Tom.Cruise
 http://tuyuull@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=111160&extension=ts&play_token=tuyull.ts
-#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,Van.Damme
+#EXTINF:-1  group-title="MOVIES" tvg-logo="https://cdn-icons-png.flaticon.com/512/2798/2798007.png" ,Van.Damme
 http://tuyuull@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=111161&extension=ts&play_token=tuyull.ts
-#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,Vin.Diesel
+#EXTINF:-1  group-title="MOVIES" tvg-logo="https://cdn-icons-png.flaticon.com/512/2798/2798007.png" ,Vin.Diesel
 http://tuyuull@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=111162&extension=ts&play_token=tuyull.ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
