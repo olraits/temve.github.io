@@ -325,6 +325,28 @@ http://goldentv.tech:25461/lauren/lauren/24993
 http://goldentv.tech:25461/lauren/lauren/24991
 #EXTINF:-1 group-title="MOVIESFREEE" tvg-logo="https://cdn-icons-png.flaticon.com/512/2798/2798007.png",AVA FAM IR
 https://familyhls.avatv.live/hls/stream.m3u8
+#EXTINF:-1 group-title="MOVIESFREEE" tvg-logo="https://cdn-icons-png.flaticon.com/512/2798/2798007.png",S.PIX IND
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+#EXTINF:-1 group-title="MOVIESFREEE" tvg-logo="https://cdn-icons-png.flaticon.com/512/2798/2798007.png",NEW DRAKOR FILM
+https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8
+#EXTINF:-1 group-title="MOVIESFREEE" tvg-logo="https://cdn-icons-png.flaticon.com/512/2798/2798007.png",LOTUS CINE TW
+http://anren.live/HK/BiIOU11uLA.m3u8
+#EXTINF:-1 group-title="MOVIESFREEE" tvg-logo="https://cdn-icons-png.flaticon.com/512/2798/2798007.png",IMC 
+https://av-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
+#EXTINF:-1 group-title="MOVIESFREEE" tvg-logo="https://cdn-icons-png.flaticon.com/512/2798/2798007.png",TNT US
+http://208.86.19.13:81/16.stream/index.m3u8
+#EXTINF:-1 group-title="MOVIESFREEE" tvg-logo="https://cdn-icons-png.flaticon.com/512/2798/2798007.png",FLIK ID
+http://goldentv.tech:25461/lauren/lauren/25980
+#EXTINF:-1 group-title="MOVIESFREEE" tvg-logo="https://cdn-icons-png.flaticon.com/512/2798/2798007.png",TEST 1
+http://goldentv.tech:25461/lauren/lauren/39598
+#EXTINF:-1 group-title="MOVIESFREEE" tvg-logo="https://cdn-icons-png.flaticon.com/512/2798/2798007.png",TEST 2
+https://donelfantastic.github.io/creativemedia/hls/asp3cmedia.m3u8
+#EXTINF:-1 group-title="MOVIESFREEE" tvg-logo="https://cdn-icons-png.flaticon.com/512/2798/2798007.png",TEST 3
+http://goldentv.tech:25461/lauren/lauren/39478
+#EXTINF:-1 group-title="MOVIESFREEE" tvg-logo="https://cdn-icons-png.flaticon.com/512/2798/2798007.png",TEST IV
+http://goldentv.tech:25461/lauren/lauren/39479
+#EXTINF:-1 group-title="MOVIESFREEE" tvg-logo="https://cdn-icons-png.flaticon.com/512/2798/2798007.png",TEST V
+http://goldentv.tech:25461/lauren/lauren/39480
 
 #EXTINF:-1  group-title="MOVIES24/7" tvg-logo="https://cdn-icons-png.flaticon.com/512/2798/2798007.png" ,Wrestling
 http://tuyuull@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=331467&extension=ts&play_token=tuyull.ts
