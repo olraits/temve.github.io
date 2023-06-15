@@ -1,100 +1,6 @@
 #EXTM3U
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id.xml"
 #EXTM3U
-#EXTINF:-1  group-title="MOVIES23" tvg-logo="" ,Wrestling
-http://tuyuull@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=331467&extension=ts&play_token=tuyull.ts
-#EXTINF:-1  group-title="MOVIES23" tvg-logo="" ,BRUCE•LEE•
-http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558763&extension=ts&tuyull@BruceleeMovie
-#EXTINF:-1  group-title="MOVIES23" tvg-logo="" ,RAMBO•
-http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558774&extension=ts&tuyull@RamboMovie
-#EXTINF:-1  group-title="MOVIES23" tvg-logo="" ,MR•BEAN•
-http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558931&extension=ts&tuyull@MrBeanMovie
-#EXTINF:-1  group-title="MOVIES23" tvg-logo="" ,007•
-http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558789&extension=ts&tuyull@JamesBond007Movie
-#EXTINF:-1  group-title="MOVIES23" tvg-logo="" ,MARVEL•01•
-http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=924731&extension=ts&tuyull@Marvel01Movie
-#EXTINF:-1  group-title="MOVIES23" tvg-logo="" ,MARVEL•02•
-http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=924732&extension=ts&tuyull@Marvel02Movie
-#EXTINF:-1  group-title="MOVIES23" tvg-logo="" ,MARVEL•03•
-http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=924733&extension=ts&tuyull@Marvel03Movie
-#EXTINF:-1  group-title="MOVIES23" tvg-logo="" ,MARVEL•04•
-http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=924734&extension=ts&tuyull@Marvel04Movie
-#EXTINF:-1  group-title="MOVIES23" tvg-logo="" ,FAST&FURY•
-http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=924701&extension=ts&tuyull@Fast@FuryMovie
-#EXTINF:-1  group-title="MOVIES23" tvg-logo="" ,SCREAM•
-http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=914930&extension=ts&tuyull@ScreamMovie
-#EXTINF:-1  group-title="MOVIES23" tvg-logo="" ,MIKE•TYSON•
-http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=1207319&extension=ts&tuyull@MikeTysonMovie
-#EXTINF:-1  group-title="MOVIES23" tvg-logo="" ,ALIEN|PREDATOR•
-http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558776&extension=ts&tuyull@AlienPredator
-#EXTINF:-1  group-title="MOVIES23" tvg-logo="" ,HORROR•
-http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558784&extension=ts&tuyull@HorrorMovie
-#EXTINF:-1  group-title="MOVIES23" tvg-logo="" ,ROMAMCE•
-http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558772&extension=ts&tuyull@RomanceMovie
-#EXTINF:-1  group-title="MOVIES23" tvg-logo="" ,ACTION•
-http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558770&extension=ts&tuyull@ActionMovie
-#EXTINF:-1  group-title="MOVIES23" tvg-logo="" ,SPORTS•
-http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558768&extension=ts&tuyull@SportsMovie
-#EXTINF:-1  group-title="MOVIES23" tvg-logo="" ,SUPER•HEROES•
-http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558765&extension=ts&tuyull@SuperHeroesMovie
-#EXTINF:-1  group-title="MOVIES23" tvg-logo="" ,BATMAN•
-http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=534118&extension=ts&tuyull@BatmanMovie
-#EXTINF:-1  group-title="MOVIES23" tvg-logo="" ,PLANET•OF•APES•MOVIE
-http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558777&extension=ts&tuyull@planetOfApesMovie
-#EXTINF:-1  group-title="MOVIES23" tvg-logo="" ,THRILLER•
-http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558779&extension=ts&tuyull@ThrillMovie
-#EXTINF:-1  group-title="MOVIES23" tvg-logo="" ,MATRIX•
-http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558781&extension=ts&tuyull@MatrixMovie
-#EXTINF:-1  group-title="MOVIES23" tvg-logo="" ,TEXAS•CHAINSAW•
-http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558784&extension=ts&tuyull@texasChainsawMovie
-#EXTINF:-1  group-title="MOVIES23" tvg-logo="" ,WALKING•DEAD•
-http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=998171&extension=ts&tuyull@WalkingDeadMovie
-#EXTINF:-1  group-title="MOVIES23" tvg-logo="" ,FRIDAY•ELM•STREET•
-http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558791&extension=ts&tuyull@FridayOnElmStreetMovie
-#EXTINF:-1  group-title="MOVIES23" tvg-logo="" ,SCIFI•
-http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558762&extension=ts&tuyull@ScifiMovie
-#EXTINF:-1  group-title="MOVIES23" tvg-logo="" ,ENGLISH•_01
-http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558930&extension=ts&tuyull@EnglishMovie1
-#EXTINF:-1  group-title="MOVIES23" tvg-logo="" ,ENGLISH•_02
-http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558796&extension=ts&tuyull@EnglishMovie2
-#EXTINF:-1  group-title="MOVIES23" tvg-logo="" ,ENGLISH•_03
-http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558933&extension=ts&tuyull@EnglishMovie3
-#EXTINF:-1  group-title="MOVIES23" tvg-logo="" ,ARNOLD•_SWA9G•
-http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=534117&extension=ts&tuyull@ArnoldMovie
-#EXTINF:-1  group-title="MOVIES23" tvg-logo="" ,Harry.potter
-http://tuyuull@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=100029&extension=ts&play_token=tuyull.ts
-#EXTINF:-1  group-title="MOVIES23" tvg-logo="" ,Home.Alone
-http://tuyuull@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=99436&extension=ts&play_token=tuyull.ts
-#EXTINF:-1  group-title="MOVIES23" tvg-logo="" ,John.Wick.fhd
-http://tuyuull@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=99483&extension=ts&play_token=tuyull.ts
-#EXTINF:-1  group-title="MOVIES23" tvg-logo="" ,Pirates.of.Csribbean
-http://tuyuull@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=100026&extension=ts&play_token=tuyull.ts
-#EXTINF:-1  group-title="MOVIES23" tvg-logo="" ,T.Hobbit
-http://tuyuull@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=100138&extension=ts&play_token=tuyull.ts
-#EXTINF:-1  group-title="MOVIES23" tvg-logo="" ,Jason.Staham
-http://tuyuull@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=111152&extension=ts&play_token=tuyull.ts
-#EXTINF:-1  group-title="MOVIES23" tvg-logo="" ,Jacky.Chan
-http://tuyuull@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=111151&extension=ts&play_token=tuyull.ts
-#EXTINF:-1  group-title="MOVIES23" tvg-logo="" ,Jim.Carrer_1
-http://tuyuull@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=111153&extension=ts&play_token=tuyull.ts
-#EXTINF:-1  group-title="MOVIES23" tvg-logo="" ,Jim.carrer_2
-http://tuyuull@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=111155&extension=ts&play_token=tuyull.ts
-#EXTINF:-1  group-title="MOVIES23" tvg-logo="" ,Johny.deep
-http://tuyuull@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=111154&extension=ts&play_token=tuyull.ts
-#EXTINF:-1  group-title="MOVIES23" tvg-logo="" ,T.Lord.of.T.Rings
-http://tuyuull@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=100028&extension=ts&play_token=tuyull.ts
-#EXTINF:-1  group-title="MOVIES23" tvg-logo="" ,Mel.Gibson
-http://tuyuull@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=111156&extension=ts&play_token=tuyull.ts
-#EXTINF:-1  group-title="MOVIES23" tvg-logo="" ,Nicholas.Cage
-http://tuyuull@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=111158&extension=ts&play_token=tuyull.ts
-#EXTINF:-1  group-title="MOVIES23" tvg-logo="" ,Silvester.Stallone
-http://tuyuull@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=111143&extension=ts&play_token=tuyull.ts
-#EXTINF:-1  group-title="MOVIES23" tvg-logo="" ,Tom.Cruise
-http://tuyuull@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=111160&extension=ts&play_token=tuyull.ts
-#EXTINF:-1  group-title="MOVIES23" tvg-logo="" ,Van.Damme
-http://tuyuull@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=111161&extension=ts&play_token=tuyull.ts
-#EXTINF:-1  group-title="MOVIES23" tvg-logo="" ,Vin.Diesel
-http://tuyuull@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=111162&extension=ts&play_token=tuyull.ts
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/NSLcYJH/channel-80-modified.png",RCTI
@@ -406,7 +312,100 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=HD&ccode=JP&m=d0:20
 http://mn-nl.mncdn.com/blutv_play1/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/b31gzGv/BLUE-TV-2.png",BluTV Play 2
 http://mn-nl.mncdn.com/blutv_play2/live_720p2000000kbps/index.m3u8
-
+#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,Wrestling
+http://tuyuull@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=331467&extension=ts&play_token=tuyull.ts
+#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,BRUCE•LEE•
+http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558763&extension=ts&tuyull@BruceleeMovie
+#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,RAMBO•
+http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558774&extension=ts&tuyull@RamboMovie
+#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,MR•BEAN•
+http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558931&extension=ts&tuyull@MrBeanMovie
+#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,007•
+http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558789&extension=ts&tuyull@JamesBond007Movie
+#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,MARVEL•01•
+http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=924731&extension=ts&tuyull@Marvel01Movie
+#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,MARVEL•02•
+http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=924732&extension=ts&tuyull@Marvel02Movie
+#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,MARVEL•03•
+http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=924733&extension=ts&tuyull@Marvel03Movie
+#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,MARVEL•04•
+http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=924734&extension=ts&tuyull@Marvel04Movie
+#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,FAST&FURY•
+http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=924701&extension=ts&tuyull@Fast@FuryMovie
+#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,SCREAM•
+http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=914930&extension=ts&tuyull@ScreamMovie
+#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,MIKE•TYSON•
+http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=1207319&extension=ts&tuyull@MikeTysonMovie
+#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,ALIEN|PREDATOR•
+http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558776&extension=ts&tuyull@AlienPredator
+#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,HORROR•
+http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558784&extension=ts&tuyull@HorrorMovie
+#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,ROMAMCE•
+http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558772&extension=ts&tuyull@RomanceMovie
+#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,ACTION•
+http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558770&extension=ts&tuyull@ActionMovie
+#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,SPORTS•
+http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558768&extension=ts&tuyull@SportsMovie
+#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,SUPER•HEROES•
+http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558765&extension=ts&tuyull@SuperHeroesMovie
+#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,BATMAN•
+http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=534118&extension=ts&tuyull@BatmanMovie
+#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,PLANET•OF•APES•MOVIE
+http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558777&extension=ts&tuyull@planetOfApesMovie
+#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,THRILLER•
+http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558779&extension=ts&tuyull@ThrillMovie
+#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,MATRIX•
+http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558781&extension=ts&tuyull@MatrixMovie
+#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,TEXAS•CHAINSAW•
+http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558784&extension=ts&tuyull@texasChainsawMovie
+#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,WALKING•DEAD•
+http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=998171&extension=ts&tuyull@WalkingDeadMovie
+#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,FRIDAY•ELM•STREET•
+http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558791&extension=ts&tuyull@FridayOnElmStreetMovie
+#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,SCIFI•
+http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558762&extension=ts&tuyull@ScifiMovie
+#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,ENGLISH•_01
+http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558930&extension=ts&tuyull@EnglishMovie1
+#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,ENGLISH•_02
+http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558796&extension=ts&tuyull@EnglishMovie2
+#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,ENGLISH•_03
+http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=558933&extension=ts&tuyull@EnglishMovie3
+#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,ARNOLD•_SWA9G•
+http://tuyull@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=534117&extension=ts&tuyull@ArnoldMovie
+#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,Harry.potter
+http://tuyuull@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=100029&extension=ts&play_token=tuyull.ts
+#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,Home.Alone
+http://tuyuull@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=99436&extension=ts&play_token=tuyull.ts
+#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,John.Wick.fhd
+http://tuyuull@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=99483&extension=ts&play_token=tuyull.ts
+#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,Pirates.of.Csribbean
+http://tuyuull@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=100026&extension=ts&play_token=tuyull.ts
+#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,T.Hobbit
+http://tuyuull@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=100138&extension=ts&play_token=tuyull.ts
+#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,Jason.Staham
+http://tuyuull@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=111152&extension=ts&play_token=tuyull.ts
+#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,Jacky.Chan
+http://tuyuull@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=111151&extension=ts&play_token=tuyull.ts
+#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,Jim.Carrer_1
+http://tuyuull@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=111153&extension=ts&play_token=tuyull.ts
+#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,Jim.carrer_2
+http://tuyuull@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=111155&extension=ts&play_token=tuyull.ts
+#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,Johny.deep
+http://tuyuull@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=111154&extension=ts&play_token=tuyull.ts
+#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,T.Lord.of.T.Rings
+http://tuyuull@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=100028&extension=ts&play_token=tuyull.ts
+#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,Mel.Gibson
+http://tuyuull@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=111156&extension=ts&play_token=tuyull.ts
+#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,Nicholas.Cage
+http://tuyuull@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=111158&extension=ts&play_token=tuyull.ts
+#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,Silvester.Stallone
+http://tuyuull@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=111143&extension=ts&play_token=tuyull.ts
+#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,Tom.Cruise
+http://tuyuull@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=111160&extension=ts&play_token=tuyull.ts
+#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,Van.Damme
+http://tuyuull@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=111161&extension=ts&play_token=tuyull.ts
+#EXTINF:-1  group-title="MOVIES" tvg-logo="" ,Vin.Diesel
+http://tuyuull@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=111162&extension=ts&play_token=tuyull.ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
