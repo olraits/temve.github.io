@@ -312,6 +312,9 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=HD&ccode=JP&m=d0:20
 http://mn-nl.mncdn.com/blutv_play1/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/b31gzGv/BLUE-TV-2.png",BluTV Play 2
 http://mn-nl.mncdn.com/blutv_play2/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 group-title="MOVIESFREEE" tvg-logo="https://cdn-icons-png.flaticon.com/512/2798/2798007.png",CINEMAX ID
+http://goldentv.tech:25461/lauren/lauren/26000
+
 #EXTINF:-1  group-title="MOVIES24/7" tvg-logo="https://cdn-icons-png.flaticon.com/512/2798/2798007.png" ,Wrestling
 http://tuyuull@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=331467&extension=ts&play_token=tuyull.ts
 #EXTINF:-1  group-title="MOVIES24/7" tvg-logo="https://cdn-icons-png.flaticon.com/512/2798/2798007.png" ,BRUCELEE
