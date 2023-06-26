@@ -1,4 +1,90 @@
 #EXTM3U
+#EXTINF:-1  tvg-logo="" group-title="layartancap23",LOTUS•mACAU_dec=auto
+http://nettvpro.live/hls/lotustv.php
+#EXTINF:-1 tvg-logo="" group-title="layartancap23",S.pix
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+#EXTINF:-1  tvg-logo="" group-title="layartancap23",Movies•Family8K
+http://myserveriptv.com:2082/7wOd6fH332c1/8Skfy98Fd74f/30718
+#EXTINF:-1  tvg-logo="" group-title="layartancap23",Movies•Blockbusters8K
+http://myserveriptv.com:2082/7wOd6fH332c1/8Skfy98Fd74f/27977
+#EXTINF:-1  tvg-logo="" group-title="layartancap23",Movies•Animation8K
+http://myserveriptv.com:2082/7wOd6fH332c1/8Skfy98Fd74f/159933
+#EXTINF:-1  tvg-logo="" group-title="layartancap23",Movies•Cult8K
+http://myserveriptv.com:2082/7wOd6fH332c1/8Skfy98Fd74f/159934
+#EXTINF:-1  tvg-logo="" group-title="layartancap23",Movies•Comedy8K
+http://myserveriptv.com:2082/7wOd6fH332c1/8Skfy98Fd74f/159937
+#EXTINF:-1  tvg-logo="" group-title="layartancap23",Movies•Classic8K
+http://myserveriptv.com:2082/7wOd6fH332c1/8Skfy98Fd74f/159923
+#EXTINF:-1  tvg-logo="" group-title="layartancap23",Movies•Greats8K
+http://myserveriptv.com:2082/7wOd6fH332c1/8Skfy98Fd74f/15517
+#EXTINF:-1  tvg-logo="" group-title="layartancap23",Movies•Greats•Two8K
+http://myserveriptv.com:2082/7wOd6fH332c1/8Skfy98Fd74f/16071
+#EXTINF:-1  tvg-logo="" group-title="layartancap23",Movies•Historical8K
+http://myserveriptv.com:2082/7wOd6fH332c1/8Skfy98Fd74f/16239
+#EXTINF:-1  tvg-logo="" group-title="layartancap23",Movies•Horror8K
+http://myserveriptv.com:2082/7wOd6fH332c1/8Skfy98Fd74f/16240
+#EXTINF:-1  tvg-logo="" group-title="layartancap23",Movies•Mystery8K
+http://myserveriptv.com:2082/7wOd6fH332c1/8Skfy98Fd74f/17657
+#EXTINF:-1  tvg-logo="" group-title="layartancap23",Movies•Premiere8K
+http://myserveriptv.com:2082/7wOd6fH332c1/8Skfy98Fd74f/18116
+#EXTINF:-1  tvg-logo="" group-title="layartancap23",Movies•Romance8K
+http://myserveriptv.com:2082/7wOd6fH332c1/8Skfy98Fd74f/20979
+#EXTINF:-1  tvg-logo="" group-title="layartancap23",Movies•Sci-Fi8K
+http://myserveriptv.com:2082/7wOd6fH332c1/8Skfy98Fd74f/20981
+#EXTINF:-1  tvg-logo="" group-title="layartancap23",Movies•Western8K
+http://myserveriptv.com:2082/7wOd6fH332c1/8Skfy98Fd74f/27584
+#EXTINF:-1  tvg-logo="" group-title="layartancap23",Movies•Hits8K
+http://myserveriptv.com:2082/7wOd6fH332c1/8Skfy98Fd74f/27591
+#EXTINF:-1  tvg-logo="" group-title="layartancap23",Movies•Thriller8K
+http://myserveriptv.com:2082/7wOd6fH332c1/8Skfy98Fd74f/27599
+#EXTINF:-1  tvg-logo="" group-title="layartancap23",Fox•Movies
+http://shareext@line.linedigitaltv.com/play/live.php?mac=00:1A:79:BF:F1:21&stream=1141571&extension=ts&shareext@FoxMovies
+#EXTINF:-1  tvg-logo="" group-title="layartancap23",Fox•Action•Movies_arb
+@@ -1693,6 +1776,18 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
+https://stream.ads.ottera.tv/cl/29fmbD4wgol0FelXaMeAw/854x480_550000_3_f.m3u8
+
+#EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="Astro Supersports 1 MY" tvg-logo="" group-title="Asian Sport",A.•Supersports 1
+http://45.12.1.14:80/7JvIck488/meAqNw5218/23453
+#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="Astro Supersports 2 MY" tvg-logo="" group-title="Asian Sport",A•Supersports 2 
+http://45.12.1.14:80/7JvIck488/meAqNw5218/23452
+#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="Astro Supersports 3 MY" tvg-logo="" group-title="Asian Sport",A•Supersports 3 
+http://45.12.1.14:80/7JvIck488/meAqNw5218/23451
+#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="Astro Supersports 4 MY" tvg-logo="" group-title="Asian Sport",A•Supersports 4 
+http://45.12.1.14:80/7JvIck488/meAqNw5218/33973
+#EXTINF:-1  tvg-logo="" group-title="layartancap23",HBO--ID
+http://kuchini.site:8080/ace2524d/e0749dc935/197972
+#EXTINF:-1  tvg-logo="" group-title="layartancap23",HBO Family--ID
+http://kuchini.site:8080/ace2524d/e0749dc935/197055
+#EXTINF:-1  tvg-logo="" group-title="layartancap23",HBO Hits--ID
+http://kuchini.site:8080/ace2524d/e0749dc935/196480
+#EXTINF:-1  tvg-logo="" group-title="layartancap23",HBO Signature--ID
+http://kuchini.site:8080/ace2524d/e0749dc935/221948
+#EXTINF:-1  tvg-logo="" group-title="layartancap23",Galaxy--ID
+http://kuchini.site:8080/ace2524d/e0749dc935/264773
+#EXTINF:-1  tvg-logo="" group-title="layartancap23",Galaxy Premium--ID
+http://kuchini.site:8080/ace2524d/e0749dc935/264774
+#EXTINF:-1  tvg-logo="" group-title="layartancap23",My Cinema--ID
+http://kuchini.site:8080/ace2524d/e0749dc935/298553
+#EXTINF:-1  tvg-logo="" group-title="layartancap23",My Cinema Asia--ID
+http://kuchini.site:8080/ace2524d/e0749dc935/298554
+#EXTINF:-1  tvg-logo="" group-title="layartancap23",My Family--ID
+http://kuchini.site:8080/ace2524d/e0749dc935/298555
+#EXTINF:-1  tvg-logo="" group-title="layartancap23",My Kidz--ID
+http://kuchini.site:8080/ace2524d/e0749dc935/298556
+#EXTINF:-1  tvg-logo="" group-title="layartancap23",Rock Action--ID
+http://kuchini.site:8080/ace2524d/e0749dc935/298490
+#EXTINF:-1  tvg-logo="" group-title="layartancap23",Rock Entertaiment--ID
+http://kuchini.site:8080/ace2524d/e0749dc935/298565
+#EXTINF:-1  tvg-logo="" group-title="layartancap23",Rock Extreme--ID
+http://kuchini.site:8080/ace2524d/e0749dc935/298566
+#EXTINF:-1  tvg-logo="" group-title="layartancap23",Thrill--ID
+http://kuchini.site:8080/ace2524d/e0749dc935/157580
+#EXTINF:-1  tvg-logo="" group-title="layartancap23",AXN--ID
+http://kuchini.site:8080/ace2524d/e0749dc935/165079
+#EXTINF:-1  tvg-logo="" group-title="layartancap23",Hits--ID
+http://kuchini.site:8080/ace2524d/e0749dc935/165085
+#EXTINF:-1  tvg-logo="" group-title="layartancap23",Hits Movies--ID
+http://kuchini.site:8080/ace2524d/e0749dc935/221947
 #EXTINF:-1  tvg-logo="" group-title="MOVIES",Wrestling.AON
 http://tuyuull@portal.zebratv.one/play/live.php?mac=10:27:BE:2D:93:E2&stream=331467&extension=ts&play_token=tuyull.ts
 #EXTINF:-1  tvg-logo="" group-title="MOVIES",BRUCE•LEE•_PILEM
