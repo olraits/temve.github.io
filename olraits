@@ -1,4 +1,44 @@
 #EXTM3U
+#EXTINF:-1  tvg-logo="" group-title="freeteveee",ANTV _freeee
+http://103.166.27.2:800/play/a01g
+#EXTINF:-1  tvg-logo="" group-title="freeteveee",INDOSIAR _freeee
+http://103.166.27.2:800/play/a016
+#EXTINF:-1  tvg-logo="" group-title="freeteveee",MENTARI _freeee
+http://103.166.27.2:800/play/a018
+#EXTINF:-1  tvg-logo="" group-title="freeteveee",MOJI _freeee
+http://103.166.27.2:800/play/a017
+#EXTINF:-1  tvg-logo="" group-title="freeteveee",SCTV _freeee
+http://103.166.27.2:800/play/a015
+#EXTINF:-1  tvg-logo="" group-title="freeteveee",TRANS 7 _freeee
+http://103.166.27.2:800/play/a01c
+#EXTINF:-1  tvg-logo="" group-title="freeteveee",TRANS TV _freeee
+http://103.166.27.2:800/play/a01b
+#EXTINF:-1  tvg-logo="" group-title="freeteveee",Aswaja TV_p_dec=auto
+http://103.166.27.2:800/play/a020
+#EXTINF:-1  tvg-logo="" group-title="freeteveee",CNBC INDONESIA _freeee
+http://103.166.27.2:800/play/a01e
+#EXTINF:-1  tvg-logo="" group-title="freeteveee",CNN INDONESIA _freeee
+http://103.166.27.2:800/play/a01d
+#EXTINF:-1  tvg-logo="" group-title="freeteveee",DREAMWORKS_p_dec=auto
+http://103.166.27.2:800/play/a027
+#EXTINF:-1  tvg-logo="" group-title="freeteveee",Dangdut Tivi_p_dec=auto
+http://103.166.27.2:800/play/a01x
+#EXTINF:-1  tvg-logo="" group-title="freeteveee",Hadi TV_freee
+http://103.166.27.2:800/play/a01v
+#EXTINF:-1  tvg-logo="" group-title="freeteveee",JTV_free
+http://103.166.27.2:800/play/a01s
+#EXTINF:-1  tvg-logo="" group-title="freeteveee",KOMPASTV _freeee
+http://103.166.27.2:800/play/a019
+#EXTINF:-1  tvg-logo="" group-title="freeteveee",LAGU TV_freeee
+http://103.166.27.2:800/play/a01u
+#EXTINF:-1  tvg-logo="" group-title="freeteveee",Madu TV Nusantara_freeeee
+http://103.166.27.2:800/play/a01y
+#EXTINF:-1  tvg-logo="" group-title="freeteveee",PARAMOUNT NETWORK_freeee
+http://103.166.27.2:800/play/a02a
+#EXTINF:-1  tvg-logo="" group-title="freeteveee",RuaiTV_freeeeee
+http://103.166.27.2:800/play/a01w
+#EXTINF:-1  tvg-logo="" group-title="freeteveee",TV Tabalong_freeeeee
+http://103.166.27.2:800/play/a01z
 #EXTINF:-1   tvg-logo="" group-title="popkorn",Hidden_strike_2023_decoder=hardware
 https://www.nonton168.com/movies/desember2022/Hidden.Strike.2023.720p.WEBRip.x264.AAC-[YTS.MX].mp4
 #EXTINF:-1   tvg-logo="" group-title="popkorn",ShangChi_2021_hk_decoder=hardware
