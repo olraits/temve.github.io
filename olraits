@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1  tvg-logo="" group-title="guaratizteve",soccer•channelvreee
+https://maper.info/SoccerChannel_shareext
+#EXTINF:-1  tvg-logo="" group-title="guaratizteve",inewsvreee
+https://maper.info/INEWS_shareext
+#EXTINF:-1  tvg-logo="" group-title="guaratizteve",spotvvreee
+https://maper.info/SPOTV_shareext
+#EXTINF:-1  tvg-logo="" group-title="guaratizteve",sportstar•2vreee
+https://maper.info/SportStart2_shareext
+#EXTINF:-1  tvg-logo="" group-title="guaratizteve",sportstar•3vreee
+https://maper.info/StarSport3_shareext
+#EXTINF:-1  tvg-logo="" group-title="guaratizteve",Astro•Arena_vreee
+https://maper.info/Arena1_shareext
+#EXTINF:-1  tvg-logo="" group-title="guaratizteve",Astro•Arena2_vreee
+https://maper.info/Arena2_shareext
+#EXTINF:-1  tvg-logo="" group-title="guaratizteve",Okeyvreee
+https://maper.info/OKEY_shareext
+#EXTINF:-1  tvg-logo="" group-title="guaratizteve",Rtm_Sukanvreee
+https://maper.info/Rtm_Sukan_shareext
 #EXTINF:-1  tvg-logo="" group-title="freeteveee",ANTV _freeee
 http://103.166.27.2:800/play/a01g
 #EXTINF:-1  tvg-logo="" group-title="freeteveee",INDOSIAR _freeee
